@@ -37,13 +37,13 @@
 
   for (var bookname in bookdata) {
     console.log("Book " + bookname + " has " + bookdata[bookname] + " chapters");
-    $( "#books" ).append( "<a class='bookname' href='#' onclick='openChaptersView()'>" + bookname + "</a>");
+    $( "#books" ).append( "<a class='bookname' id='" + bookname + "' onclick='openChaptersView()'>" + bookname + "</a>");
   }
 
   function displayChapters(bookname) {
     $("a").remove('.chapter');
     for (var i = 1; i <= bookdata[bookname]; i++) { 
-      $("#chapters").append( "<a class='chapter' href='#' onclick='openVersesView()'>" + i + "</a>");
+      $("#chapters").append( "<a class='chapter' onclick='openVersesView()'>" + i + "</a>");
     }
   }
 
@@ -55,6 +55,7 @@
 
   $('body').on('click', '.chapter', function(e) {
     var chapter = $(e.target).text();
+    window.location.hash = selectedBook + '-' + chapter;
     getChapterFromEsv(selectedBook, chapter);
   });
 

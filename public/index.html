@@ -3,9 +3,10 @@
 <head>
     <meta charset="utf-8" />
     <title>MyBibleStats</title>
+    <link rel="stylesheet" type="text/css" href="esv.css">
 </head>
 <body>
-    <div id="chapter-box">
+    <div id="bible-content">
         MyText
     </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
@@ -36,13 +37,11 @@
         })
     }
 
-
-
-
     function displayChapter(html) {
-        $("#chapter-box").html(html['passages']);
+        $("#bible-content").html(html['passages']);
     }
-    getChapterFromEsv("Genesis", 5);
+
+    getChapterFromEsv("Proverbs", 8);
   
 </script>
 

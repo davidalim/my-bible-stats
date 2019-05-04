@@ -4,91 +4,60 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
 <script type="text/javascript" src="sidenav.js"></script>
+<script type="text/javascript" src="verses.js"></script>
+<script type="text/javascript" src="bookdata.js"></script>
+<script type="application/json" class="js-hypothesis-config">
+  {
+    "theme": "clean"
+  }
+</script>
+<script src="https://hypothes.is/embed.js" async></script>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="esv.css">
 <link rel="stylesheet" type="text/css" href="sidenav.css">
 </head>
 
 <body>
 <div id="books" class="sidenav container">
-<!-- <a id="booksCloseButtons" href="javascript:void(0)" class="closebtn" onclick="closeBooksView()">&times;</a> -->
-    <a href="#" onclick="openChaptersView()">Genesis</a>
-    <a href="#" onclick="openChaptersView()">Exodus</a>
-    <a href="#" onclick="openChaptersView()">Leviticus</a>
-    <a href="#" onclick="openChaptersView()">Numbers</a>
-    <a href="#" onclick="openChaptersView()">Deuteronomy</a>
-    <a href="#" onclick="openChaptersView()">Joshua</a>
-    <a href="#" onclick="openChaptersView()">Judges</a>
-    <a href="#" onclick="openChaptersView()">Ruth</a>
-    <a href="#" onclick="openChaptersView()">1 Samuel</a>
-    <a href="#" onclick="openChaptersView()">2 Samuel</a>
-    <a href="#" onclick="openChaptersView()">1 Kings</a>
-    <a href="#" onclick="openChaptersView()">2 Kings</a>
-    <a href="#" onclick="openChaptersView()">1 Chronicles</a>
-    <a href="#" onclick="openChaptersView()">2 Chronicles</a>
-    <a href="#" onclick="openChaptersView()">Ezra</a>
-    <a href="#" onclick="openChaptersView()">Nehemiah</a>
-    <a href="#" onclick="openChaptersView()">Esther</a>
-    <a href="#" onclick="openChaptersView()">Job</a>
-    <a href="#" onclick="openChaptersView()">Psalms</a>
-    <a href="#" onclick="openChaptersView()">Proverbs</a>
-    <a href="#" onclick="openChaptersView()">Ecclesiastes</a>
-    <a href="#" onclick="openChaptersView()">Song of Solomon</a>
-    <a href="#" onclick="openChaptersView()">Isaiah</a>
-    <a href="#" onclick="openChaptersView()">Jeremiah</a>
-    <a href="#" onclick="openChaptersView()">Lamentations</a>
-    <a href="#" onclick="openChaptersView()">Ezekiel</a>
-    <a href="#" onclick="openChaptersView()">Daniel</a>
-    <a href="#" onclick="openChaptersView()">Hosea</a>
-    <a href="#" onclick="openChaptersView()">Joel</a>
-    <a href="#" onclick="openChaptersView()">Amos</a>
-    <a href="#" onclick="openChaptersView()">Obadiah</a>
-    <a href="#" onclick="openChaptersView()">Jonah</a>
-    <a href="#" onclick="openChaptersView()">Micah</a>
-    <a href="#" onclick="openChaptersView()">Nahum</a>
-    <a href="#" onclick="openChaptersView()">Habakkuk</a>
-    <a href="#" onclick="openChaptersView()">Zephaniah</a>
-    <a href="#" onclick="openChaptersView()">Haggai</a>
-    <a href="#" onclick="openChaptersView()">Zechariah</a>
-    <a href="#" onclick="openChaptersView()">Malachi</a>
-    <a href="#" onclick="openChaptersView()">Matthew</a>
-    <a href="#" onclick="openChaptersView()">Mark</a>
-    <a href="#" onclick="openChaptersView()">Luke</a>
-    <a href="#" onclick="openChaptersView()">John</a>
-    <a href="#" onclick="openChaptersView()">Acts</a>
-    <a href="#" onclick="openChaptersView()">Romans</a>
-    <a href="#" onclick="openChaptersView()">1 Corinthians</a>
-    <a href="#" onclick="openChaptersView()">2 Corinthians</a>
-    <a href="#" onclick="openChaptersView()">Galatians</a>
-    <a href="#" onclick="openChaptersView()">Ephesians</a>
-    <a href="#" onclick="openChaptersView()">Philippians</a>
-    <a href="#" onclick="openChaptersView()">Colossians</a>
-    <a href="#" onclick="openChaptersView()">1 Thessalonians</a>
-    <a href="#" onclick="openChaptersView()">2 Thessalonians</a>
-    <a href="#" onclick="openChaptersView()">1 Timothy</a>
-    <a href="#" onclick="openChaptersView()">2 Timothy</a>
-    <a href="#" onclick="openChaptersView()">Titus</a>
-    <a href="#" onclick="openChaptersView()">Philemon</a>
-    <a href="#" onclick="openChaptersView()">Hebrews</a>
-    <a href="#" onclick="openChaptersView()">James</a>
-    <a href="#" onclick="openChaptersView()">1 Peter</a>
-    <a href="#" onclick="openChaptersView()">2 Peter</a>
-    <a href="#" onclick="openChaptersView()">1 John</a>
-    <a href="#" onclick="openChaptersView()">2 John</a>
-    <a href="#" onclick="openChaptersView()">3 John</a>
-    <a href="#" onclick="openChaptersView()">Jude</a>
-    <a href="#" onclick="openChaptersView()">Revelation</a>
+
 </div>
 <div id="chapters" class="sidenav2 container">
     <a href="javascript:void(0)" class="closebtn" onclick="closeChaptersView()">&times;</a>
-    <a href="#" onclick="openVersesView()">1</a>
-    <a href="#" onclick="openVersesView()">2</a>
-    <a href="#" onclick="openVersesView()">3</a>
-    <a href="#" onclick="openVersesView()">4</a>
 </div>
 <div id="verses" class="sidenav3 container">
     <a href="javascript:void(0)" class="closebtn" onclick="closeVersesView()">&times;</a>
-    <p>Verses!</p>
+    <div id="bible-content">
+        Verses!
+    </div>
 </div>
+<script type="text/javascript">
+
+  var selectedBook = "";
+
+  for (var bookname in bookdata) {
+    console.log("Book " + bookname + " has " + bookdata[bookname] + " chapters");
+    $( "#books" ).append( "<a class='bookname' href='#' onclick='openChaptersView()'>" + bookname + "</a>");
+  }
+
+  $('body').on('click', '.bookname', function(e) {
+    var bookname = $(e.target).text();
+    selectedBook = bookname;
+    displayChapters(bookname);
+  });
+
+  function displayChapters(bookname) {
+    $("a").remove('.chapter');
+    for (var i = 1; i <= bookdata[bookname]; i++) { 
+      $("#chapters").append( "<a class='chapter' href='#' onclick='openVersesView()'>" + i + "</a>");
+    }
+  }
+
+  $('body').on('click', '.chapter', function(e) {
+    var chapter = $(e.target).text();
+    getChapterFromEsv(selectedBook, chapter);
+  });
+
+</script>
 </body>
 </html> 

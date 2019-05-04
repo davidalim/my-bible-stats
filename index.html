@@ -1,22 +1,43 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<script>
+function openChaptersView() {
+    document.getElementById("books").style.width = "50%";
+    document.getElementById("chapters").style.width = "50%";
+}
+function openBooksView() {
+    document.getElementById("books").style.width = "100%";
+}
+function closeBooksView() {
+    document.getElementById("books").style.width = "0";
+
+}
+function closeChaptersView() {
+    document.getElementById("chapters").style.width = "0";
+    openBooksView();
+}
+</script>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
   font-family: "Lato", sans-serif;
+  background: #111;
 }
 
 .sidenav {
   height: 100%;
-  width: 0;
+  width: 100%;
   position: fixed;
   z-index: 1;
   top: 0%;
   left: 0%;
   background-color: #111;
   overflow-x: hidden;
-  transition: 0.5s;
+  transition: 1s;
   padding-top: 60px;
   text-align:center;
 }
@@ -24,12 +45,12 @@ body {
   height: 100%;
   width: 0;
   position: fixed;
-  z-index: 1;
+  z-index: 0;
   top: 0%;
   left: 50%;
   background-color: #111;
   overflow-x: hidden;
-  transition: 0.5s;
+  transition: 1s;
   padding-top: 60px;
   text-align:center;
 }
@@ -41,7 +62,6 @@ body {
   color: #818181;
   display: block;
   transition: 0.3s;
-
 }
 
 .sidenav2 a {
@@ -51,7 +71,6 @@ body {
   color: #818181;
   display: block;
   transition: 0.3s;
-
 }
 
 .sidenav a:hover{
@@ -86,41 +105,21 @@ body {
 }
 </style>
 </head>
+
 <body>
-
 <div id="books" class="sidenav">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="#" onclick="openBook()">Genesis</a>
-  <a href="#" onclick="openBook()">Exodus</a>
-  <a href="#" onclick="openBook()">Leviticus</a>
-  <a href="#" onclick="openBook()">Numbers</a>
+  <!-- <a id="booksCloseButtons" href="javascript:void(0)" class="closebtn" onclick="closeBooksView()">&times;</a> -->
+  <a href="#" onclick="openChaptersView()">Genesis</a>
+  <a href="#" onclick="openChaptersView()">Exodus</a>
+  <a href="#" onclick="openChaptersView()">Leviticus</a>
+  <a href="#" onclick="openChaptersView()">Numbers</a>
 </div>
-
 <div id="chapters" class="sidenav2">
-    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <a href="javascript:void(0)" class="closebtn" onclick="closeChaptersView()">&times;</a>
     <a href="#">1</a>
     <a href="#">2</a>
     <a href="#">3</a>
     <a href="#">4</a>
-  </div>
-
-<h2>Animated Sidenav Example Full Width</h2>
-<p>Click on the element below to open the navigation menu.</p>
-<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
-
-<script>
-function openBook() {
-  document.getElementById("books").style.width = "50%";
-  document.getElementById("chapters").style.width = "50%";
-}
-function openNav() {
-  document.getElementById("books").style.width = "100%";
-}
-
-function closeNav() {
-  document.getElementById("books").style.width = "0";
-}
-</script>
-   
+</div>
 </body>
 </html> 

@@ -4,6 +4,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
 <script>
+    
 function openChaptersView() {
     document.getElementById("books").style.width = "50%";
     document.getElementById("chapters").style.width = "50%";
@@ -50,6 +51,25 @@ function minimizeBookChapterViews() {
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* IE 10+ */
+}
+html::-webkit-scrollbar { /* WebKit */
+    width: 0;
+    height: 0;
+}
+.container {
+    overflow-y: scroll;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* IE 10+ */
+}
+.container::-webkit-scrollbar { /* WebKit */
+    width: 0;
+    height: 0;
+}
 body {
   font-family: "Lato", sans-serif;
   background: #111;
@@ -169,25 +189,88 @@ body {
   .sidenav2 {padding-top: 15px;}
   .sidenav2 a {font-size: 18px;}
 }
+
 </style>
 </head>
 
 <body>
-<div id="books" class="sidenav">
-  <!-- <a id="booksCloseButtons" href="javascript:void(0)" class="closebtn" onclick="closeBooksView()">&times;</a> -->
-  <a href="#" onclick="openChaptersView()">Genesis</a>
-  <a href="#" onclick="openChaptersView()">Exodus</a>
-  <a href="#" onclick="openChaptersView()">Leviticus</a>
-  <a href="#" onclick="openChaptersView()">Numbers</a>
+<div id="books" class="sidenav container">
+<!-- <a id="booksCloseButtons" href="javascript:void(0)" class="closebtn" onclick="closeBooksView()">&times;</a> -->
+    <a href="#" onclick="openChaptersView()">Genesis</a>
+    <a href="#" onclick="openChaptersView()">Exodus</a>
+    <a href="#" onclick="openChaptersView()">Leviticus</a>
+    <a href="#" onclick="openChaptersView()">Numbers</a>
+    <a href="#" onclick="openChaptersView()">Deuteronomy</a>
+    <a href="#" onclick="openChaptersView()">Joshua</a>
+    <a href="#" onclick="openChaptersView()">Judges</a>
+    <a href="#" onclick="openChaptersView()">Ruth</a>
+    <a href="#" onclick="openChaptersView()">1 Samuel</a>
+    <a href="#" onclick="openChaptersView()">2 Samuel</a>
+    <a href="#" onclick="openChaptersView()">1 Kings</a>
+    <a href="#" onclick="openChaptersView()">2 Kings</a>
+    <a href="#" onclick="openChaptersView()">1 Chronicles</a>
+    <a href="#" onclick="openChaptersView()">2 Chronicles</a>
+    <a href="#" onclick="openChaptersView()">Ezra</a>
+    <a href="#" onclick="openChaptersView()">Nehemiah</a>
+    <a href="#" onclick="openChaptersView()">Esther</a>
+    <a href="#" onclick="openChaptersView()">Job</a>
+    <a href="#" onclick="openChaptersView()">Psalms</a>
+    <a href="#" onclick="openChaptersView()">Proverbs</a>
+    <a href="#" onclick="openChaptersView()">Ecclesiastes</a>
+    <a href="#" onclick="openChaptersView()">Song of Solomon</a>
+    <a href="#" onclick="openChaptersView()">Isaiah</a>
+    <a href="#" onclick="openChaptersView()">Jeremiah</a>
+    <a href="#" onclick="openChaptersView()">Lamentations</a>
+    <a href="#" onclick="openChaptersView()">Ezekiel</a>
+    <a href="#" onclick="openChaptersView()">Daniel</a>
+    <a href="#" onclick="openChaptersView()">Hosea</a>
+    <a href="#" onclick="openChaptersView()">Joel</a>
+    <a href="#" onclick="openChaptersView()">Amos</a>
+    <a href="#" onclick="openChaptersView()">Obadiah</a>
+    <a href="#" onclick="openChaptersView()">Jonah</a>
+    <a href="#" onclick="openChaptersView()">Micah</a>
+    <a href="#" onclick="openChaptersView()">Nahum</a>
+    <a href="#" onclick="openChaptersView()">Habakkuk</a>
+    <a href="#" onclick="openChaptersView()">Zephaniah</a>
+    <a href="#" onclick="openChaptersView()">Haggai</a>
+    <a href="#" onclick="openChaptersView()">Zechariah</a>
+    <a href="#" onclick="openChaptersView()">Malachi</a>
+    <a href="#" onclick="openChaptersView()">Matthew</a>
+    <a href="#" onclick="openChaptersView()">Mark</a>
+    <a href="#" onclick="openChaptersView()">Luke</a>
+    <a href="#" onclick="openChaptersView()">John</a>
+    <a href="#" onclick="openChaptersView()">Acts</a>
+    <a href="#" onclick="openChaptersView()">Romans</a>
+    <a href="#" onclick="openChaptersView()">1 Corinthians</a>
+    <a href="#" onclick="openChaptersView()">2 Corinthians</a>
+    <a href="#" onclick="openChaptersView()">Galatians</a>
+    <a href="#" onclick="openChaptersView()">Ephesians</a>
+    <a href="#" onclick="openChaptersView()">Philippians</a>
+    <a href="#" onclick="openChaptersView()">Colossians</a>
+    <a href="#" onclick="openChaptersView()">1 Thessalonians</a>
+    <a href="#" onclick="openChaptersView()">2 Thessalonians</a>
+    <a href="#" onclick="openChaptersView()">1 Timothy</a>
+    <a href="#" onclick="openChaptersView()">2 Timothy</a>
+    <a href="#" onclick="openChaptersView()">Titus</a>
+    <a href="#" onclick="openChaptersView()">Philemon</a>
+    <a href="#" onclick="openChaptersView()">Hebrews</a>
+    <a href="#" onclick="openChaptersView()">James</a>
+    <a href="#" onclick="openChaptersView()">1 Peter</a>
+    <a href="#" onclick="openChaptersView()">2 Peter</a>
+    <a href="#" onclick="openChaptersView()">1 John</a>
+    <a href="#" onclick="openChaptersView()">2 John</a>
+    <a href="#" onclick="openChaptersView()">3 John</a>
+    <a href="#" onclick="openChaptersView()">Jude</a>
+    <a href="#" onclick="openChaptersView()">Revelation</a>
 </div>
-<div id="chapters" class="sidenav2">
+<div id="chapters" class="sidenav2 container">
     <a href="javascript:void(0)" class="closebtn" onclick="closeChaptersView()">&times;</a>
     <a href="#" onclick="openVersesView()">1</a>
     <a href="#" onclick="openVersesView()">2</a>
     <a href="#" onclick="openVersesView()">3</a>
     <a href="#" onclick="openVersesView()">4</a>
 </div>
-<div id="verses" class="sidenav3">
+<div id="verses" class="sidenav3 container">
     <a href="javascript:void(0)" class="closebtn" onclick="closeVersesView()">&times;</a>
     <p>Verses!</p>
 </div>

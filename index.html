@@ -24,18 +24,27 @@ function openChaptersView() {
     document.getElementById("books").style.width = "50%";
     document.getElementById("chapters").style.width = "50%";
     document.getElementById("chapters").style.left = "50%";
+    closeVersesView();
 }
 function closeChaptersView() {
     document.getElementById("chapters").style.width = "0";
     openBooksView();
 }
 function openVersesView() {
+    // TODO: query verses from API
+    document.getElementById("verses").style.width = "70%";
     minimizeBookChapterViews();
+}
+function closeVersesView() {
+    // TODO: do whatever needs to be done to close verse view
+    document.getElementById("verses").style.width = "0%";
+    openChaptersView();
 }
 function minimizeBookChapterViews() {
     document.getElementById("books").style.width = "15%";
     document.getElementById("chapters").style.width = "15%";
     document.getElementById("chapters").style.left = "15%";
+    
 }
 </script>
 
@@ -73,7 +82,26 @@ body {
   text-align:center;
 }
 
-.sidenav a {
+#verses {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: -1;
+  top: 0%;
+  left: 30%;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 1s;
+  padding-top: 60px;
+  text-align:center;
+
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+.sidenav a{
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 25px;
@@ -91,6 +119,15 @@ body {
   transition: 0.3s;
 }
 
+.sidenav3 a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
 .sidenav a:hover{
   color: #f1f1f1;
 }
@@ -99,6 +136,9 @@ body {
   color: #f1f1f1;
 }
 
+.sidenav3 a:hover{
+  color: #f1f1f1;
+}
 .sidenav .closebtn {
   position: absolute;
   top: 0;
@@ -108,6 +148,14 @@ body {
 }
 
 .sidenav2 .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.sidenav3 .closebtn {
   position: absolute;
   top: 0;
   right: 25px;
@@ -138,6 +186,10 @@ body {
     <a href="#" onclick="openVersesView()">2</a>
     <a href="#" onclick="openVersesView()">3</a>
     <a href="#" onclick="openVersesView()">4</a>
+</div>
+<div id="verses" class="sidenav3">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeVersesView()">&times;</a>
+    <p>Verses!</p>
 </div>
 </body>
 </html> 

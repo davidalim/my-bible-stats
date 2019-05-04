@@ -40,18 +40,18 @@
     $( "#books" ).append( "<a class='bookname' href='#' onclick='openChaptersView()'>" + bookname + "</a>");
   }
 
-  $('body').on('click', '.bookname', function(e) {
-    var bookname = $(e.target).text();
-    selectedBook = bookname;
-    displayChapters(bookname);
-  });
-
   function displayChapters(bookname) {
     $("a").remove('.chapter');
     for (var i = 1; i <= bookdata[bookname]; i++) { 
       $("#chapters").append( "<a class='chapter' href='#' onclick='openVersesView()'>" + i + "</a>");
     }
   }
+
+  $('body').on('click', '.bookname', function(e) {
+    var bookname = $(e.target).text();
+    selectedBook = bookname;
+    displayChapters(bookname);
+  });
 
   $('body').on('click', '.chapter', function(e) {
     var chapter = $(e.target).text();

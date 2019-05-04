@@ -1,0 +1,4760 @@
+userid,book,chapter,tstamp
+user1,Numbers,1,2019-05-01 12:30:00
+user1,Numbers,1,2019-05-01 12:30:00
+user1,Numbers,1,2019-05-01 12:30:00
+user1,Numbers,1,2019-05-01 12:30:00
+user1,Numbers,2,2019-05-01 12:30:00
+user1,Numbers,2,2019-05-01 12:30:00
+user1,Numbers,2,2019-05-01 12:30:00
+user1,Numbers,3,2019-05-01 12:30:00
+user1,Numbers,3,2019-05-01 12:30:00
+user1,Numbers,3,2019-05-01 12:30:00
+user1,Numbers,4,2019-05-01 12:30:00
+user1,Numbers,4,2019-05-01 12:30:00
+user1,Numbers,5,2019-05-01 12:30:00
+user1,Numbers,5,2019-05-01 12:30:00
+user1,Numbers,5,2019-05-01 12:30:00
+user1,Numbers,6,2019-05-01 12:30:00
+user1,Numbers,6,2019-05-01 12:30:00
+user1,Numbers,6,2019-05-01 12:30:00
+user1,Numbers,6,2019-05-01 12:30:00
+user1,Numbers,7,2019-05-01 12:30:00
+user1,Numbers,7,2019-05-01 12:30:00
+user1,Numbers,7,2019-05-01 12:30:00
+user1,Numbers,7,2019-05-01 12:30:00
+user1,Numbers,8,2019-05-01 12:30:00
+user1,Numbers,9,2019-05-01 12:30:00
+user1,Numbers,9,2019-05-01 12:30:00
+user1,Numbers,9,2019-05-01 12:30:00
+user1,Numbers,9,2019-05-01 12:30:00
+user1,Numbers,10,2019-05-01 12:30:00
+user1,Numbers,10,2019-05-01 12:30:00
+user1,Numbers,10,2019-05-01 12:30:00
+user1,Numbers,10,2019-05-01 12:30:00
+user1,Numbers,11,2019-05-01 12:30:00
+user1,Numbers,11,2019-05-01 12:30:00
+user1,Numbers,11,2019-05-01 12:30:00
+user1,Numbers,12,2019-05-01 12:30:00
+user1,Numbers,12,2019-05-01 12:30:00
+user1,Numbers,12,2019-05-01 12:30:00
+user1,Numbers,13,2019-05-01 12:30:00
+user1,Numbers,13,2019-05-01 12:30:00
+user1,Numbers,13,2019-05-01 12:30:00
+user1,Numbers,14,2019-05-01 12:30:00
+user1,Numbers,15,2019-05-01 12:30:00
+user1,Numbers,16,2019-05-01 12:30:00
+user1,Numbers,16,2019-05-01 12:30:00
+user1,Numbers,16,2019-05-01 12:30:00
+user1,Numbers,17,2019-05-01 12:30:00
+user1,Numbers,17,2019-05-01 12:30:00
+user1,Numbers,18,2019-05-01 12:30:00
+user1,Numbers,18,2019-05-01 12:30:00
+user1,Numbers,18,2019-05-01 12:30:00
+user1,Numbers,19,2019-05-01 12:30:00
+user1,Numbers,19,2019-05-01 12:30:00
+user1,Numbers,19,2019-05-01 12:30:00
+user1,Numbers,20,2019-05-01 12:30:00
+user1,Numbers,20,2019-05-01 12:30:00
+user1,Numbers,20,2019-05-01 12:30:00
+user1,Numbers,20,2019-05-01 12:30:00
+user1,Numbers,21,2019-05-01 12:30:00
+user1,Numbers,21,2019-05-01 12:30:00
+user1,Numbers,21,2019-05-01 12:30:00
+user1,Numbers,22,2019-05-01 12:30:00
+user1,Numbers,22,2019-05-01 12:30:00
+user1,Numbers,22,2019-05-01 12:30:00
+user1,Numbers,22,2019-05-01 12:30:00
+user1,Numbers,22,2019-05-01 12:30:00
+user1,Numbers,23,2019-05-01 12:30:00
+user1,Numbers,24,2019-05-01 12:30:00
+user1,Numbers,24,2019-05-01 12:30:00
+user1,Numbers,24,2019-05-01 12:30:00
+user1,Numbers,24,2019-05-01 12:30:00
+user1,Numbers,25,2019-05-01 12:30:00
+user1,Numbers,25,2019-05-01 12:30:00
+user1,Numbers,25,2019-05-01 12:30:00
+user1,Numbers,26,2019-05-01 12:30:00
+user1,Numbers,26,2019-05-01 12:30:00
+user1,Numbers,26,2019-05-01 12:30:00
+user1,Numbers,26,2019-05-01 12:30:00
+user1,Numbers,27,2019-05-01 12:30:00
+user1,Numbers,27,2019-05-01 12:30:00
+user1,Numbers,28,2019-05-01 12:30:00
+user1,Numbers,28,2019-05-01 12:30:00
+user1,Numbers,29,2019-05-01 12:30:00
+user1,Numbers,30,2019-05-01 12:30:00
+user1,Numbers,30,2019-05-01 12:30:00
+user1,Numbers,31,2019-05-01 12:30:00
+user1,Numbers,31,2019-05-01 12:30:00
+user1,Numbers,31,2019-05-01 12:30:00
+user1,Numbers,31,2019-05-01 12:30:00
+user1,Numbers,31,2019-05-01 12:30:00
+user1,Numbers,32,2019-05-01 12:30:00
+user1,Numbers,32,2019-05-01 12:30:00
+user1,Numbers,32,2019-05-01 12:30:00
+user1,Numbers,33,2019-05-01 12:30:00
+user1,Numbers,33,2019-05-01 12:30:00
+user1,Numbers,33,2019-05-01 12:30:00
+user1,Numbers,34,2019-05-01 12:30:00
+user1,Numbers,34,2019-05-01 12:30:00
+user1,Numbers,34,2019-05-01 12:30:00
+user1,Numbers,35,2019-05-01 12:30:00
+user1,Numbers,35,2019-05-01 12:30:00
+user1,Numbers,35,2019-05-01 12:30:00
+user1,Numbers,35,2019-05-01 12:30:00
+user1,Numbers,36,2019-05-01 12:30:00
+user1,Numbers,36,2019-05-01 12:30:00
+user1,Numbers,36,2019-05-01 12:30:00
+user1,Deuteronomy,1,2019-05-01 12:30:00
+user1,Deuteronomy,1,2019-05-01 12:30:00
+user1,Deuteronomy,1,2019-05-01 12:30:00
+user1,Deuteronomy,2,2019-05-01 12:30:00
+user1,Deuteronomy,2,2019-05-01 12:30:00
+user1,Deuteronomy,3,2019-05-01 12:30:00
+user1,Deuteronomy,3,2019-05-01 12:30:00
+user1,Deuteronomy,3,2019-05-01 12:30:00
+user1,Deuteronomy,3,2019-05-01 12:30:00
+user1,Deuteronomy,4,2019-05-01 12:30:00
+user1,Deuteronomy,4,2019-05-01 12:30:00
+user1,Deuteronomy,4,2019-05-01 12:30:00
+user1,Deuteronomy,4,2019-05-01 12:30:00
+user1,Deuteronomy,4,2019-05-01 12:30:00
+user1,Deuteronomy,5,2019-05-01 12:30:00
+user1,Deuteronomy,5,2019-05-01 12:30:00
+user1,Deuteronomy,5,2019-05-01 12:30:00
+user1,Deuteronomy,6,2019-05-01 12:30:00
+user1,Deuteronomy,6,2019-05-01 12:30:00
+user1,Deuteronomy,6,2019-05-01 12:30:00
+user1,Deuteronomy,6,2019-05-01 12:30:00
+user1,Deuteronomy,7,2019-05-01 12:30:00
+user1,Deuteronomy,7,2019-05-01 12:30:00
+user1,Deuteronomy,7,2019-05-01 12:30:00
+user1,Deuteronomy,8,2019-05-01 12:30:00
+user1,Deuteronomy,8,2019-05-01 12:30:00
+user1,Deuteronomy,9,2019-05-01 12:30:00
+user1,Deuteronomy,9,2019-05-01 12:30:00
+user1,Deuteronomy,9,2019-05-01 12:30:00
+user1,Deuteronomy,10,2019-05-01 12:30:00
+user1,Deuteronomy,10,2019-05-01 12:30:00
+user1,Deuteronomy,10,2019-05-01 12:30:00
+user1,Deuteronomy,11,2019-05-01 12:30:00
+user1,Deuteronomy,11,2019-05-01 12:30:00
+user1,Deuteronomy,12,2019-05-01 12:30:00
+user1,Deuteronomy,12,2019-05-01 12:30:00
+user1,Deuteronomy,12,2019-05-01 12:30:00
+user1,Deuteronomy,13,2019-05-01 12:30:00
+user1,Deuteronomy,13,2019-05-01 12:30:00
+user1,Deuteronomy,13,2019-05-01 12:30:00
+user1,Deuteronomy,13,2019-05-01 12:30:00
+user1,Deuteronomy,14,2019-05-01 12:30:00
+user1,Deuteronomy,14,2019-05-01 12:30:00
+user1,Deuteronomy,15,2019-05-01 12:30:00
+user1,Deuteronomy,15,2019-05-01 12:30:00
+user1,Deuteronomy,16,2019-05-01 12:30:00
+user1,Deuteronomy,16,2019-05-01 12:30:00
+user1,Deuteronomy,17,2019-05-01 12:30:00
+user1,Deuteronomy,17,2019-05-01 12:30:00
+user1,Deuteronomy,17,2019-05-01 12:30:00
+user1,Deuteronomy,18,2019-05-01 12:30:00
+user1,Deuteronomy,18,2019-05-01 12:30:00
+user1,Deuteronomy,18,2019-05-01 12:30:00
+user1,Deuteronomy,18,2019-05-01 12:30:00
+user1,Deuteronomy,19,2019-05-01 12:30:00
+user1,Deuteronomy,19,2019-05-01 12:30:00
+user1,Deuteronomy,19,2019-05-01 12:30:00
+user1,Deuteronomy,20,2019-05-01 12:30:00
+user1,Deuteronomy,21,2019-05-01 12:30:00
+user1,Deuteronomy,22,2019-05-01 12:30:00
+user1,Deuteronomy,22,2019-05-01 12:30:00
+user1,Deuteronomy,22,2019-05-01 12:30:00
+user1,Deuteronomy,22,2019-05-01 12:30:00
+user1,Deuteronomy,23,2019-05-01 12:30:00
+user1,Deuteronomy,23,2019-05-01 12:30:00
+user1,Deuteronomy,23,2019-05-01 12:30:00
+user1,Deuteronomy,23,2019-05-01 12:30:00
+user1,Deuteronomy,23,2019-05-01 12:30:00
+user1,Deuteronomy,24,2019-05-01 12:30:00
+user1,Deuteronomy,24,2019-05-01 12:30:00
+user1,Deuteronomy,24,2019-05-01 12:30:00
+user1,Deuteronomy,25,2019-05-01 12:30:00
+user1,Deuteronomy,25,2019-05-01 12:30:00
+user1,Deuteronomy,25,2019-05-01 12:30:00
+user1,Deuteronomy,26,2019-05-01 12:30:00
+user1,Deuteronomy,26,2019-05-01 12:30:00
+user1,Deuteronomy,26,2019-05-01 12:30:00
+user1,Deuteronomy,27,2019-05-01 12:30:00
+user1,Deuteronomy,28,2019-05-01 12:30:00
+user1,Deuteronomy,28,2019-05-01 12:30:00
+user1,Deuteronomy,28,2019-05-01 12:30:00
+user1,Deuteronomy,29,2019-05-01 12:30:00
+user1,Deuteronomy,29,2019-05-01 12:30:00
+user1,Deuteronomy,29,2019-05-01 12:30:00
+user1,Deuteronomy,29,2019-05-01 12:30:00
+user1,Deuteronomy,30,2019-05-01 12:30:00
+user1,Deuteronomy,30,2019-05-01 12:30:00
+user1,Deuteronomy,30,2019-05-01 12:30:00
+user1,Deuteronomy,33,2019-05-01 12:30:00
+user1,Deuteronomy,33,2019-05-01 12:30:00
+user1,Deuteronomy,34,2019-05-01 12:30:00
+user1,Deuteronomy,34,2019-05-01 12:30:00
+user1,Ruth,1,2019-05-01 12:30:00
+user1,Ruth,1,2019-05-01 12:30:00
+user1,Ruth,1,2019-05-01 12:30:00
+user1,Ruth,2,2019-05-01 12:30:00
+user1,Ruth,2,2019-05-01 12:30:00
+user1,Ruth,3,2019-05-01 12:30:00
+user1,Ruth,3,2019-05-01 12:30:00
+user1,Ruth,3,2019-05-01 12:30:00
+user1,Ruth,3,2019-05-01 12:30:00
+user1,Ruth,3,2019-05-01 12:30:00
+user1,Ruth,4,2019-05-01 12:30:00
+user1,Ruth,4,2019-05-01 12:30:00
+user1,Ruth,4,2019-05-01 12:30:00
+user1,Ruth,4,2019-05-01 12:30:00
+user1,1 Samuel,1,2019-05-01 12:30:00
+user1,1 Samuel,1,2019-05-01 12:30:00
+user1,1 Samuel,2,2019-05-01 12:30:00
+user1,1 Samuel,2,2019-05-01 12:30:00
+user1,1 Samuel,2,2019-05-01 12:30:00
+user1,1 Samuel,2,2019-05-01 12:30:00
+user1,1 Samuel,3,2019-05-01 12:30:00
+user1,1 Samuel,3,2019-05-01 12:30:00
+user1,1 Samuel,3,2019-05-01 12:30:00
+user1,1 Samuel,4,2019-05-01 12:30:00
+user1,1 Samuel,4,2019-05-01 12:30:00
+user1,1 Samuel,4,2019-05-01 12:30:00
+user1,1 Samuel,5,2019-05-01 12:30:00
+user1,1 Samuel,5,2019-05-01 12:30:00
+user1,1 Samuel,6,2019-05-01 12:30:00
+user1,1 Samuel,7,2019-05-01 12:30:00
+user1,1 Samuel,7,2019-05-01 12:30:00
+user1,1 Samuel,8,2019-05-01 12:30:00
+user1,1 Samuel,9,2019-05-01 12:30:00
+user1,1 Samuel,9,2019-05-01 12:30:00
+user1,1 Samuel,9,2019-05-01 12:30:00
+user1,1 Samuel,9,2019-05-01 12:30:00
+user1,1 Samuel,10,2019-05-01 12:30:00
+user1,1 Samuel,10,2019-05-01 12:30:00
+user1,1 Samuel,10,2019-05-01 12:30:00
+user1,1 Samuel,10,2019-05-01 12:30:00
+user1,1 Samuel,11,2019-05-01 12:30:00
+user1,1 Samuel,11,2019-05-01 12:30:00
+user1,1 Samuel,12,2019-05-01 12:30:00
+user1,1 Samuel,12,2019-05-01 12:30:00
+user1,1 Samuel,13,2019-05-01 12:30:00
+user1,1 Samuel,13,2019-05-01 12:30:00
+user1,1 Samuel,13,2019-05-01 12:30:00
+user1,1 Samuel,14,2019-05-01 12:30:00
+user1,1 Samuel,14,2019-05-01 12:30:00
+user1,1 Samuel,14,2019-05-01 12:30:00
+user1,1 Samuel,15,2019-05-01 12:30:00
+user1,1 Samuel,15,2019-05-01 12:30:00
+user1,1 Samuel,15,2019-05-01 12:30:00
+user1,1 Samuel,16,2019-05-01 12:30:00
+user1,1 Samuel,16,2019-05-01 12:30:00
+user1,1 Samuel,16,2019-05-01 12:30:00
+user1,1 Samuel,16,2019-05-01 12:30:00
+user1,1 Samuel,17,2019-05-01 12:30:00
+user1,1 Samuel,17,2019-05-01 12:30:00
+user1,1 Samuel,18,2019-05-01 12:30:00
+user1,1 Samuel,18,2019-05-01 12:30:00
+user1,1 Samuel,18,2019-05-01 12:30:00
+user1,1 Samuel,19,2019-05-01 12:30:00
+user1,1 Samuel,19,2019-05-01 12:30:00
+user1,1 Samuel,20,2019-05-01 12:30:00
+user1,1 Samuel,20,2019-05-01 12:30:00
+user1,1 Samuel,20,2019-05-01 12:30:00
+user1,1 Samuel,21,2019-05-01 12:30:00
+user1,1 Samuel,21,2019-05-01 12:30:00
+user1,1 Samuel,22,2019-05-01 12:30:00
+user1,1 Samuel,22,2019-05-01 12:30:00
+user1,1 Samuel,23,2019-05-01 12:30:00
+user1,1 Samuel,23,2019-05-01 12:30:00
+user1,1 Samuel,23,2019-05-01 12:30:00
+user1,1 Samuel,23,2019-05-01 12:30:00
+user1,1 Samuel,24,2019-05-01 12:30:00
+user1,1 Samuel,24,2019-05-01 12:30:00
+user1,1 Samuel,24,2019-05-01 12:30:00
+user1,1 Samuel,24,2019-05-01 12:30:00
+user1,1 Samuel,25,2019-05-01 12:30:00
+user1,1 Samuel,25,2019-05-01 12:30:00
+user1,1 Samuel,25,2019-05-01 12:30:00
+user1,1 Samuel,26,2019-05-01 12:30:00
+user1,1 Samuel,26,2019-05-01 12:30:00
+user1,1 Samuel,27,2019-05-01 12:30:00
+user1,1 Samuel,27,2019-05-01 12:30:00
+user1,1 Samuel,28,2019-05-01 12:30:00
+user1,1 Samuel,28,2019-05-01 12:30:00
+user1,1 Samuel,28,2019-05-01 12:30:00
+user1,1 Samuel,28,2019-05-01 12:30:00
+user1,1 Samuel,29,2019-05-01 12:30:00
+user1,1 Samuel,29,2019-05-01 12:30:00
+user1,1 Samuel,30,2019-05-01 12:30:00
+user1,1 Samuel,31,2019-05-01 12:30:00
+user1,1 Samuel,31,2019-05-01 12:30:00
+user1,2 Samuel,1,2019-05-01 12:30:00
+user1,2 Samuel,1,2019-05-01 12:30:00
+user1,2 Samuel,2,2019-05-01 12:30:00
+user1,2 Samuel,2,2019-05-01 12:30:00
+user1,2 Samuel,2,2019-05-01 12:30:00
+user1,2 Samuel,3,2019-05-01 12:30:00
+user1,2 Samuel,3,2019-05-01 12:30:00
+user1,2 Samuel,3,2019-05-01 12:30:00
+user1,2 Samuel,4,2019-05-01 12:30:00
+user1,2 Samuel,4,2019-05-01 12:30:00
+user1,2 Samuel,4,2019-05-01 12:30:00
+user1,2 Samuel,5,2019-05-01 12:30:00
+user1,2 Samuel,5,2019-05-01 12:30:00
+user1,2 Samuel,5,2019-05-01 12:30:00
+user1,2 Samuel,6,2019-05-01 12:30:00
+user1,2 Samuel,6,2019-05-01 12:30:00
+user1,2 Samuel,6,2019-05-01 12:30:00
+user1,2 Samuel,7,2019-05-01 12:30:00
+user1,2 Samuel,7,2019-05-01 12:30:00
+user1,2 Samuel,7,2019-05-01 12:30:00
+user1,2 Samuel,8,2019-05-01 12:30:00
+user1,2 Samuel,8,2019-05-01 12:30:00
+user1,2 Samuel,9,2019-05-01 12:30:00
+user1,2 Samuel,10,2019-05-01 12:30:00
+user1,2 Samuel,10,2019-05-01 12:30:00
+user1,2 Samuel,10,2019-05-01 12:30:00
+user1,2 Samuel,11,2019-05-01 12:30:00
+user1,2 Samuel,11,2019-05-01 12:30:00
+user1,2 Samuel,11,2019-05-01 12:30:00
+user1,2 Samuel,11,2019-05-01 12:30:00
+user1,2 Samuel,12,2019-05-01 12:30:00
+user1,2 Samuel,12,2019-05-01 12:30:00
+user1,2 Samuel,12,2019-05-01 12:30:00
+user1,2 Samuel,13,2019-05-01 12:30:00
+user1,2 Samuel,13,2019-05-01 12:30:00
+user1,2 Samuel,14,2019-05-01 12:30:00
+user1,2 Samuel,14,2019-05-01 12:30:00
+user1,2 Samuel,14,2019-05-01 12:30:00
+user1,2 Samuel,14,2019-05-01 12:30:00
+user1,2 Samuel,14,2019-05-01 12:30:00
+user1,2 Samuel,15,2019-05-01 12:30:00
+user1,2 Samuel,15,2019-05-01 12:30:00
+user1,2 Samuel,15,2019-05-01 12:30:00
+user1,2 Samuel,15,2019-05-01 12:30:00
+user1,2 Samuel,15,2019-05-01 12:30:00
+user1,2 Samuel,16,2019-05-01 12:30:00
+user1,2 Samuel,16,2019-05-01 12:30:00
+user1,2 Samuel,16,2019-05-01 12:30:00
+user1,2 Samuel,17,2019-05-01 12:30:00
+user1,2 Samuel,17,2019-05-01 12:30:00
+user1,2 Samuel,18,2019-05-01 12:30:00
+user1,2 Samuel,18,2019-05-01 12:30:00
+user1,2 Samuel,19,2019-05-01 12:30:00
+user1,2 Samuel,19,2019-05-01 12:30:00
+user1,2 Samuel,19,2019-05-01 12:30:00
+user1,2 Samuel,19,2019-05-01 12:30:00
+user1,2 Samuel,20,2019-05-01 12:30:00
+user1,2 Samuel,20,2019-05-01 12:30:00
+user1,2 Samuel,20,2019-05-01 12:30:00
+user1,2 Samuel,21,2019-05-01 12:30:00
+user1,2 Samuel,21,2019-05-01 12:30:00
+user1,2 Samuel,21,2019-05-01 12:30:00
+user1,2 Samuel,22,2019-05-01 12:30:00
+user1,2 Samuel,22,2019-05-01 12:30:00
+user1,2 Samuel,22,2019-05-01 12:30:00
+user1,2 Samuel,22,2019-05-01 12:30:00
+user1,2 Samuel,23,2019-05-01 12:30:00
+user1,2 Samuel,23,2019-05-01 12:30:00
+user1,2 Samuel,23,2019-05-01 12:30:00
+user1,2 Samuel,24,2019-05-01 12:30:00
+user1,1 Kings,1,2019-05-01 12:30:00
+user1,1 Kings,1,2019-05-01 12:30:00
+user1,1 Kings,1,2019-05-01 12:30:00
+user1,1 Kings,2,2019-05-01 12:30:00
+user1,1 Kings,2,2019-05-01 12:30:00
+user1,1 Kings,2,2019-05-01 12:30:00
+user1,1 Kings,2,2019-05-01 12:30:00
+user1,1 Kings,2,2019-05-01 12:30:00
+user1,1 Kings,3,2019-05-01 12:30:00
+user1,1 Kings,3,2019-05-01 12:30:00
+user1,1 Kings,3,2019-05-01 12:30:00
+user1,1 Kings,3,2019-05-01 12:30:00
+user1,1 Kings,4,2019-05-01 12:30:00
+user1,1 Kings,4,2019-05-01 12:30:00
+user1,1 Kings,4,2019-05-01 12:30:00
+user1,1 Kings,4,2019-05-01 12:30:00
+user1,1 Kings,5,2019-05-01 12:30:00
+user1,1 Kings,5,2019-05-01 12:30:00
+user1,1 Kings,6,2019-05-01 12:30:00
+user1,1 Kings,6,2019-05-01 12:30:00
+user1,1 Kings,6,2019-05-01 12:30:00
+user1,1 Kings,6,2019-05-01 12:30:00
+user1,1 Kings,7,2019-05-01 12:30:00
+user1,1 Kings,8,2019-05-01 12:30:00
+user1,1 Kings,8,2019-05-01 12:30:00
+user1,1 Kings,8,2019-05-01 12:30:00
+user1,1 Kings,9,2019-05-01 12:30:00
+user1,1 Kings,9,2019-05-01 12:30:00
+user1,1 Kings,9,2019-05-01 12:30:00
+user1,1 Kings,10,2019-05-01 12:30:00
+user1,1 Kings,10,2019-05-01 12:30:00
+user1,1 Kings,10,2019-05-01 12:30:00
+user1,1 Kings,11,2019-05-01 12:30:00
+user1,1 Kings,12,2019-05-01 12:30:00
+user1,1 Kings,12,2019-05-01 12:30:00
+user1,1 Kings,13,2019-05-01 12:30:00
+user1,1 Kings,13,2019-05-01 12:30:00
+user1,1 Kings,13,2019-05-01 12:30:00
+user1,1 Kings,14,2019-05-01 12:30:00
+user1,1 Kings,14,2019-05-01 12:30:00
+user1,1 Kings,14,2019-05-01 12:30:00
+user1,1 Kings,14,2019-05-01 12:30:00
+user1,1 Kings,15,2019-05-01 12:30:00
+user1,1 Kings,15,2019-05-01 12:30:00
+user1,1 Kings,15,2019-05-01 12:30:00
+user1,1 Kings,16,2019-05-01 12:30:00
+user1,1 Kings,16,2019-05-01 12:30:00
+user1,1 Kings,16,2019-05-01 12:30:00
+user1,1 Kings,17,2019-05-01 12:30:00
+user1,1 Kings,18,2019-05-01 12:30:00
+user1,1 Kings,18,2019-05-01 12:30:00
+user1,1 Kings,19,2019-05-01 12:30:00
+user1,1 Kings,19,2019-05-01 12:30:00
+user1,1 Kings,20,2019-05-01 12:30:00
+user1,1 Kings,21,2019-05-01 12:30:00
+user1,1 Kings,21,2019-05-01 12:30:00
+user1,1 Kings,22,2019-05-01 12:30:00
+user1,1 Kings,22,2019-05-01 12:30:00
+user1,1 Kings,22,2019-05-01 12:30:00
+user1,2 Kings,1,2019-05-01 12:30:00
+user1,2 Kings,1,2019-05-01 12:30:00
+user1,2 Kings,1,2019-05-01 12:30:00
+user1,2 Kings,1,2019-05-01 12:30:00
+user1,2 Kings,2,2019-05-01 12:30:00
+user1,2 Kings,4,2019-05-01 12:30:00
+user1,2 Kings,4,2019-05-01 12:30:00
+user1,2 Kings,4,2019-05-01 12:30:00
+user1,2 Kings,5,2019-05-01 12:30:00
+user1,2 Kings,5,2019-05-01 12:30:00
+user1,2 Kings,5,2019-05-01 12:30:00
+user1,2 Kings,6,2019-05-01 12:30:00
+user1,2 Kings,6,2019-05-01 12:30:00
+user1,2 Kings,6,2019-05-01 12:30:00
+user1,2 Kings,6,2019-05-01 12:30:00
+user1,2 Kings,7,2019-05-01 12:30:00
+user1,2 Kings,8,2019-05-01 12:30:00
+user1,2 Kings,8,2019-05-01 12:30:00
+user1,2 Kings,9,2019-05-01 12:30:00
+user1,2 Kings,9,2019-05-01 12:30:00
+user1,2 Kings,9,2019-05-01 12:30:00
+user1,2 Kings,9,2019-05-01 12:30:00
+user1,2 Kings,10,2019-05-01 12:30:00
+user1,2 Kings,10,2019-05-01 12:30:00
+user1,2 Kings,10,2019-05-01 12:30:00
+user1,2 Kings,11,2019-05-01 12:30:00
+user1,2 Kings,11,2019-05-01 12:30:00
+user1,2 Kings,12,2019-05-01 12:30:00
+user1,2 Kings,12,2019-05-01 12:30:00
+user1,2 Kings,13,2019-05-01 12:30:00
+user1,2 Kings,13,2019-05-01 12:30:00
+user1,2 Kings,13,2019-05-01 12:30:00
+user1,2 Kings,14,2019-05-01 12:30:00
+user1,2 Kings,14,2019-05-01 12:30:00
+user1,2 Kings,14,2019-05-01 12:30:00
+user1,2 Kings,15,2019-05-01 12:30:00
+user1,2 Kings,15,2019-05-01 12:30:00
+user1,2 Kings,15,2019-05-01 12:30:00
+user1,2 Kings,15,2019-05-01 12:30:00
+user1,2 Kings,16,2019-05-01 12:30:00
+user1,2 Kings,16,2019-05-01 12:30:00
+user1,2 Kings,16,2019-05-01 12:30:00
+user1,2 Kings,17,2019-05-01 12:30:00
+user1,2 Kings,17,2019-05-01 12:30:00
+user1,2 Kings,18,2019-05-01 12:30:00
+user1,2 Kings,18,2019-05-01 12:30:00
+user1,2 Kings,18,2019-05-01 12:30:00
+user1,2 Kings,18,2019-05-01 12:30:00
+user1,2 Kings,19,2019-05-01 12:30:00
+user1,2 Kings,19,2019-05-01 12:30:00
+user1,2 Kings,19,2019-05-01 12:30:00
+user1,2 Kings,20,2019-05-01 12:30:00
+user1,2 Kings,20,2019-05-01 12:30:00
+user1,2 Kings,21,2019-05-01 12:30:00
+user1,2 Kings,22,2019-05-01 12:30:00
+user1,2 Kings,22,2019-05-01 12:30:00
+user1,2 Kings,23,2019-05-01 12:30:00
+user1,2 Kings,23,2019-05-01 12:30:00
+user1,2 Kings,24,2019-05-01 12:30:00
+user1,2 Kings,24,2019-05-01 12:30:00
+user1,2 Kings,25,2019-05-01 12:30:00
+user1,2 Kings,25,2019-05-01 12:30:00
+user1,2 Chronicles,1,2019-05-01 12:30:00
+user1,2 Chronicles,1,2019-05-01 12:30:00
+user1,2 Chronicles,1,2019-05-01 12:30:00
+user1,2 Chronicles,1,2019-05-01 12:30:00
+user1,2 Chronicles,2,2019-05-01 12:30:00
+user1,2 Chronicles,2,2019-05-01 12:30:00
+user1,2 Chronicles,2,2019-05-01 12:30:00
+user1,2 Chronicles,3,2019-05-01 12:30:00
+user1,2 Chronicles,3,2019-05-01 12:30:00
+user1,2 Chronicles,3,2019-05-01 12:30:00
+user1,2 Chronicles,4,2019-05-01 12:30:00
+user1,2 Chronicles,4,2019-05-01 12:30:00
+user1,2 Chronicles,4,2019-05-01 12:30:00
+user1,2 Chronicles,4,2019-05-01 12:30:00
+user1,2 Chronicles,5,2019-05-01 12:30:00
+user1,2 Chronicles,5,2019-05-01 12:30:00
+user1,2 Chronicles,6,2019-05-01 12:30:00
+user1,2 Chronicles,6,2019-05-01 12:30:00
+user1,2 Chronicles,6,2019-05-01 12:30:00
+user1,2 Chronicles,6,2019-05-01 12:30:00
+user1,2 Chronicles,6,2019-05-01 12:30:00
+user1,2 Chronicles,7,2019-05-01 12:30:00
+user1,2 Chronicles,7,2019-05-01 12:30:00
+user1,2 Chronicles,7,2019-05-01 12:30:00
+user1,2 Chronicles,8,2019-05-01 12:30:00
+user1,2 Chronicles,8,2019-05-01 12:30:00
+user1,2 Chronicles,8,2019-05-01 12:30:00
+user1,2 Chronicles,9,2019-05-01 12:30:00
+user1,2 Chronicles,9,2019-05-01 12:30:00
+user1,2 Chronicles,10,2019-05-01 12:30:00
+user1,2 Chronicles,10,2019-05-01 12:30:00
+user1,2 Chronicles,11,2019-05-01 12:30:00
+user1,2 Chronicles,11,2019-05-01 12:30:00
+user1,2 Chronicles,11,2019-05-01 12:30:00
+user1,2 Chronicles,12,2019-05-01 12:30:00
+user1,2 Chronicles,12,2019-05-01 12:30:00
+user1,2 Chronicles,12,2019-05-01 12:30:00
+user1,2 Chronicles,12,2019-05-01 12:30:00
+user1,2 Chronicles,12,2019-05-01 12:30:00
+user1,2 Chronicles,13,2019-05-01 12:30:00
+user1,2 Chronicles,13,2019-05-01 12:30:00
+user1,2 Chronicles,14,2019-05-01 12:30:00
+user1,2 Chronicles,14,2019-05-01 12:30:00
+user1,2 Chronicles,15,2019-05-01 12:30:00
+user1,2 Chronicles,15,2019-05-01 12:30:00
+user1,2 Chronicles,15,2019-05-01 12:30:00
+user1,2 Chronicles,16,2019-05-01 12:30:00
+user1,2 Chronicles,16,2019-05-01 12:30:00
+user1,2 Chronicles,16,2019-05-01 12:30:00
+user1,2 Chronicles,17,2019-05-01 12:30:00
+user1,2 Chronicles,17,2019-05-01 12:30:00
+user1,2 Chronicles,17,2019-05-01 12:30:00
+user1,2 Chronicles,18,2019-05-01 12:30:00
+user1,2 Chronicles,19,2019-05-01 12:30:00
+user1,2 Chronicles,19,2019-05-01 12:30:00
+user1,2 Chronicles,19,2019-05-01 12:30:00
+user1,2 Chronicles,20,2019-05-01 12:30:00
+user1,2 Chronicles,20,2019-05-01 12:30:00
+user1,2 Chronicles,20,2019-05-01 12:30:00
+user1,2 Chronicles,21,2019-05-01 12:30:00
+user1,2 Chronicles,21,2019-05-01 12:30:00
+user1,2 Chronicles,21,2019-05-01 12:30:00
+user1,2 Chronicles,21,2019-05-01 12:30:00
+user1,2 Chronicles,22,2019-05-01 12:30:00
+user1,2 Chronicles,22,2019-05-01 12:30:00
+user1,2 Chronicles,23,2019-05-01 12:30:00
+user1,2 Chronicles,23,2019-05-01 12:30:00
+user1,2 Chronicles,24,2019-05-01 12:30:00
+user1,2 Chronicles,24,2019-05-01 12:30:00
+user1,2 Chronicles,25,2019-05-01 12:30:00
+user1,2 Chronicles,25,2019-05-01 12:30:00
+user1,2 Chronicles,25,2019-05-01 12:30:00
+user1,2 Chronicles,25,2019-05-01 12:30:00
+user1,2 Chronicles,25,2019-05-01 12:30:00
+user1,2 Chronicles,26,2019-05-01 12:30:00
+user1,2 Chronicles,26,2019-05-01 12:30:00
+user1,2 Chronicles,26,2019-05-01 12:30:00
+user1,2 Chronicles,26,2019-05-01 12:30:00
+user1,2 Chronicles,27,2019-05-01 12:30:00
+user1,2 Chronicles,27,2019-05-01 12:30:00
+user1,2 Chronicles,27,2019-05-01 12:30:00
+user1,2 Chronicles,28,2019-05-01 12:30:00
+user1,2 Chronicles,28,2019-05-01 12:30:00
+user1,2 Chronicles,28,2019-05-01 12:30:00
+user1,2 Chronicles,29,2019-05-01 12:30:00
+user1,2 Chronicles,29,2019-05-01 12:30:00
+user1,2 Chronicles,29,2019-05-01 12:30:00
+user1,2 Chronicles,30,2019-05-01 12:30:00
+user1,2 Chronicles,31,2019-05-01 12:30:00
+user1,2 Chronicles,31,2019-05-01 12:30:00
+user1,2 Chronicles,31,2019-05-01 12:30:00
+user1,2 Chronicles,32,2019-05-01 12:30:00
+user1,2 Chronicles,32,2019-05-01 12:30:00
+user1,2 Chronicles,33,2019-05-01 12:30:00
+user1,2 Chronicles,33,2019-05-01 12:30:00
+user1,2 Chronicles,34,2019-05-01 12:30:00
+user1,2 Chronicles,34,2019-05-01 12:30:00
+user1,2 Chronicles,35,2019-05-01 12:30:00
+user1,2 Chronicles,35,2019-05-01 12:30:00
+user1,2 Chronicles,35,2019-05-01 12:30:00
+user1,2 Chronicles,36,2019-05-01 12:30:00
+user1,2 Chronicles,36,2019-05-01 12:30:00
+user1,2 Chronicles,36,2019-05-01 12:30:00
+user1,Esther,1,2019-05-01 12:30:00
+user1,Esther,1,2019-05-01 12:30:00
+user1,Esther,1,2019-05-01 12:30:00
+user1,Esther,2,2019-05-01 12:30:00
+user1,Esther,2,2019-05-01 12:30:00
+user1,Esther,2,2019-05-01 12:30:00
+user1,Esther,3,2019-05-01 12:30:00
+user1,Esther,3,2019-05-01 12:30:00
+user1,Esther,3,2019-05-01 12:30:00
+user1,Esther,4,2019-05-01 12:30:00
+user1,Esther,4,2019-05-01 12:30:00
+user1,Esther,4,2019-05-01 12:30:00
+user1,Esther,5,2019-05-01 12:30:00
+user1,Esther,5,2019-05-01 12:30:00
+user1,Esther,5,2019-05-01 12:30:00
+user1,Esther,5,2019-05-01 12:30:00
+user1,Esther,6,2019-05-01 12:30:00
+user1,Esther,6,2019-05-01 12:30:00
+user1,Esther,7,2019-05-01 12:30:00
+user1,Esther,7,2019-05-01 12:30:00
+user1,Esther,7,2019-05-01 12:30:00
+user1,Esther,8,2019-05-01 12:30:00
+user1,Esther,8,2019-05-01 12:30:00
+user1,Esther,8,2019-05-01 12:30:00
+user1,Esther,8,2019-05-01 12:30:00
+user1,Esther,8,2019-05-01 12:30:00
+user1,Esther,9,2019-05-01 12:30:00
+user1,Esther,9,2019-05-01 12:30:00
+user1,Esther,9,2019-05-01 12:30:00
+user1,Esther,10,2019-05-01 12:30:00
+user1,Esther,10,2019-05-01 12:30:00
+user1,Esther,10,2019-05-01 12:30:00
+user1,Esther,10,2019-05-01 12:30:00
+user1,Job,1,2019-05-01 12:30:00
+user1,Job,1,2019-05-01 12:30:00
+user1,Job,1,2019-05-01 12:30:00
+user1,Job,2,2019-05-01 12:30:00
+user1,Job,2,2019-05-01 12:30:00
+user1,Job,2,2019-05-01 12:30:00
+user1,Job,3,2019-05-01 12:30:00
+user1,Job,3,2019-05-01 12:30:00
+user1,Job,3,2019-05-01 12:30:00
+user1,Job,4,2019-05-01 12:30:00
+user1,Job,4,2019-05-01 12:30:00
+user1,Job,4,2019-05-01 12:30:00
+user1,Job,4,2019-05-01 12:30:00
+user1,Job,5,2019-05-01 12:30:00
+user1,Job,5,2019-05-01 12:30:00
+user1,Job,6,2019-05-01 12:30:00
+user1,Job,6,2019-05-01 12:30:00
+user1,Job,6,2019-05-01 12:30:00
+user1,Job,7,2019-05-01 12:30:00
+user1,Job,8,2019-05-01 12:30:00
+user1,Job,8,2019-05-01 12:30:00
+user1,Job,8,2019-05-01 12:30:00
+user1,Job,9,2019-05-01 12:30:00
+user1,Job,9,2019-05-01 12:30:00
+user1,Job,9,2019-05-01 12:30:00
+user1,Job,10,2019-05-01 12:30:00
+user1,Job,10,2019-05-01 12:30:00
+user1,Job,11,2019-05-01 12:30:00
+user1,Job,11,2019-05-01 12:30:00
+user1,Job,12,2019-05-01 12:30:00
+user1,Job,12,2019-05-01 12:30:00
+user1,Job,12,2019-05-01 12:30:00
+user1,Job,12,2019-05-01 12:30:00
+user1,Job,13,2019-05-01 12:30:00
+user1,Job,13,2019-05-01 12:30:00
+user1,Job,13,2019-05-01 12:30:00
+user1,Job,14,2019-05-01 12:30:00
+user1,Job,14,2019-05-01 12:30:00
+user1,Job,14,2019-05-01 12:30:00
+user1,Job,15,2019-05-01 12:30:00
+user1,Job,15,2019-05-01 12:30:00
+user1,Job,16,2019-05-01 12:30:00
+user1,Job,16,2019-05-01 12:30:00
+user1,Job,16,2019-05-01 12:30:00
+user1,Job,16,2019-05-01 12:30:00
+user1,Job,17,2019-05-01 12:30:00
+user1,Job,17,2019-05-01 12:30:00
+user1,Job,17,2019-05-01 12:30:00
+user1,Job,17,2019-05-01 12:30:00
+user1,Job,18,2019-05-01 12:30:00
+user1,Job,18,2019-05-01 12:30:00
+user1,Job,18,2019-05-01 12:30:00
+user1,Job,18,2019-05-01 12:30:00
+user1,Job,19,2019-05-01 12:30:00
+user1,Job,19,2019-05-01 12:30:00
+user1,Job,19,2019-05-01 12:30:00
+user1,Job,20,2019-05-01 12:30:00
+user1,Job,20,2019-05-01 12:30:00
+user1,Job,21,2019-05-01 12:30:00
+user1,Job,21,2019-05-01 12:30:00
+user1,Job,21,2019-05-01 12:30:00
+user1,Job,23,2019-05-01 12:30:00
+user1,Job,23,2019-05-01 12:30:00
+user1,Job,23,2019-05-01 12:30:00
+user1,Job,23,2019-05-01 12:30:00
+user1,Job,23,2019-05-01 12:30:00
+user1,Job,24,2019-05-01 12:30:00
+user1,Job,24,2019-05-01 12:30:00
+user1,Job,24,2019-05-01 12:30:00
+user1,Job,25,2019-05-01 12:30:00
+user1,Job,25,2019-05-01 12:30:00
+user1,Job,25,2019-05-01 12:30:00
+user1,Job,25,2019-05-01 12:30:00
+user1,Job,26,2019-05-01 12:30:00
+user1,Job,26,2019-05-01 12:30:00
+user1,Job,26,2019-05-01 12:30:00
+user1,Job,27,2019-05-01 12:30:00
+user1,Job,27,2019-05-01 12:30:00
+user1,Job,28,2019-05-01 12:30:00
+user1,Job,28,2019-05-01 12:30:00
+user1,Job,29,2019-05-01 12:30:00
+user1,Job,29,2019-05-01 12:30:00
+user1,Job,30,2019-05-01 12:30:00
+user1,Job,31,2019-05-01 12:30:00
+user1,Job,32,2019-05-01 12:30:00
+user1,Job,32,2019-05-01 12:30:00
+user1,Job,33,2019-05-01 12:30:00
+user1,Job,33,2019-05-01 12:30:00
+user1,Job,33,2019-05-01 12:30:00
+user1,Job,34,2019-05-01 12:30:00
+user1,Job,34,2019-05-01 12:30:00
+user1,Job,35,2019-05-01 12:30:00
+user1,Job,35,2019-05-01 12:30:00
+user1,Job,36,2019-05-01 12:30:00
+user1,Job,36,2019-05-01 12:30:00
+user1,Job,36,2019-05-01 12:30:00
+user1,Job,36,2019-05-01 12:30:00
+user1,Job,36,2019-05-01 12:30:00
+user1,Job,36,2019-05-01 12:30:00
+user1,Job,37,2019-05-01 12:30:00
+user1,Job,37,2019-05-01 12:30:00
+user1,Job,38,2019-05-01 12:30:00
+user1,Job,38,2019-05-01 12:30:00
+user1,Job,38,2019-05-01 12:30:00
+user1,Job,39,2019-05-01 12:30:00
+user1,Job,39,2019-05-01 12:30:00
+user1,Job,39,2019-05-01 12:30:00
+user1,Job,39,2019-05-01 12:30:00
+user1,Job,40,2019-05-01 12:30:00
+user1,Job,40,2019-05-01 12:30:00
+user1,Job,40,2019-05-01 12:30:00
+user1,Job,41,2019-05-01 12:30:00
+user1,Job,41,2019-05-01 12:30:00
+user1,Job,41,2019-05-01 12:30:00
+user1,Job,41,2019-05-01 12:30:00
+user1,Job,42,2019-05-01 12:30:00
+user1,Job,42,2019-05-01 12:30:00
+user1,Song of Solomon,1,2019-05-01 12:30:00
+user1,Song of Solomon,1,2019-05-01 12:30:00
+user1,Song of Solomon,1,2019-05-01 12:30:00
+user1,Song of Solomon,2,2019-05-01 12:30:00
+user1,Song of Solomon,2,2019-05-01 12:30:00
+user1,Song of Solomon,2,2019-05-01 12:30:00
+user1,Song of Solomon,2,2019-05-01 12:30:00
+user1,Song of Solomon,3,2019-05-01 12:30:00
+user1,Song of Solomon,3,2019-05-01 12:30:00
+user1,Song of Solomon,3,2019-05-01 12:30:00
+user1,Song of Solomon,3,2019-05-01 12:30:00
+user1,Song of Solomon,4,2019-05-01 12:30:00
+user1,Song of Solomon,4,2019-05-01 12:30:00
+user1,Song of Solomon,4,2019-05-01 12:30:00
+user1,Song of Solomon,5,2019-05-01 12:30:00
+user1,Song of Solomon,5,2019-05-01 12:30:00
+user1,Song of Solomon,6,2019-05-01 12:30:00
+user1,Song of Solomon,6,2019-05-01 12:30:00
+user1,Song of Solomon,7,2019-05-01 12:30:00
+user1,Song of Solomon,7,2019-05-01 12:30:00
+user1,Song of Solomon,7,2019-05-01 12:30:00
+user1,Song of Solomon,7,2019-05-01 12:30:00
+user1,Song of Solomon,8,2019-05-01 12:30:00
+user1,Song of Solomon,8,2019-05-01 12:30:00
+user1,Song of Solomon,8,2019-05-01 12:30:00
+user1,Isaiah,1,2019-05-01 12:30:00
+user1,Isaiah,1,2019-05-01 12:30:00
+user1,Isaiah,1,2019-05-01 12:30:00
+user1,Isaiah,2,2019-05-01 12:30:00
+user1,Isaiah,2,2019-05-01 12:30:00
+user1,Isaiah,2,2019-05-01 12:30:00
+user1,Isaiah,2,2019-05-01 12:30:00
+user1,Isaiah,2,2019-05-01 12:30:00
+user1,Isaiah,3,2019-05-01 12:30:00
+user1,Isaiah,4,2019-05-01 12:30:00
+user1,Isaiah,4,2019-05-01 12:30:00
+user1,Isaiah,4,2019-05-01 12:30:00
+user1,Isaiah,5,2019-05-01 12:30:00
+user1,Isaiah,5,2019-05-01 12:30:00
+user1,Isaiah,5,2019-05-01 12:30:00
+user1,Isaiah,6,2019-05-01 12:30:00
+user1,Isaiah,6,2019-05-01 12:30:00
+user1,Isaiah,6,2019-05-01 12:30:00
+user1,Isaiah,7,2019-05-01 12:30:00
+user1,Isaiah,7,2019-05-01 12:30:00
+user1,Isaiah,8,2019-05-01 12:30:00
+user1,Isaiah,8,2019-05-01 12:30:00
+user1,Isaiah,9,2019-05-01 12:30:00
+user1,Isaiah,9,2019-05-01 12:30:00
+user1,Isaiah,10,2019-05-01 12:30:00
+user1,Isaiah,10,2019-05-01 12:30:00
+user1,Isaiah,10,2019-05-01 12:30:00
+user1,Isaiah,10,2019-05-01 12:30:00
+user1,Isaiah,11,2019-05-01 12:30:00
+user1,Isaiah,11,2019-05-01 12:30:00
+user1,Isaiah,11,2019-05-01 12:30:00
+user1,Isaiah,12,2019-05-01 12:30:00
+user1,Isaiah,12,2019-05-01 12:30:00
+user1,Isaiah,12,2019-05-01 12:30:00
+user1,Isaiah,12,2019-05-01 12:30:00
+user1,Isaiah,13,2019-05-01 12:30:00
+user1,Isaiah,13,2019-05-01 12:30:00
+user1,Isaiah,13,2019-05-01 12:30:00
+user1,Isaiah,14,2019-05-01 12:30:00
+user1,Isaiah,14,2019-05-01 12:30:00
+user1,Isaiah,14,2019-05-01 12:30:00
+user1,Isaiah,15,2019-05-01 12:30:00
+user1,Isaiah,15,2019-05-01 12:30:00
+user1,Isaiah,15,2019-05-01 12:30:00
+user1,Isaiah,16,2019-05-01 12:30:00
+user1,Isaiah,16,2019-05-01 12:30:00
+user1,Isaiah,17,2019-05-01 12:30:00
+user1,Isaiah,17,2019-05-01 12:30:00
+user1,Isaiah,17,2019-05-01 12:30:00
+user1,Isaiah,17,2019-05-01 12:30:00
+user1,Isaiah,18,2019-05-01 12:30:00
+user1,Isaiah,19,2019-05-01 12:30:00
+user1,Isaiah,19,2019-05-01 12:30:00
+user1,Isaiah,19,2019-05-01 12:30:00
+user1,Isaiah,19,2019-05-01 12:30:00
+user1,Isaiah,20,2019-05-01 12:30:00
+user1,Isaiah,20,2019-05-01 12:30:00
+user1,Isaiah,20,2019-05-01 12:30:00
+user1,Isaiah,20,2019-05-01 12:30:00
+user1,Isaiah,21,2019-05-01 12:30:00
+user1,Isaiah,21,2019-05-01 12:30:00
+user1,Isaiah,22,2019-05-01 12:30:00
+user1,Isaiah,22,2019-05-01 12:30:00
+user1,Isaiah,23,2019-05-01 12:30:00
+user1,Isaiah,24,2019-05-01 12:30:00
+user1,Isaiah,24,2019-05-01 12:30:00
+user1,Isaiah,24,2019-05-01 12:30:00
+user1,Isaiah,25,2019-05-01 12:30:00
+user1,Isaiah,25,2019-05-01 12:30:00
+user1,Isaiah,25,2019-05-01 12:30:00
+user1,Isaiah,26,2019-05-01 12:30:00
+user1,Isaiah,26,2019-05-01 12:30:00
+user1,Isaiah,26,2019-05-01 12:30:00
+user1,Isaiah,26,2019-05-01 12:30:00
+user1,Isaiah,27,2019-05-01 12:30:00
+user1,Isaiah,28,2019-05-01 12:30:00
+user1,Isaiah,28,2019-05-01 12:30:00
+user1,Isaiah,28,2019-05-01 12:30:00
+user1,Isaiah,28,2019-05-01 12:30:00
+user1,Isaiah,29,2019-05-01 12:30:00
+user1,Isaiah,29,2019-05-01 12:30:00
+user1,Isaiah,29,2019-05-01 12:30:00
+user1,Isaiah,29,2019-05-01 12:30:00
+user1,Isaiah,30,2019-05-01 12:30:00
+user1,Isaiah,30,2019-05-01 12:30:00
+user1,Isaiah,30,2019-05-01 12:30:00
+user1,Isaiah,32,2019-05-01 12:30:00
+user1,Isaiah,32,2019-05-01 12:30:00
+user1,Isaiah,32,2019-05-01 12:30:00
+user1,Isaiah,33,2019-05-01 12:30:00
+user1,Isaiah,33,2019-05-01 12:30:00
+user1,Isaiah,34,2019-05-01 12:30:00
+user1,Isaiah,34,2019-05-01 12:30:00
+user1,Isaiah,34,2019-05-01 12:30:00
+user1,Isaiah,34,2019-05-01 12:30:00
+user1,Isaiah,35,2019-05-01 12:30:00
+user1,Isaiah,35,2019-05-01 12:30:00
+user1,Isaiah,35,2019-05-01 12:30:00
+user1,Isaiah,36,2019-05-01 12:30:00
+user1,Isaiah,36,2019-05-01 12:30:00
+user1,Isaiah,37,2019-05-01 12:30:00
+user1,Isaiah,37,2019-05-01 12:30:00
+user1,Isaiah,39,2019-05-01 12:30:00
+user1,Isaiah,39,2019-05-01 12:30:00
+user1,Isaiah,39,2019-05-01 12:30:00
+user1,Isaiah,40,2019-05-01 12:30:00
+user1,Isaiah,40,2019-05-01 12:30:00
+user1,Isaiah,40,2019-05-01 12:30:00
+user1,Isaiah,41,2019-05-01 12:30:00
+user1,Isaiah,42,2019-05-01 12:30:00
+user1,Isaiah,42,2019-05-01 12:30:00
+user1,Isaiah,42,2019-05-01 12:30:00
+user1,Isaiah,43,2019-05-01 12:30:00
+user1,Isaiah,43,2019-05-01 12:30:00
+user1,Isaiah,44,2019-05-01 12:30:00
+user1,Isaiah,44,2019-05-01 12:30:00
+user1,Isaiah,44,2019-05-01 12:30:00
+user1,Isaiah,45,2019-05-01 12:30:00
+user1,Isaiah,45,2019-05-01 12:30:00
+user1,Isaiah,46,2019-05-01 12:30:00
+user1,Isaiah,46,2019-05-01 12:30:00
+user1,Isaiah,46,2019-05-01 12:30:00
+user1,Isaiah,46,2019-05-01 12:30:00
+user1,Isaiah,47,2019-05-01 12:30:00
+user1,Isaiah,47,2019-05-01 12:30:00
+user1,Isaiah,47,2019-05-01 12:30:00
+user1,Isaiah,48,2019-05-01 12:30:00
+user1,Isaiah,48,2019-05-01 12:30:00
+user1,Isaiah,49,2019-05-01 12:30:00
+user1,Isaiah,49,2019-05-01 12:30:00
+user1,Isaiah,50,2019-05-01 12:30:00
+user1,Isaiah,50,2019-05-01 12:30:00
+user1,Isaiah,50,2019-05-01 12:30:00
+user1,Isaiah,50,2019-05-01 12:30:00
+user1,Isaiah,51,2019-05-01 12:30:00
+user1,Isaiah,51,2019-05-01 12:30:00
+user1,Isaiah,51,2019-05-01 12:30:00
+user1,Isaiah,51,2019-05-01 12:30:00
+user1,Isaiah,52,2019-05-01 12:30:00
+user1,Isaiah,52,2019-05-01 12:30:00
+user1,Isaiah,52,2019-05-01 12:30:00
+user1,Isaiah,53,2019-05-01 12:30:00
+user1,Isaiah,53,2019-05-01 12:30:00
+user1,Isaiah,54,2019-05-01 12:30:00
+user1,Isaiah,54,2019-05-01 12:30:00
+user1,Isaiah,54,2019-05-01 12:30:00
+user1,Isaiah,54,2019-05-01 12:30:00
+user1,Isaiah,55,2019-05-01 12:30:00
+user1,Isaiah,55,2019-05-01 12:30:00
+user1,Isaiah,55,2019-05-01 12:30:00
+user1,Isaiah,56,2019-05-01 12:30:00
+user1,Isaiah,56,2019-05-01 12:30:00
+user1,Isaiah,56,2019-05-01 12:30:00
+user1,Isaiah,57,2019-05-01 12:30:00
+user1,Isaiah,57,2019-05-01 12:30:00
+user1,Isaiah,57,2019-05-01 12:30:00
+user1,Isaiah,58,2019-05-01 12:30:00
+user1,Isaiah,58,2019-05-01 12:30:00
+user1,Isaiah,59,2019-05-01 12:30:00
+user1,Isaiah,60,2019-05-01 12:30:00
+user1,Isaiah,60,2019-05-01 12:30:00
+user1,Isaiah,61,2019-05-01 12:30:00
+user1,Isaiah,61,2019-05-01 12:30:00
+user1,Isaiah,61,2019-05-01 12:30:00
+user1,Isaiah,62,2019-05-01 12:30:00
+user1,Isaiah,62,2019-05-01 12:30:00
+user1,Isaiah,63,2019-05-01 12:30:00
+user1,Isaiah,63,2019-05-01 12:30:00
+user1,Isaiah,64,2019-05-01 12:30:00
+user1,Isaiah,64,2019-05-01 12:30:00
+user1,Isaiah,64,2019-05-01 12:30:00
+user1,Isaiah,65,2019-05-01 12:30:00
+user1,Isaiah,65,2019-05-01 12:30:00
+user1,Isaiah,66,2019-05-01 12:30:00
+user1,Isaiah,66,2019-05-01 12:30:00
+user1,Isaiah,66,2019-05-01 12:30:00
+user1,Ezekiel,1,2019-05-01 12:30:00
+user1,Ezekiel,1,2019-05-01 12:30:00
+user1,Ezekiel,1,2019-05-01 12:30:00
+user1,Ezekiel,1,2019-05-01 12:30:00
+user1,Ezekiel,2,2019-05-01 12:30:00
+user1,Ezekiel,2,2019-05-01 12:30:00
+user1,Ezekiel,2,2019-05-01 12:30:00
+user1,Ezekiel,3,2019-05-01 12:30:00
+user1,Ezekiel,3,2019-05-01 12:30:00
+user1,Ezekiel,3,2019-05-01 12:30:00
+user1,Ezekiel,4,2019-05-01 12:30:00
+user1,Ezekiel,4,2019-05-01 12:30:00
+user1,Ezekiel,5,2019-05-01 12:30:00
+user1,Ezekiel,6,2019-05-01 12:30:00
+user1,Ezekiel,6,2019-05-01 12:30:00
+user1,Ezekiel,7,2019-05-01 12:30:00
+user1,Ezekiel,7,2019-05-01 12:30:00
+user1,Ezekiel,8,2019-05-01 12:30:00
+user1,Ezekiel,8,2019-05-01 12:30:00
+user1,Ezekiel,8,2019-05-01 12:30:00
+user1,Ezekiel,9,2019-05-01 12:30:00
+user1,Ezekiel,10,2019-05-01 12:30:00
+user1,Ezekiel,10,2019-05-01 12:30:00
+user1,Ezekiel,10,2019-05-01 12:30:00
+user1,Ezekiel,10,2019-05-01 12:30:00
+user1,Ezekiel,10,2019-05-01 12:30:00
+user1,Ezekiel,11,2019-05-01 12:30:00
+user1,Ezekiel,11,2019-05-01 12:30:00
+user1,Ezekiel,12,2019-05-01 12:30:00
+user1,Ezekiel,12,2019-05-01 12:30:00
+user1,Ezekiel,13,2019-05-01 12:30:00
+user1,Ezekiel,13,2019-05-01 12:30:00
+user1,Ezekiel,13,2019-05-01 12:30:00
+user1,Ezekiel,14,2019-05-01 12:30:00
+user1,Ezekiel,14,2019-05-01 12:30:00
+user1,Ezekiel,14,2019-05-01 12:30:00
+user1,Ezekiel,15,2019-05-01 12:30:00
+user1,Ezekiel,15,2019-05-01 12:30:00
+user1,Ezekiel,15,2019-05-01 12:30:00
+user1,Ezekiel,16,2019-05-01 12:30:00
+user1,Ezekiel,16,2019-05-01 12:30:00
+user1,Ezekiel,16,2019-05-01 12:30:00
+user1,Ezekiel,17,2019-05-01 12:30:00
+user1,Ezekiel,17,2019-05-01 12:30:00
+user1,Ezekiel,17,2019-05-01 12:30:00
+user1,Ezekiel,18,2019-05-01 12:30:00
+user1,Ezekiel,18,2019-05-01 12:30:00
+user1,Ezekiel,18,2019-05-01 12:30:00
+user1,Ezekiel,19,2019-05-01 12:30:00
+user1,Ezekiel,19,2019-05-01 12:30:00
+user1,Ezekiel,19,2019-05-01 12:30:00
+user1,Ezekiel,20,2019-05-01 12:30:00
+user1,Ezekiel,20,2019-05-01 12:30:00
+user1,Ezekiel,21,2019-05-01 12:30:00
+user1,Ezekiel,21,2019-05-01 12:30:00
+user1,Ezekiel,21,2019-05-01 12:30:00
+user1,Ezekiel,21,2019-05-01 12:30:00
+user1,Ezekiel,22,2019-05-01 12:30:00
+user1,Ezekiel,22,2019-05-01 12:30:00
+user1,Ezekiel,23,2019-05-01 12:30:00
+user1,Ezekiel,23,2019-05-01 12:30:00
+user1,Ezekiel,23,2019-05-01 12:30:00
+user1,Ezekiel,23,2019-05-01 12:30:00
+user1,Ezekiel,24,2019-05-01 12:30:00
+user1,Ezekiel,24,2019-05-01 12:30:00
+user1,Ezekiel,24,2019-05-01 12:30:00
+user1,Ezekiel,25,2019-05-01 12:30:00
+user1,Ezekiel,25,2019-05-01 12:30:00
+user1,Ezekiel,25,2019-05-01 12:30:00
+user1,Ezekiel,25,2019-05-01 12:30:00
+user1,Ezekiel,26,2019-05-01 12:30:00
+user1,Ezekiel,26,2019-05-01 12:30:00
+user1,Ezekiel,27,2019-05-01 12:30:00
+user1,Ezekiel,27,2019-05-01 12:30:00
+user1,Ezekiel,28,2019-05-01 12:30:00
+user1,Ezekiel,29,2019-05-01 12:30:00
+user1,Ezekiel,29,2019-05-01 12:30:00
+user1,Ezekiel,29,2019-05-01 12:30:00
+user1,Ezekiel,30,2019-05-01 12:30:00
+user1,Ezekiel,30,2019-05-01 12:30:00
+user1,Ezekiel,31,2019-05-01 12:30:00
+user1,Ezekiel,31,2019-05-01 12:30:00
+user1,Ezekiel,32,2019-05-01 12:30:00
+user1,Ezekiel,32,2019-05-01 12:30:00
+user1,Ezekiel,32,2019-05-01 12:30:00
+user1,Ezekiel,33,2019-05-01 12:30:00
+user1,Ezekiel,33,2019-05-01 12:30:00
+user1,Ezekiel,33,2019-05-01 12:30:00
+user1,Ezekiel,34,2019-05-01 12:30:00
+user1,Ezekiel,34,2019-05-01 12:30:00
+user1,Ezekiel,35,2019-05-01 12:30:00
+user1,Ezekiel,35,2019-05-01 12:30:00
+user1,Ezekiel,35,2019-05-01 12:30:00
+user1,Ezekiel,36,2019-05-01 12:30:00
+user1,Ezekiel,36,2019-05-01 12:30:00
+user1,Ezekiel,37,2019-05-01 12:30:00
+user1,Ezekiel,37,2019-05-01 12:30:00
+user1,Ezekiel,37,2019-05-01 12:30:00
+user1,Ezekiel,38,2019-05-01 12:30:00
+user1,Ezekiel,38,2019-05-01 12:30:00
+user1,Ezekiel,39,2019-05-01 12:30:00
+user1,Ezekiel,40,2019-05-01 12:30:00
+user1,Ezekiel,40,2019-05-01 12:30:00
+user1,Ezekiel,40,2019-05-01 12:30:00
+user1,Ezekiel,41,2019-05-01 12:30:00
+user1,Ezekiel,41,2019-05-01 12:30:00
+user1,Ezekiel,41,2019-05-01 12:30:00
+user1,Ezekiel,42,2019-05-01 12:30:00
+user1,Ezekiel,45,2019-05-01 12:30:00
+user1,Ezekiel,45,2019-05-01 12:30:00
+user1,Ezekiel,45,2019-05-01 12:30:00
+user1,Ezekiel,46,2019-05-01 12:30:00
+user1,Ezekiel,46,2019-05-01 12:30:00
+user1,Ezekiel,46,2019-05-01 12:30:00
+user1,Ezekiel,47,2019-05-01 12:30:00
+user1,Ezekiel,47,2019-05-01 12:30:00
+user1,Ezekiel,47,2019-05-01 12:30:00
+user1,Ezekiel,47,2019-05-01 12:30:00
+user1,Ezekiel,48,2019-05-01 12:30:00
+user1,Amos,1,2019-05-01 12:30:00
+user1,Amos,1,2019-05-01 12:30:00
+user1,Amos,1,2019-05-01 12:30:00
+user1,Amos,1,2019-05-01 12:30:00
+user1,Amos,2,2019-05-01 12:30:00
+user1,Amos,2,2019-05-01 12:30:00
+user1,Amos,2,2019-05-01 12:30:00
+user1,Amos,3,2019-05-01 12:30:00
+user1,Amos,3,2019-05-01 12:30:00
+user1,Amos,3,2019-05-01 12:30:00
+user1,Amos,4,2019-05-01 12:30:00
+user1,Amos,4,2019-05-01 12:30:00
+user1,Amos,4,2019-05-01 12:30:00
+user1,Amos,4,2019-05-01 12:30:00
+user1,Amos,5,2019-05-01 12:30:00
+user1,Amos,5,2019-05-01 12:30:00
+user1,Amos,6,2019-05-01 12:30:00
+user1,Amos,6,2019-05-01 12:30:00
+user1,Amos,6,2019-05-01 12:30:00
+user1,Amos,6,2019-05-01 12:30:00
+user1,Amos,7,2019-05-01 12:30:00
+user1,Amos,7,2019-05-01 12:30:00
+user1,Amos,7,2019-05-01 12:30:00
+user1,Amos,7,2019-05-01 12:30:00
+user1,Amos,8,2019-05-01 12:30:00
+user1,Amos,8,2019-05-01 12:30:00
+user1,Jonah,1,2019-05-01 12:30:00
+user1,Jonah,1,2019-05-01 12:30:00
+user1,Jonah,2,2019-05-01 12:30:00
+user1,Jonah,2,2019-05-01 12:30:00
+user1,Jonah,3,2019-05-01 12:30:00
+user1,Jonah,3,2019-05-01 12:30:00
+user1,Jonah,3,2019-05-01 12:30:00
+user1,Jonah,3,2019-05-01 12:30:00
+user1,Jonah,4,2019-05-01 12:30:00
+user1,Jonah,4,2019-05-01 12:30:00
+user1,Jonah,4,2019-05-01 12:30:00
+user1,Jonah,4,2019-05-01 12:30:00
+user1,Zechariah,1,2019-05-01 12:30:00
+user1,Zechariah,1,2019-05-01 12:30:00
+user1,Zechariah,1,2019-05-01 12:30:00
+user1,Zechariah,2,2019-05-01 12:30:00
+user1,Zechariah,2,2019-05-01 12:30:00
+user1,Zechariah,2,2019-05-01 12:30:00
+user1,Zechariah,3,2019-05-01 12:30:00
+user1,Zechariah,3,2019-05-01 12:30:00
+user1,Zechariah,4,2019-05-01 12:30:00
+user1,Zechariah,4,2019-05-01 12:30:00
+user1,Zechariah,5,2019-05-01 12:30:00
+user1,Zechariah,5,2019-05-01 12:30:00
+user1,Zechariah,5,2019-05-01 12:30:00
+user1,Zechariah,6,2019-05-01 12:30:00
+user1,Zechariah,6,2019-05-01 12:30:00
+user1,Zechariah,6,2019-05-01 12:30:00
+user1,Zechariah,7,2019-05-01 12:30:00
+user1,Zechariah,7,2019-05-01 12:30:00
+user1,Zechariah,7,2019-05-01 12:30:00
+user1,Zechariah,7,2019-05-01 12:30:00
+user1,Zechariah,7,2019-05-01 12:30:00
+user1,Zechariah,7,2019-05-01 12:30:00
+user1,Zechariah,8,2019-05-01 12:30:00
+user1,Zechariah,8,2019-05-01 12:30:00
+user1,Zechariah,8,2019-05-01 12:30:00
+user1,Zechariah,8,2019-05-01 12:30:00
+user1,Zechariah,8,2019-05-01 12:30:00
+user1,Zechariah,9,2019-05-01 12:30:00
+user1,Zechariah,9,2019-05-01 12:30:00
+user1,Zechariah,10,2019-05-01 12:30:00
+user1,Zechariah,10,2019-05-01 12:30:00
+user1,Zechariah,11,2019-05-01 12:30:00
+user1,Zechariah,11,2019-05-01 12:30:00
+user1,Zechariah,11,2019-05-01 12:30:00
+user1,Zechariah,12,2019-05-01 12:30:00
+user1,Zechariah,12,2019-05-01 12:30:00
+user1,Zechariah,12,2019-05-01 12:30:00
+user1,Zechariah,12,2019-05-01 12:30:00
+user1,Zechariah,13,2019-05-01 12:30:00
+user1,Zechariah,13,2019-05-01 12:30:00
+user1,Zechariah,14,2019-05-01 12:30:00
+user1,Zechariah,14,2019-05-01 12:30:00
+user1,Malachi,1,2019-05-01 12:30:00
+user1,Malachi,1,2019-05-01 12:30:00
+user1,Malachi,1,2019-05-01 12:30:00
+user1,Malachi,2,2019-05-01 12:30:00
+user1,Malachi,2,2019-05-01 12:30:00
+user1,Malachi,3,2019-05-01 12:30:00
+user1,Malachi,3,2019-05-01 12:30:00
+user1,Malachi,4,2019-05-01 12:30:00
+user1,Malachi,4,2019-05-01 12:30:00
+user1,Malachi,4,2019-05-01 12:30:00
+user1,Matthew,1,2019-05-01 12:30:00
+user1,Matthew,1,2019-05-01 12:30:00
+user1,Matthew,1,2019-05-01 12:30:00
+user1,Matthew,2,2019-05-01 12:30:00
+user1,Matthew,2,2019-05-01 12:30:00
+user1,Matthew,2,2019-05-01 12:30:00
+user1,Matthew,3,2019-05-01 12:30:00
+user1,Matthew,3,2019-05-01 12:30:00
+user1,Matthew,3,2019-05-01 12:30:00
+user1,Matthew,4,2019-05-01 12:30:00
+user1,Matthew,4,2019-05-01 12:30:00
+user1,Matthew,4,2019-05-01 12:30:00
+user1,Matthew,5,2019-05-01 12:30:00
+user1,Matthew,5,2019-05-01 12:30:00
+user1,Matthew,6,2019-05-01 12:30:00
+user1,Matthew,6,2019-05-01 12:30:00
+user1,Matthew,6,2019-05-01 12:30:00
+user1,Matthew,7,2019-05-01 12:30:00
+user1,Matthew,7,2019-05-01 12:30:00
+user1,Matthew,7,2019-05-01 12:30:00
+user1,Matthew,8,2019-05-01 12:30:00
+user1,Matthew,8,2019-05-01 12:30:00
+user1,Matthew,8,2019-05-01 12:30:00
+user1,Matthew,8,2019-05-01 12:30:00
+user1,Matthew,9,2019-05-01 12:30:00
+user1,Matthew,9,2019-05-01 12:30:00
+user1,Matthew,10,2019-05-01 12:30:00
+user1,Matthew,10,2019-05-01 12:30:00
+user1,Matthew,10,2019-05-01 12:30:00
+user1,Matthew,10,2019-05-01 12:30:00
+user1,Matthew,10,2019-05-01 12:30:00
+user1,Matthew,11,2019-05-01 12:30:00
+user1,Matthew,11,2019-05-01 12:30:00
+user1,Matthew,11,2019-05-01 12:30:00
+user1,Matthew,12,2019-05-01 12:30:00
+user1,Matthew,12,2019-05-01 12:30:00
+user1,Matthew,12,2019-05-01 12:30:00
+user1,Matthew,13,2019-05-01 12:30:00
+user1,Matthew,13,2019-05-01 12:30:00
+user1,Matthew,13,2019-05-01 12:30:00
+user1,Matthew,13,2019-05-01 12:30:00
+user1,Matthew,14,2019-05-01 12:30:00
+user1,Matthew,14,2019-05-01 12:30:00
+user1,Matthew,14,2019-05-01 12:30:00
+user1,Matthew,15,2019-05-01 12:30:00
+user1,Matthew,15,2019-05-01 12:30:00
+user1,Matthew,15,2019-05-01 12:30:00
+user1,Matthew,16,2019-05-01 12:30:00
+user1,Matthew,16,2019-05-01 12:30:00
+user1,Matthew,17,2019-05-01 12:30:00
+user1,Matthew,17,2019-05-01 12:30:00
+user1,Matthew,18,2019-05-01 12:30:00
+user1,Matthew,18,2019-05-01 12:30:00
+user1,Matthew,18,2019-05-01 12:30:00
+user1,Matthew,19,2019-05-01 12:30:00
+user1,Matthew,19,2019-05-01 12:30:00
+user1,Matthew,19,2019-05-01 12:30:00
+user1,Matthew,19,2019-05-01 12:30:00
+user1,Matthew,19,2019-05-01 12:30:00
+user1,Matthew,20,2019-05-01 12:30:00
+user1,Matthew,20,2019-05-01 12:30:00
+user1,Matthew,21,2019-05-01 12:30:00
+user1,Matthew,21,2019-05-01 12:30:00
+user1,Matthew,22,2019-05-01 12:30:00
+user1,Matthew,22,2019-05-01 12:30:00
+user1,Matthew,22,2019-05-01 12:30:00
+user1,Matthew,23,2019-05-01 12:30:00
+user1,Matthew,23,2019-05-01 12:30:00
+user1,Matthew,24,2019-05-01 12:30:00
+user1,Matthew,24,2019-05-01 12:30:00
+user1,Matthew,24,2019-05-01 12:30:00
+user1,Matthew,25,2019-05-01 12:30:00
+user1,Matthew,25,2019-05-01 12:30:00
+user1,Matthew,25,2019-05-01 12:30:00
+user1,Matthew,25,2019-05-01 12:30:00
+user1,Matthew,25,2019-05-01 12:30:00
+user1,Matthew,26,2019-05-01 12:30:00
+user1,Matthew,26,2019-05-01 12:30:00
+user1,Matthew,27,2019-05-01 12:30:00
+user1,Matthew,28,2019-05-01 12:30:00
+user1,Mark,1,2019-05-01 12:30:00
+user1,Mark,1,2019-05-01 12:30:00
+user1,Mark,1,2019-05-01 12:30:00
+user1,Mark,1,2019-05-01 12:30:00
+user1,Mark,2,2019-05-01 12:30:00
+user1,Mark,2,2019-05-01 12:30:00
+user1,Mark,2,2019-05-01 12:30:00
+user1,Mark,2,2019-05-01 12:30:00
+user1,Mark,3,2019-05-01 12:30:00
+user1,Mark,3,2019-05-01 12:30:00
+user1,Mark,3,2019-05-01 12:30:00
+user1,Mark,4,2019-05-01 12:30:00
+user1,Mark,5,2019-05-01 12:30:00
+user1,Mark,5,2019-05-01 12:30:00
+user1,Mark,5,2019-05-01 12:30:00
+user1,Mark,6,2019-05-01 12:30:00
+user1,Mark,6,2019-05-01 12:30:00
+user1,Mark,7,2019-05-01 12:30:00
+user1,Mark,7,2019-05-01 12:30:00
+user1,Mark,7,2019-05-01 12:30:00
+user1,Mark,7,2019-05-01 12:30:00
+user1,Mark,8,2019-05-01 12:30:00
+user1,Mark,8,2019-05-01 12:30:00
+user1,Mark,8,2019-05-01 12:30:00
+user1,Mark,8,2019-05-01 12:30:00
+user1,Mark,9,2019-05-01 12:30:00
+user1,Mark,10,2019-05-01 12:30:00
+user1,Mark,10,2019-05-01 12:30:00
+user1,Mark,10,2019-05-01 12:30:00
+user1,Mark,11,2019-05-01 12:30:00
+user1,Mark,11,2019-05-01 12:30:00
+user1,Mark,11,2019-05-01 12:30:00
+user1,Mark,12,2019-05-01 12:30:00
+user1,Mark,12,2019-05-01 12:30:00
+user1,Mark,12,2019-05-01 12:30:00
+user1,Mark,12,2019-05-01 12:30:00
+user1,Mark,13,2019-05-01 12:30:00
+user1,Mark,13,2019-05-01 12:30:00
+user1,Mark,13,2019-05-01 12:30:00
+user1,Mark,13,2019-05-01 12:30:00
+user1,Mark,14,2019-05-01 12:30:00
+user1,Mark,14,2019-05-01 12:30:00
+user1,Mark,15,2019-05-01 12:30:00
+user1,Mark,15,2019-05-01 12:30:00
+user1,Mark,15,2019-05-01 12:30:00
+user1,Mark,15,2019-05-01 12:30:00
+user1,Mark,16,2019-05-01 12:30:00
+user1,Mark,16,2019-05-01 12:30:00
+user1,John,1,2019-05-01 12:30:00
+user1,John,1,2019-05-01 12:30:00
+user1,John,1,2019-05-01 12:30:00
+user1,John,2,2019-05-01 12:30:00
+user1,John,2,2019-05-01 12:30:00
+user1,John,2,2019-05-01 12:30:00
+user1,John,2,2019-05-01 12:30:00
+user1,John,3,2019-05-01 12:30:00
+user1,John,3,2019-05-01 12:30:00
+user1,John,3,2019-05-01 12:30:00
+user1,John,4,2019-05-01 12:30:00
+user1,John,4,2019-05-01 12:30:00
+user1,John,4,2019-05-01 12:30:00
+user1,John,4,2019-05-01 12:30:00
+user1,John,5,2019-05-01 12:30:00
+user1,John,5,2019-05-01 12:30:00
+user1,John,6,2019-05-01 12:30:00
+user1,John,6,2019-05-01 12:30:00
+user1,John,6,2019-05-01 12:30:00
+user1,John,6,2019-05-01 12:30:00
+user1,John,6,2019-05-01 12:30:00
+user1,John,7,2019-05-01 12:30:00
+user1,John,7,2019-05-01 12:30:00
+user1,John,7,2019-05-01 12:30:00
+user1,John,8,2019-05-01 12:30:00
+user1,John,8,2019-05-01 12:30:00
+user1,John,9,2019-05-01 12:30:00
+user1,John,10,2019-05-01 12:30:00
+user1,John,10,2019-05-01 12:30:00
+user1,John,10,2019-05-01 12:30:00
+user1,John,11,2019-05-01 12:30:00
+user1,John,11,2019-05-01 12:30:00
+user1,John,11,2019-05-01 12:30:00
+user1,John,12,2019-05-01 12:30:00
+user1,John,12,2019-05-01 12:30:00
+user1,John,12,2019-05-01 12:30:00
+user1,John,13,2019-05-01 12:30:00
+user1,John,13,2019-05-01 12:30:00
+user1,John,13,2019-05-01 12:30:00
+user1,John,13,2019-05-01 12:30:00
+user1,John,14,2019-05-01 12:30:00
+user1,John,14,2019-05-01 12:30:00
+user1,John,14,2019-05-01 12:30:00
+user1,John,15,2019-05-01 12:30:00
+user1,John,15,2019-05-01 12:30:00
+user1,John,15,2019-05-01 12:30:00
+user1,John,15,2019-05-01 12:30:00
+user1,John,16,2019-05-01 12:30:00
+user1,John,16,2019-05-01 12:30:00
+user1,John,17,2019-05-01 12:30:00
+user1,John,17,2019-05-01 12:30:00
+user1,John,18,2019-05-01 12:30:00
+user1,John,18,2019-05-01 12:30:00
+user1,John,19,2019-05-01 12:30:00
+user1,John,19,2019-05-01 12:30:00
+user1,John,19,2019-05-01 12:30:00
+user1,John,20,2019-05-01 12:30:00
+user1,John,20,2019-05-01 12:30:00
+user1,John,20,2019-05-01 12:30:00
+user1,John,20,2019-05-01 12:30:00
+user1,John,20,2019-05-01 12:30:00
+user1,John,21,2019-05-01 12:30:00
+user1,John,21,2019-05-01 12:30:00
+user1,John,21,2019-05-01 12:30:00
+user1,Acts,1,2019-05-01 12:30:00
+user1,Acts,1,2019-05-01 12:30:00
+user1,Acts,2,2019-05-01 12:30:00
+user1,Acts,2,2019-05-01 12:30:00
+user1,Acts,2,2019-05-01 12:30:00
+user1,Acts,3,2019-05-01 12:30:00
+user1,Acts,3,2019-05-01 12:30:00
+user1,Acts,3,2019-05-01 12:30:00
+user1,Acts,3,2019-05-01 12:30:00
+user1,Acts,4,2019-05-01 12:30:00
+user1,Acts,4,2019-05-01 12:30:00
+user1,Acts,4,2019-05-01 12:30:00
+user1,Acts,5,2019-05-01 12:30:00
+user1,Acts,5,2019-05-01 12:30:00
+user1,Acts,5,2019-05-01 12:30:00
+user1,Acts,6,2019-05-01 12:30:00
+user1,Acts,6,2019-05-01 12:30:00
+user1,Acts,6,2019-05-01 12:30:00
+user1,Acts,6,2019-05-01 12:30:00
+user1,Acts,7,2019-05-01 12:30:00
+user1,Acts,7,2019-05-01 12:30:00
+user1,Acts,7,2019-05-01 12:30:00
+user1,Acts,7,2019-05-01 12:30:00
+user1,Acts,8,2019-05-01 12:30:00
+user1,Acts,8,2019-05-01 12:30:00
+user1,Acts,9,2019-05-01 12:30:00
+user1,Acts,9,2019-05-01 12:30:00
+user1,Acts,9,2019-05-01 12:30:00
+user1,Acts,9,2019-05-01 12:30:00
+user1,Acts,10,2019-05-01 12:30:00
+user1,Acts,10,2019-05-01 12:30:00
+user1,Acts,11,2019-05-01 12:30:00
+user1,Acts,11,2019-05-01 12:30:00
+user1,Acts,12,2019-05-01 12:30:00
+user1,Acts,12,2019-05-01 12:30:00
+user1,Acts,13,2019-05-01 12:30:00
+user1,Acts,13,2019-05-01 12:30:00
+user1,Acts,13,2019-05-01 12:30:00
+user1,Acts,14,2019-05-01 12:30:00
+user1,Acts,14,2019-05-01 12:30:00
+user1,Acts,14,2019-05-01 12:30:00
+user1,Acts,14,2019-05-01 12:30:00
+user1,Acts,15,2019-05-01 12:30:00
+user1,Acts,15,2019-05-01 12:30:00
+user1,Acts,15,2019-05-01 12:30:00
+user1,Acts,15,2019-05-01 12:30:00
+user1,Acts,16,2019-05-01 12:30:00
+user1,Acts,16,2019-05-01 12:30:00
+user1,Acts,17,2019-05-01 12:30:00
+user1,Acts,17,2019-05-01 12:30:00
+user1,Acts,17,2019-05-01 12:30:00
+user1,Acts,18,2019-05-01 12:30:00
+user1,Acts,18,2019-05-01 12:30:00
+user1,Acts,18,2019-05-01 12:30:00
+user1,Acts,19,2019-05-01 12:30:00
+user1,Acts,19,2019-05-01 12:30:00
+user1,Acts,20,2019-05-01 12:30:00
+user1,Acts,20,2019-05-01 12:30:00
+user1,Acts,21,2019-05-01 12:30:00
+user1,Acts,21,2019-05-01 12:30:00
+user1,Acts,21,2019-05-01 12:30:00
+user1,Acts,22,2019-05-01 12:30:00
+user1,Acts,22,2019-05-01 12:30:00
+user1,Acts,22,2019-05-01 12:30:00
+user1,Acts,23,2019-05-01 12:30:00
+user1,Acts,24,2019-05-01 12:30:00
+user1,Acts,24,2019-05-01 12:30:00
+user1,Acts,24,2019-05-01 12:30:00
+user1,Acts,25,2019-05-01 12:30:00
+user1,Acts,25,2019-05-01 12:30:00
+user1,Acts,25,2019-05-01 12:30:00
+user1,Acts,26,2019-05-01 12:30:00
+user1,Acts,26,2019-05-01 12:30:00
+user1,Acts,27,2019-05-01 12:30:00
+user1,Acts,27,2019-05-01 12:30:00
+user1,Acts,28,2019-05-01 12:30:00
+user1,Acts,28,2019-05-01 12:30:00
+user1,Acts,28,2019-05-01 12:30:00
+user1,Acts,28,2019-05-01 12:30:00
+user1,Romans,1,2019-05-01 12:30:00
+user1,Romans,1,2019-05-01 12:30:00
+user1,Romans,2,2019-05-01 12:30:00
+user1,Romans,2,2019-05-01 12:30:00
+user1,Romans,2,2019-05-01 12:30:00
+user1,Romans,3,2019-05-01 12:30:00
+user1,Romans,3,2019-05-01 12:30:00
+user1,Romans,3,2019-05-01 12:30:00
+user1,Romans,3,2019-05-01 12:30:00
+user1,Romans,4,2019-05-01 12:30:00
+user1,Romans,4,2019-05-01 12:30:00
+user1,Romans,4,2019-05-01 12:30:00
+user1,Romans,5,2019-05-01 12:30:00
+user1,Romans,5,2019-05-01 12:30:00
+user1,Romans,6,2019-05-01 12:30:00
+user1,Romans,6,2019-05-01 12:30:00
+user1,Romans,7,2019-05-01 12:30:00
+user1,Romans,7,2019-05-01 12:30:00
+user1,Romans,7,2019-05-01 12:30:00
+user1,Romans,8,2019-05-01 12:30:00
+user1,Romans,9,2019-05-01 12:30:00
+user1,Romans,10,2019-05-01 12:30:00
+user1,Romans,10,2019-05-01 12:30:00
+user1,Romans,10,2019-05-01 12:30:00
+user1,Romans,11,2019-05-01 12:30:00
+user1,Romans,11,2019-05-01 12:30:00
+user1,Romans,11,2019-05-01 12:30:00
+user1,Romans,12,2019-05-01 12:30:00
+user1,Romans,12,2019-05-01 12:30:00
+user1,Romans,13,2019-05-01 12:30:00
+user1,Romans,13,2019-05-01 12:30:00
+user1,Romans,13,2019-05-01 12:30:00
+user1,Romans,14,2019-05-01 12:30:00
+user1,Romans,14,2019-05-01 12:30:00
+user1,Romans,14,2019-05-01 12:30:00
+user1,Romans,14,2019-05-01 12:30:00
+user1,Romans,15,2019-05-01 12:30:00
+user1,Romans,15,2019-05-01 12:30:00
+user1,Romans,15,2019-05-01 12:30:00
+user1,Romans,16,2019-05-01 12:30:00
+user1,Romans,16,2019-05-01 12:30:00
+user1,Romans,16,2019-05-01 12:30:00
+user1,Romans,16,2019-05-01 12:30:00
+user1,1 Corinthians,1,2019-05-01 12:30:00
+user1,1 Corinthians,1,2019-05-01 12:30:00
+user1,1 Corinthians,1,2019-05-01 12:30:00
+user1,1 Corinthians,3,2019-05-01 12:30:00
+user1,1 Corinthians,4,2019-05-01 12:30:00
+user1,1 Corinthians,4,2019-05-01 12:30:00
+user1,1 Corinthians,4,2019-05-01 12:30:00
+user1,1 Corinthians,4,2019-05-01 12:30:00
+user1,1 Corinthians,5,2019-05-01 12:30:00
+user1,1 Corinthians,5,2019-05-01 12:30:00
+user1,1 Corinthians,5,2019-05-01 12:30:00
+user1,1 Corinthians,5,2019-05-01 12:30:00
+user1,1 Corinthians,6,2019-05-01 12:30:00
+user1,1 Corinthians,6,2019-05-01 12:30:00
+user1,1 Corinthians,7,2019-05-01 12:30:00
+user1,1 Corinthians,7,2019-05-01 12:30:00
+user1,1 Corinthians,8,2019-05-01 12:30:00
+user1,1 Corinthians,8,2019-05-01 12:30:00
+user1,1 Corinthians,8,2019-05-01 12:30:00
+user1,1 Corinthians,9,2019-05-01 12:30:00
+user1,1 Corinthians,9,2019-05-01 12:30:00
+user1,1 Corinthians,9,2019-05-01 12:30:00
+user1,1 Corinthians,10,2019-05-01 12:30:00
+user1,1 Corinthians,10,2019-05-01 12:30:00
+user1,1 Corinthians,10,2019-05-01 12:30:00
+user1,1 Corinthians,11,2019-05-01 12:30:00
+user1,1 Corinthians,11,2019-05-01 12:30:00
+user1,1 Corinthians,12,2019-05-01 12:30:00
+user1,1 Corinthians,12,2019-05-01 12:30:00
+user1,1 Corinthians,12,2019-05-01 12:30:00
+user1,1 Corinthians,13,2019-05-01 12:30:00
+user1,1 Corinthians,13,2019-05-01 12:30:00
+user1,1 Corinthians,13,2019-05-01 12:30:00
+user1,1 Corinthians,14,2019-05-01 12:30:00
+user1,1 Corinthians,14,2019-05-01 12:30:00
+user1,1 Corinthians,14,2019-05-01 12:30:00
+user1,1 Corinthians,14,2019-05-01 12:30:00
+user1,1 Corinthians,14,2019-05-01 12:30:00
+user1,1 Corinthians,15,2019-05-01 12:30:00
+user1,1 Corinthians,15,2019-05-01 12:30:00
+user1,1 Corinthians,15,2019-05-01 12:30:00
+user1,1 Corinthians,16,2019-05-01 12:30:00
+user1,1 Corinthians,16,2019-05-01 12:30:00
+user1,1 Corinthians,16,2019-05-01 12:30:00
+user1,2 Corinthians,1,2019-05-01 12:30:00
+user1,2 Corinthians,1,2019-05-01 12:30:00
+user1,2 Corinthians,2,2019-05-01 12:30:00
+user1,2 Corinthians,2,2019-05-01 12:30:00
+user1,2 Corinthians,2,2019-05-01 12:30:00
+user1,2 Corinthians,3,2019-05-01 12:30:00
+user1,2 Corinthians,3,2019-05-01 12:30:00
+user1,2 Corinthians,3,2019-05-01 12:30:00
+user1,2 Corinthians,4,2019-05-01 12:30:00
+user1,2 Corinthians,4,2019-05-01 12:30:00
+user1,2 Corinthians,4,2019-05-01 12:30:00
+user1,2 Corinthians,5,2019-05-01 12:30:00
+user1,2 Corinthians,5,2019-05-01 12:30:00
+user1,2 Corinthians,5,2019-05-01 12:30:00
+user1,2 Corinthians,5,2019-05-01 12:30:00
+user1,2 Corinthians,5,2019-05-01 12:30:00
+user1,2 Corinthians,6,2019-05-01 12:30:00
+user1,2 Corinthians,6,2019-05-01 12:30:00
+user1,2 Corinthians,7,2019-05-01 12:30:00
+user1,2 Corinthians,7,2019-05-01 12:30:00
+user1,2 Corinthians,8,2019-05-01 12:30:00
+user1,2 Corinthians,8,2019-05-01 12:30:00
+user1,2 Corinthians,8,2019-05-01 12:30:00
+user1,2 Corinthians,8,2019-05-01 12:30:00
+user1,2 Corinthians,8,2019-05-01 12:30:00
+user1,2 Corinthians,9,2019-05-01 12:30:00
+user1,2 Corinthians,9,2019-05-01 12:30:00
+user1,2 Corinthians,9,2019-05-01 12:30:00
+user1,2 Corinthians,10,2019-05-01 12:30:00
+user1,2 Corinthians,10,2019-05-01 12:30:00
+user1,2 Corinthians,11,2019-05-01 12:30:00
+user1,2 Corinthians,12,2019-05-01 12:30:00
+user1,2 Corinthians,12,2019-05-01 12:30:00
+user1,2 Corinthians,12,2019-05-01 12:30:00
+user1,2 Corinthians,13,2019-05-01 12:30:00
+user1,2 Corinthians,13,2019-05-01 12:30:00
+user1,2 Corinthians,13,2019-05-01 12:30:00
+user1,Ephesians,1,2019-05-01 12:30:00
+user1,Ephesians,1,2019-05-01 12:30:00
+user1,Ephesians,1,2019-05-01 12:30:00
+user1,Ephesians,2,2019-05-01 12:30:00
+user1,Ephesians,2,2019-05-01 12:30:00
+user1,Ephesians,2,2019-05-01 12:30:00
+user1,Ephesians,3,2019-05-01 12:30:00
+user1,Ephesians,3,2019-05-01 12:30:00
+user1,Ephesians,3,2019-05-01 12:30:00
+user1,Ephesians,4,2019-05-01 12:30:00
+user1,Ephesians,4,2019-05-01 12:30:00
+user1,Ephesians,4,2019-05-01 12:30:00
+user1,Ephesians,4,2019-05-01 12:30:00
+user1,Ephesians,5,2019-05-01 12:30:00
+user1,Ephesians,5,2019-05-01 12:30:00
+user1,Ephesians,5,2019-05-01 12:30:00
+user1,Ephesians,6,2019-05-01 12:30:00
+user1,Ephesians,6,2019-05-01 12:30:00
+user1,Ephesians,6,2019-05-01 12:30:00
+user1,Philippians,1,2019-05-01 12:30:00
+user1,Philippians,1,2019-05-01 12:30:00
+user1,Philippians,2,2019-05-01 12:30:00
+user1,Philippians,2,2019-05-01 12:30:00
+user1,Philippians,2,2019-05-01 12:30:00
+user1,Philippians,2,2019-05-01 12:30:00
+user1,Philippians,2,2019-05-01 12:30:00
+user1,Philippians,3,2019-05-01 12:30:00
+user1,Philippians,3,2019-05-01 12:30:00
+user1,Philippians,3,2019-05-01 12:30:00
+user1,Philippians,3,2019-05-01 12:30:00
+user1,Philippians,4,2019-05-01 12:30:00
+user1,Philippians,4,2019-05-01 12:30:00
+user1,Philippians,4,2019-05-01 12:30:00
+user1,Colossians,1,2019-05-01 12:30:00
+user1,Colossians,1,2019-05-01 12:30:00
+user1,Colossians,1,2019-05-01 12:30:00
+user1,Colossians,2,2019-05-01 12:30:00
+user1,Colossians,2,2019-05-01 12:30:00
+user1,Colossians,3,2019-05-01 12:30:00
+user1,Colossians,3,2019-05-01 12:30:00
+user1,Colossians,3,2019-05-01 12:30:00
+user1,Colossians,3,2019-05-01 12:30:00
+user1,Colossians,4,2019-05-01 12:30:00
+user1,Colossians,4,2019-05-01 12:30:00
+user1,1 Thessalonians,1,2019-05-01 12:30:00
+user1,1 Thessalonians,1,2019-05-01 12:30:00
+user1,1 Thessalonians,1,2019-05-01 12:30:00
+user1,1 Thessalonians,2,2019-05-01 12:30:00
+user1,1 Thessalonians,2,2019-05-01 12:30:00
+user1,1 Thessalonians,2,2019-05-01 12:30:00
+user1,1 Thessalonians,2,2019-05-01 12:30:00
+user1,1 Thessalonians,3,2019-05-01 12:30:00
+user1,1 Thessalonians,3,2019-05-01 12:30:00
+user1,1 Thessalonians,3,2019-05-01 12:30:00
+user1,1 Thessalonians,4,2019-05-01 12:30:00
+user1,1 Thessalonians,4,2019-05-01 12:30:00
+user1,1 Thessalonians,4,2019-05-01 12:30:00
+user1,1 Thessalonians,4,2019-05-01 12:30:00
+user1,1 Thessalonians,5,2019-05-01 12:30:00
+user1,1 Thessalonians,5,2019-05-01 12:30:00
+user1,1 Thessalonians,5,2019-05-01 12:30:00
+user1,2 Thessalonians,1,2019-05-01 12:30:00
+user1,2 Thessalonians,1,2019-05-01 12:30:00
+user1,2 Thessalonians,2,2019-05-01 12:30:00
+user1,2 Thessalonians,2,2019-05-01 12:30:00
+user1,2 Thessalonians,2,2019-05-01 12:30:00
+user1,2 Thessalonians,2,2019-05-01 12:30:00
+user1,2 Thessalonians,3,2019-05-01 12:30:00
+user1,1 Timothy,1,2019-05-01 12:30:00
+user1,1 Timothy,2,2019-05-01 12:30:00
+user1,1 Timothy,2,2019-05-01 12:30:00
+user1,1 Timothy,2,2019-05-01 12:30:00
+user1,1 Timothy,3,2019-05-01 12:30:00
+user1,1 Timothy,3,2019-05-01 12:30:00
+user1,1 Timothy,3,2019-05-01 12:30:00
+user1,1 Timothy,4,2019-05-01 12:30:00
+user1,1 Timothy,4,2019-05-01 12:30:00
+user1,1 Timothy,4,2019-05-01 12:30:00
+user1,1 Timothy,4,2019-05-01 12:30:00
+user1,1 Timothy,4,2019-05-01 12:30:00
+user1,1 Timothy,5,2019-05-01 12:30:00
+user1,1 Timothy,5,2019-05-01 12:30:00
+user1,1 Timothy,5,2019-05-01 12:30:00
+user1,1 Timothy,6,2019-05-01 12:30:00
+user1,1 Timothy,6,2019-05-01 12:30:00
+user1,Hebrews,1,2019-05-01 12:30:00
+user1,Hebrews,1,2019-05-01 12:30:00
+user1,Hebrews,1,2019-05-01 12:30:00
+user1,Hebrews,2,2019-05-01 12:30:00
+user1,Hebrews,2,2019-05-01 12:30:00
+user1,Hebrews,2,2019-05-01 12:30:00
+user1,Hebrews,2,2019-05-01 12:30:00
+user1,Hebrews,3,2019-05-01 12:30:00
+user1,Hebrews,3,2019-05-01 12:30:00
+user1,Hebrews,3,2019-05-01 12:30:00
+user1,Hebrews,4,2019-05-01 12:30:00
+user1,Hebrews,4,2019-05-01 12:30:00
+user1,Hebrews,4,2019-05-01 12:30:00
+user1,Hebrews,4,2019-05-01 12:30:00
+user1,Hebrews,5,2019-05-01 12:30:00
+user1,Hebrews,5,2019-05-01 12:30:00
+user1,Hebrews,5,2019-05-01 12:30:00
+user1,Hebrews,6,2019-05-01 12:30:00
+user1,Hebrews,6,2019-05-01 12:30:00
+user1,Hebrews,6,2019-05-01 12:30:00
+user1,Hebrews,6,2019-05-01 12:30:00
+user1,Hebrews,7,2019-05-01 12:30:00
+user1,Hebrews,8,2019-05-01 12:30:00
+user1,Hebrews,8,2019-05-01 12:30:00
+user1,Hebrews,8,2019-05-01 12:30:00
+user1,Hebrews,9,2019-05-01 12:30:00
+user1,Hebrews,9,2019-05-01 12:30:00
+user1,Hebrews,9,2019-05-01 12:30:00
+user1,Hebrews,9,2019-05-01 12:30:00
+user1,Hebrews,10,2019-05-01 12:30:00
+user1,Hebrews,10,2019-05-01 12:30:00
+user1,Hebrews,11,2019-05-01 12:30:00
+user1,Hebrews,11,2019-05-01 12:30:00
+user1,Hebrews,11,2019-05-01 12:30:00
+user1,Hebrews,11,2019-05-01 12:30:00
+user1,Hebrews,12,2019-05-01 12:30:00
+user1,Hebrews,12,2019-05-01 12:30:00
+user1,Hebrews,12,2019-05-01 12:30:00
+user1,Hebrews,13,2019-05-01 12:30:00
+user1,Hebrews,13,2019-05-01 12:30:00
+user1,Hebrews,13,2019-05-01 12:30:00
+user1,Hebrews,13,2019-05-01 12:30:00
+user1,James,1,2019-05-01 12:30:00
+user1,James,1,2019-05-01 12:30:00
+user1,James,1,2019-05-01 12:30:00
+user1,James,2,2019-05-01 12:30:00
+user1,James,2,2019-05-01 12:30:00
+user1,James,2,2019-05-01 12:30:00
+user1,James,3,2019-05-01 12:30:00
+user1,James,3,2019-05-01 12:30:00
+user1,James,4,2019-05-01 12:30:00
+user1,James,5,2019-05-01 12:30:00
+user1,James,5,2019-05-01 12:30:00
+user1,James,5,2019-05-01 12:30:00
+user1,1 Peter,1,2019-05-01 12:30:00
+user1,1 Peter,1,2019-05-01 12:30:00
+user1,1 Peter,1,2019-05-01 12:30:00
+user1,1 Peter,2,2019-05-01 12:30:00
+user1,1 Peter,2,2019-05-01 12:30:00
+user1,1 Peter,2,2019-05-01 12:30:00
+user1,1 Peter,3,2019-05-01 12:30:00
+user1,1 Peter,3,2019-05-01 12:30:00
+user1,1 Peter,3,2019-05-01 12:30:00
+user1,1 Peter,4,2019-05-01 12:30:00
+user1,1 Peter,4,2019-05-01 12:30:00
+user1,1 Peter,4,2019-05-01 12:30:00
+user1,1 Peter,5,2019-05-01 12:30:00
+user1,2 Peter,1,2019-05-01 12:30:00
+user1,2 Peter,1,2019-05-01 12:30:00
+user1,2 Peter,1,2019-05-01 12:30:00
+user1,2 Peter,1,2019-05-01 12:30:00
+user1,2 Peter,2,2019-05-01 12:30:00
+user1,2 Peter,2,2019-05-01 12:30:00
+user1,2 Peter,2,2019-05-01 12:30:00
+user1,2 Peter,3,2019-05-01 12:30:00
+user1,2 Peter,3,2019-05-01 12:30:00
+user1,2 Peter,3,2019-05-01 12:30:00
+user1,2 Peter,3,2019-05-01 12:30:00
+user1,1 John,1,2019-05-01 12:30:00
+user1,1 John,1,2019-05-01 12:30:00
+user1,1 John,1,2019-05-01 12:30:00
+user1,1 John,2,2019-05-01 12:30:00
+user1,1 John,2,2019-05-01 12:30:00
+user1,1 John,3,2019-05-01 12:30:00
+user1,1 John,3,2019-05-01 12:30:00
+user1,1 John,4,2019-05-01 12:30:00
+user1,1 John,4,2019-05-01 12:30:00
+user1,1 John,4,2019-05-01 12:30:00
+user1,1 John,4,2019-05-01 12:30:00
+user1,1 John,5,2019-05-01 12:30:00
+user1,1 John,5,2019-05-01 12:30:00
+user1,1 John,5,2019-05-01 12:30:00
+user1,3 John,1,2019-05-01 12:30:00
+user1,3 John,1,2019-05-01 12:30:00
+user1,3 John,1,2019-05-01 12:30:00
+user1,Jude,1,2019-05-01 12:30:00
+user1,Jude,1,2019-05-01 12:30:00
+user1,Jude,1,2019-05-01 12:30:00
+user1,Revelation,1,2019-05-01 12:30:00
+user1,Revelation,1,2019-05-01 12:30:00
+user1,Revelation,1,2019-05-01 12:30:00
+user1,Revelation,1,2019-05-01 12:30:00
+user1,Revelation,2,2019-05-01 12:30:00
+user1,Revelation,2,2019-05-01 12:30:00
+user1,Revelation,2,2019-05-01 12:30:00
+user1,Revelation,3,2019-05-01 12:30:00
+user1,Revelation,3,2019-05-01 12:30:00
+user1,Revelation,3,2019-05-01 12:30:00
+user1,Revelation,4,2019-05-01 12:30:00
+user1,Revelation,4,2019-05-01 12:30:00
+user1,Revelation,5,2019-05-01 12:30:00
+user1,Revelation,5,2019-05-01 12:30:00
+user1,Revelation,5,2019-05-01 12:30:00
+user1,Revelation,5,2019-05-01 12:30:00
+user1,Revelation,6,2019-05-01 12:30:00
+user1,Revelation,6,2019-05-01 12:30:00
+user1,Revelation,6,2019-05-01 12:30:00
+user1,Revelation,7,2019-05-01 12:30:00
+user1,Revelation,8,2019-05-01 12:30:00
+user1,Revelation,8,2019-05-01 12:30:00
+user1,Revelation,9,2019-05-01 12:30:00
+user1,Revelation,9,2019-05-01 12:30:00
+user1,Revelation,9,2019-05-01 12:30:00
+user1,Revelation,10,2019-05-01 12:30:00
+user1,Revelation,10,2019-05-01 12:30:00
+user1,Revelation,10,2019-05-01 12:30:00
+user1,Revelation,11,2019-05-01 12:30:00
+user1,Revelation,11,2019-05-01 12:30:00
+user1,Revelation,11,2019-05-01 12:30:00
+user1,Revelation,11,2019-05-01 12:30:00
+user1,Revelation,12,2019-05-01 12:30:00
+user1,Revelation,12,2019-05-01 12:30:00
+user1,Revelation,12,2019-05-01 12:30:00
+user1,Revelation,12,2019-05-01 12:30:00
+user1,Revelation,13,2019-05-01 12:30:00
+user1,Revelation,13,2019-05-01 12:30:00
+user1,Revelation,14,2019-05-01 12:30:00
+user1,Revelation,15,2019-05-01 12:30:00
+user1,Revelation,16,2019-05-01 12:30:00
+user1,Revelation,16,2019-05-01 12:30:00
+user1,Revelation,17,2019-05-01 12:30:00
+user1,Revelation,17,2019-05-01 12:30:00
+user1,Revelation,17,2019-05-01 12:30:00
+user1,Revelation,17,2019-05-01 12:30:00
+user1,Revelation,18,2019-05-01 12:30:00
+user1,Revelation,18,2019-05-01 12:30:00
+user1,Revelation,19,2019-05-01 12:30:00
+user1,Revelation,19,2019-05-01 12:30:00
+user1,Revelation,19,2019-05-01 12:30:00
+user1,Revelation,19,2019-05-01 12:30:00
+user1,Revelation,20,2019-05-01 12:30:00
+user1,Revelation,21,2019-05-01 12:30:00
+user1,Revelation,21,2019-05-01 12:30:00
+user1,Revelation,21,2019-05-01 12:30:00
+user1,Revelation,21,2019-05-01 12:30:00
+user1,Revelation,22,2019-05-01 12:30:00
+user1,Revelation,22,2019-05-01 12:30:00
+user2,Genesis,1,2019-05-01 12:30:00
+user2,Genesis,2,2019-05-01 12:30:00
+user2,Genesis,2,2019-05-01 12:30:00
+user2,Genesis,3,2019-05-01 12:30:00
+user2,Genesis,3,2019-05-01 12:30:00
+user2,Genesis,3,2019-05-01 12:30:00
+user2,Genesis,3,2019-05-01 12:30:00
+user2,Genesis,4,2019-05-01 12:30:00
+user2,Genesis,4,2019-05-01 12:30:00
+user2,Genesis,4,2019-05-01 12:30:00
+user2,Genesis,4,2019-05-01 12:30:00
+user2,Genesis,5,2019-05-01 12:30:00
+user2,Genesis,5,2019-05-01 12:30:00
+user2,Genesis,6,2019-05-01 12:30:00
+user2,Genesis,6,2019-05-01 12:30:00
+user2,Genesis,7,2019-05-01 12:30:00
+user2,Genesis,7,2019-05-01 12:30:00
+user2,Genesis,7,2019-05-01 12:30:00
+user2,Genesis,7,2019-05-01 12:30:00
+user2,Genesis,8,2019-05-01 12:30:00
+user2,Genesis,8,2019-05-01 12:30:00
+user2,Genesis,9,2019-05-01 12:30:00
+user2,Genesis,9,2019-05-01 12:30:00
+user2,Genesis,9,2019-05-01 12:30:00
+user2,Genesis,10,2019-05-01 12:30:00
+user2,Genesis,10,2019-05-01 12:30:00
+user2,Genesis,11,2019-05-01 12:30:00
+user2,Genesis,11,2019-05-01 12:30:00
+user2,Genesis,11,2019-05-01 12:30:00
+user2,Genesis,11,2019-05-01 12:30:00
+user2,Genesis,12,2019-05-01 12:30:00
+user2,Genesis,12,2019-05-01 12:30:00
+user2,Genesis,12,2019-05-01 12:30:00
+user2,Genesis,13,2019-05-01 12:30:00
+user2,Genesis,13,2019-05-01 12:30:00
+user2,Genesis,13,2019-05-01 12:30:00
+user2,Genesis,14,2019-05-01 12:30:00
+user2,Genesis,14,2019-05-01 12:30:00
+user2,Genesis,14,2019-05-01 12:30:00
+user2,Genesis,15,2019-05-01 12:30:00
+user2,Genesis,15,2019-05-01 12:30:00
+user2,Genesis,15,2019-05-01 12:30:00
+user2,Genesis,16,2019-05-01 12:30:00
+user2,Genesis,16,2019-05-01 12:30:00
+user2,Genesis,16,2019-05-01 12:30:00
+user2,Genesis,16,2019-05-01 12:30:00
+user2,Genesis,17,2019-05-01 12:30:00
+user2,Genesis,17,2019-05-01 12:30:00
+user2,Genesis,17,2019-05-01 12:30:00
+user2,Genesis,17,2019-05-01 12:30:00
+user2,Genesis,18,2019-05-01 12:30:00
+user2,Genesis,18,2019-05-01 12:30:00
+user2,Genesis,19,2019-05-01 12:30:00
+user2,Genesis,19,2019-05-01 12:30:00
+user2,Genesis,19,2019-05-01 12:30:00
+user2,Genesis,20,2019-05-01 12:30:00
+user2,Genesis,20,2019-05-01 12:30:00
+user2,Genesis,20,2019-05-01 12:30:00
+user2,Genesis,21,2019-05-01 12:30:00
+user2,Genesis,21,2019-05-01 12:30:00
+user2,Genesis,22,2019-05-01 12:30:00
+user2,Genesis,22,2019-05-01 12:30:00
+user2,Genesis,22,2019-05-01 12:30:00
+user2,Genesis,23,2019-05-01 12:30:00
+user2,Genesis,23,2019-05-01 12:30:00
+user2,Genesis,24,2019-05-01 12:30:00
+user2,Genesis,24,2019-05-01 12:30:00
+user2,Genesis,25,2019-05-01 12:30:00
+user2,Genesis,25,2019-05-01 12:30:00
+user2,Genesis,25,2019-05-01 12:30:00
+user2,Genesis,26,2019-05-01 12:30:00
+user2,Genesis,26,2019-05-01 12:30:00
+user2,Genesis,26,2019-05-01 12:30:00
+user2,Genesis,27,2019-05-01 12:30:00
+user2,Genesis,27,2019-05-01 12:30:00
+user2,Genesis,27,2019-05-01 12:30:00
+user2,Genesis,28,2019-05-01 12:30:00
+user2,Genesis,28,2019-05-01 12:30:00
+user2,Genesis,28,2019-05-01 12:30:00
+user2,Genesis,29,2019-05-01 12:30:00
+user2,Genesis,29,2019-05-01 12:30:00
+user2,Genesis,29,2019-05-01 12:30:00
+user2,Genesis,30,2019-05-01 12:30:00
+user2,Genesis,30,2019-05-01 12:30:00
+user2,Genesis,30,2019-05-01 12:30:00
+user2,Genesis,30,2019-05-01 12:30:00
+user2,Genesis,31,2019-05-01 12:30:00
+user2,Genesis,31,2019-05-01 12:30:00
+user2,Genesis,32,2019-05-01 12:30:00
+user2,Genesis,33,2019-05-01 12:30:00
+user2,Genesis,33,2019-05-01 12:30:00
+user2,Genesis,33,2019-05-01 12:30:00
+user2,Genesis,34,2019-05-01 12:30:00
+user2,Genesis,34,2019-05-01 12:30:00
+user2,Genesis,35,2019-05-01 12:30:00
+user2,Genesis,35,2019-05-01 12:30:00
+user2,Genesis,35,2019-05-01 12:30:00
+user2,Genesis,35,2019-05-01 12:30:00
+user2,Genesis,36,2019-05-01 12:30:00
+user2,Genesis,36,2019-05-01 12:30:00
+user2,Genesis,37,2019-05-01 12:30:00
+user2,Genesis,37,2019-05-01 12:30:00
+user2,Genesis,37,2019-05-01 12:30:00
+user2,Genesis,38,2019-05-01 12:30:00
+user2,Genesis,38,2019-05-01 12:30:00
+user2,Genesis,39,2019-05-01 12:30:00
+user2,Genesis,39,2019-05-01 12:30:00
+user2,Genesis,40,2019-05-01 12:30:00
+user2,Genesis,40,2019-05-01 12:30:00
+user2,Genesis,40,2019-05-01 12:30:00
+user2,Genesis,41,2019-05-01 12:30:00
+user2,Genesis,41,2019-05-01 12:30:00
+user2,Genesis,41,2019-05-01 12:30:00
+user2,Genesis,42,2019-05-01 12:30:00
+user2,Genesis,42,2019-05-01 12:30:00
+user2,Genesis,42,2019-05-01 12:30:00
+user2,Genesis,42,2019-05-01 12:30:00
+user2,Genesis,43,2019-05-01 12:30:00
+user2,Genesis,43,2019-05-01 12:30:00
+user2,Genesis,43,2019-05-01 12:30:00
+user2,Genesis,44,2019-05-01 12:30:00
+user2,Genesis,45,2019-05-01 12:30:00
+user2,Genesis,45,2019-05-01 12:30:00
+user2,Genesis,45,2019-05-01 12:30:00
+user2,Genesis,45,2019-05-01 12:30:00
+user2,Genesis,46,2019-05-01 12:30:00
+user2,Genesis,46,2019-05-01 12:30:00
+user2,Genesis,46,2019-05-01 12:30:00
+user2,Genesis,47,2019-05-01 12:30:00
+user2,Genesis,47,2019-05-01 12:30:00
+user2,Genesis,48,2019-05-01 12:30:00
+user2,Genesis,49,2019-05-01 12:30:00
+user2,Genesis,49,2019-05-01 12:30:00
+user2,Genesis,49,2019-05-01 12:30:00
+user2,Genesis,49,2019-05-01 12:30:00
+user2,Genesis,50,2019-05-01 12:30:00
+user2,Exodus,1,2019-05-01 12:30:00
+user2,Exodus,1,2019-05-01 12:30:00
+user2,Exodus,1,2019-05-01 12:30:00
+user2,Exodus,1,2019-05-01 12:30:00
+user2,Exodus,2,2019-05-01 12:30:00
+user2,Exodus,2,2019-05-01 12:30:00
+user2,Exodus,3,2019-05-01 12:30:00
+user2,Exodus,3,2019-05-01 12:30:00
+user2,Exodus,3,2019-05-01 12:30:00
+user2,Exodus,4,2019-05-01 12:30:00
+user2,Exodus,4,2019-05-01 12:30:00
+user2,Exodus,5,2019-05-01 12:30:00
+user2,Exodus,5,2019-05-01 12:30:00
+user2,Exodus,5,2019-05-01 12:30:00
+user2,Exodus,5,2019-05-01 12:30:00
+user2,Exodus,6,2019-05-01 12:30:00
+user2,Exodus,6,2019-05-01 12:30:00
+user2,Exodus,7,2019-05-01 12:30:00
+user2,Exodus,7,2019-05-01 12:30:00
+user2,Exodus,7,2019-05-01 12:30:00
+user2,Exodus,7,2019-05-01 12:30:00
+user2,Exodus,8,2019-05-01 12:30:00
+user2,Exodus,8,2019-05-01 12:30:00
+user2,Exodus,9,2019-05-01 12:30:00
+user2,Exodus,9,2019-05-01 12:30:00
+user2,Exodus,10,2019-05-01 12:30:00
+user2,Exodus,10,2019-05-01 12:30:00
+user2,Exodus,11,2019-05-01 12:30:00
+user2,Exodus,11,2019-05-01 12:30:00
+user2,Exodus,11,2019-05-01 12:30:00
+user2,Exodus,12,2019-05-01 12:30:00
+user2,Exodus,12,2019-05-01 12:30:00
+user2,Exodus,12,2019-05-01 12:30:00
+user2,Exodus,13,2019-05-01 12:30:00
+user2,Exodus,14,2019-05-01 12:30:00
+user2,Exodus,14,2019-05-01 12:30:00
+user2,Exodus,15,2019-05-01 12:30:00
+user2,Exodus,15,2019-05-01 12:30:00
+user2,Exodus,15,2019-05-01 12:30:00
+user2,Exodus,16,2019-05-01 12:30:00
+user2,Exodus,16,2019-05-01 12:30:00
+user2,Exodus,17,2019-05-01 12:30:00
+user2,Exodus,17,2019-05-01 12:30:00
+user2,Exodus,17,2019-05-01 12:30:00
+user2,Exodus,17,2019-05-01 12:30:00
+user2,Exodus,18,2019-05-01 12:30:00
+user2,Exodus,18,2019-05-01 12:30:00
+user2,Exodus,19,2019-05-01 12:30:00
+user2,Exodus,19,2019-05-01 12:30:00
+user2,Exodus,19,2019-05-01 12:30:00
+user2,Exodus,19,2019-05-01 12:30:00
+user2,Exodus,19,2019-05-01 12:30:00
+user2,Exodus,20,2019-05-01 12:30:00
+user2,Exodus,20,2019-05-01 12:30:00
+user2,Exodus,20,2019-05-01 12:30:00
+user2,Exodus,21,2019-05-01 12:30:00
+user2,Exodus,22,2019-05-01 12:30:00
+user2,Exodus,22,2019-05-01 12:30:00
+user2,Exodus,22,2019-05-01 12:30:00
+user2,Exodus,23,2019-05-01 12:30:00
+user2,Exodus,24,2019-05-01 12:30:00
+user2,Exodus,24,2019-05-01 12:30:00
+user2,Exodus,25,2019-05-01 12:30:00
+user2,Exodus,25,2019-05-01 12:30:00
+user2,Exodus,25,2019-05-01 12:30:00
+user2,Exodus,25,2019-05-01 12:30:00
+user2,Exodus,27,2019-05-01 12:30:00
+user2,Exodus,27,2019-05-01 12:30:00
+user2,Exodus,27,2019-05-01 12:30:00
+user2,Exodus,28,2019-05-01 12:30:00
+user2,Exodus,28,2019-05-01 12:30:00
+user2,Exodus,28,2019-05-01 12:30:00
+user2,Exodus,29,2019-05-01 12:30:00
+user2,Exodus,29,2019-05-01 12:30:00
+user2,Exodus,30,2019-05-01 12:30:00
+user2,Exodus,31,2019-05-01 12:30:00
+user2,Exodus,31,2019-05-01 12:30:00
+user2,Exodus,32,2019-05-01 12:30:00
+user2,Exodus,33,2019-05-01 12:30:00
+user2,Exodus,33,2019-05-01 12:30:00
+user2,Exodus,33,2019-05-01 12:30:00
+user2,Exodus,33,2019-05-01 12:30:00
+user2,Exodus,34,2019-05-01 12:30:00
+user2,Exodus,34,2019-05-01 12:30:00
+user2,Exodus,35,2019-05-01 12:30:00
+user2,Exodus,36,2019-05-01 12:30:00
+user2,Exodus,36,2019-05-01 12:30:00
+user2,Exodus,37,2019-05-01 12:30:00
+user2,Exodus,37,2019-05-01 12:30:00
+user2,Exodus,37,2019-05-01 12:30:00
+user2,Exodus,38,2019-05-01 12:30:00
+user2,Exodus,38,2019-05-01 12:30:00
+user2,Exodus,39,2019-05-01 12:30:00
+user2,Exodus,39,2019-05-01 12:30:00
+user2,Exodus,40,2019-05-01 12:30:00
+user2,Exodus,40,2019-05-01 12:30:00
+user2,Exodus,40,2019-05-01 12:30:00
+user2,Exodus,40,2019-05-01 12:30:00
+user2,Deuteronomy,1,2019-05-01 12:30:00
+user2,Deuteronomy,1,2019-05-01 12:30:00
+user2,Deuteronomy,2,2019-05-01 12:30:00
+user2,Deuteronomy,2,2019-05-01 12:30:00
+user2,Deuteronomy,2,2019-05-01 12:30:00
+user2,Deuteronomy,2,2019-05-01 12:30:00
+user2,Deuteronomy,3,2019-05-01 12:30:00
+user2,Deuteronomy,3,2019-05-01 12:30:00
+user2,Deuteronomy,3,2019-05-01 12:30:00
+user2,Deuteronomy,4,2019-05-01 12:30:00
+user2,Deuteronomy,4,2019-05-01 12:30:00
+user2,Deuteronomy,5,2019-05-01 12:30:00
+user2,Deuteronomy,5,2019-05-01 12:30:00
+user2,Deuteronomy,5,2019-05-01 12:30:00
+user2,Deuteronomy,6,2019-05-01 12:30:00
+user2,Deuteronomy,6,2019-05-01 12:30:00
+user2,Deuteronomy,6,2019-05-01 12:30:00
+user2,Deuteronomy,6,2019-05-01 12:30:00
+user2,Deuteronomy,7,2019-05-01 12:30:00
+user2,Deuteronomy,7,2019-05-01 12:30:00
+user2,Deuteronomy,7,2019-05-01 12:30:00
+user2,Deuteronomy,7,2019-05-01 12:30:00
+user2,Deuteronomy,8,2019-05-01 12:30:00
+user2,Deuteronomy,8,2019-05-01 12:30:00
+user2,Deuteronomy,8,2019-05-01 12:30:00
+user2,Deuteronomy,8,2019-05-01 12:30:00
+user2,Deuteronomy,9,2019-05-01 12:30:00
+user2,Deuteronomy,9,2019-05-01 12:30:00
+user2,Deuteronomy,9,2019-05-01 12:30:00
+user2,Deuteronomy,9,2019-05-01 12:30:00
+user2,Deuteronomy,9,2019-05-01 12:30:00
+user2,Deuteronomy,10,2019-05-01 12:30:00
+user2,Deuteronomy,10,2019-05-01 12:30:00
+user2,Deuteronomy,11,2019-05-01 12:30:00
+user2,Deuteronomy,11,2019-05-01 12:30:00
+user2,Deuteronomy,11,2019-05-01 12:30:00
+user2,Deuteronomy,11,2019-05-01 12:30:00
+user2,Deuteronomy,12,2019-05-01 12:30:00
+user2,Deuteronomy,12,2019-05-01 12:30:00
+user2,Deuteronomy,12,2019-05-01 12:30:00
+user2,Deuteronomy,12,2019-05-01 12:30:00
+user2,Deuteronomy,12,2019-05-01 12:30:00
+user2,Deuteronomy,13,2019-05-01 12:30:00
+user2,Deuteronomy,13,2019-05-01 12:30:00
+user2,Deuteronomy,13,2019-05-01 12:30:00
+user2,Deuteronomy,14,2019-05-01 12:30:00
+user2,Deuteronomy,14,2019-05-01 12:30:00
+user2,Deuteronomy,15,2019-05-01 12:30:00
+user2,Deuteronomy,15,2019-05-01 12:30:00
+user2,Deuteronomy,15,2019-05-01 12:30:00
+user2,Deuteronomy,15,2019-05-01 12:30:00
+user2,Deuteronomy,16,2019-05-01 12:30:00
+user2,Deuteronomy,16,2019-05-01 12:30:00
+user2,Deuteronomy,17,2019-05-01 12:30:00
+user2,Deuteronomy,17,2019-05-01 12:30:00
+user2,Deuteronomy,18,2019-05-01 12:30:00
+user2,Deuteronomy,18,2019-05-01 12:30:00
+user2,Deuteronomy,18,2019-05-01 12:30:00
+user2,Deuteronomy,18,2019-05-01 12:30:00
+user2,Deuteronomy,19,2019-05-01 12:30:00
+user2,Deuteronomy,19,2019-05-01 12:30:00
+user2,Deuteronomy,19,2019-05-01 12:30:00
+user2,Deuteronomy,20,2019-05-01 12:30:00
+user2,Deuteronomy,20,2019-05-01 12:30:00
+user2,Deuteronomy,20,2019-05-01 12:30:00
+user2,Deuteronomy,21,2019-05-01 12:30:00
+user2,Deuteronomy,21,2019-05-01 12:30:00
+user2,Deuteronomy,21,2019-05-01 12:30:00
+user2,Deuteronomy,22,2019-05-01 12:30:00
+user2,Deuteronomy,22,2019-05-01 12:30:00
+user2,Deuteronomy,22,2019-05-01 12:30:00
+user2,Deuteronomy,23,2019-05-01 12:30:00
+user2,Deuteronomy,23,2019-05-01 12:30:00
+user2,Deuteronomy,23,2019-05-01 12:30:00
+user2,Deuteronomy,24,2019-05-01 12:30:00
+user2,Deuteronomy,24,2019-05-01 12:30:00
+user2,Deuteronomy,24,2019-05-01 12:30:00
+user2,Deuteronomy,25,2019-05-01 12:30:00
+user2,Deuteronomy,25,2019-05-01 12:30:00
+user2,Deuteronomy,26,2019-05-01 12:30:00
+user2,Deuteronomy,26,2019-05-01 12:30:00
+user2,Deuteronomy,26,2019-05-01 12:30:00
+user2,Deuteronomy,27,2019-05-01 12:30:00
+user2,Deuteronomy,27,2019-05-01 12:30:00
+user2,Deuteronomy,28,2019-05-01 12:30:00
+user2,Deuteronomy,28,2019-05-01 12:30:00
+user2,Deuteronomy,28,2019-05-01 12:30:00
+user2,Deuteronomy,28,2019-05-01 12:30:00
+user2,Deuteronomy,29,2019-05-01 12:30:00
+user2,Deuteronomy,29,2019-05-01 12:30:00
+user2,Deuteronomy,30,2019-05-01 12:30:00
+user2,Deuteronomy,30,2019-05-01 12:30:00
+user2,Deuteronomy,30,2019-05-01 12:30:00
+user2,Deuteronomy,31,2019-05-01 12:30:00
+user2,Deuteronomy,32,2019-05-01 12:30:00
+user2,Deuteronomy,32,2019-05-01 12:30:00
+user2,Deuteronomy,32,2019-05-01 12:30:00
+user2,Deuteronomy,33,2019-05-01 12:30:00
+user2,Deuteronomy,33,2019-05-01 12:30:00
+user2,Deuteronomy,34,2019-05-01 12:30:00
+user2,Deuteronomy,34,2019-05-01 12:30:00
+user2,Deuteronomy,34,2019-05-01 12:30:00
+user2,Joshua,1,2019-05-01 12:30:00
+user2,Joshua,1,2019-05-01 12:30:00
+user2,Joshua,1,2019-05-01 12:30:00
+user2,Joshua,2,2019-05-01 12:30:00
+user2,Joshua,2,2019-05-01 12:30:00
+user2,Joshua,2,2019-05-01 12:30:00
+user2,Joshua,3,2019-05-01 12:30:00
+user2,Joshua,3,2019-05-01 12:30:00
+user2,Joshua,3,2019-05-01 12:30:00
+user2,Joshua,3,2019-05-01 12:30:00
+user2,Joshua,3,2019-05-01 12:30:00
+user2,Joshua,4,2019-05-01 12:30:00
+user2,Joshua,4,2019-05-01 12:30:00
+user2,Joshua,4,2019-05-01 12:30:00
+user2,Joshua,5,2019-05-01 12:30:00
+user2,Joshua,5,2019-05-01 12:30:00
+user2,Joshua,5,2019-05-01 12:30:00
+user2,Joshua,5,2019-05-01 12:30:00
+user2,Joshua,6,2019-05-01 12:30:00
+user2,Joshua,6,2019-05-01 12:30:00
+user2,Joshua,6,2019-05-01 12:30:00
+user2,Joshua,6,2019-05-01 12:30:00
+user2,Joshua,7,2019-05-01 12:30:00
+user2,Joshua,7,2019-05-01 12:30:00
+user2,Joshua,7,2019-05-01 12:30:00
+user2,Joshua,7,2019-05-01 12:30:00
+user2,Joshua,7,2019-05-01 12:30:00
+user2,Joshua,8,2019-05-01 12:30:00
+user2,Joshua,8,2019-05-01 12:30:00
+user2,Joshua,8,2019-05-01 12:30:00
+user2,Joshua,9,2019-05-01 12:30:00
+user2,Joshua,9,2019-05-01 12:30:00
+user2,Joshua,10,2019-05-01 12:30:00
+user2,Joshua,10,2019-05-01 12:30:00
+user2,Joshua,11,2019-05-01 12:30:00
+user2,Joshua,11,2019-05-01 12:30:00
+user2,Joshua,11,2019-05-01 12:30:00
+user2,Joshua,12,2019-05-01 12:30:00
+user2,Joshua,12,2019-05-01 12:30:00
+user2,Joshua,12,2019-05-01 12:30:00
+user2,Joshua,13,2019-05-01 12:30:00
+user2,Joshua,13,2019-05-01 12:30:00
+user2,Joshua,13,2019-05-01 12:30:00
+user2,Joshua,14,2019-05-01 12:30:00
+user2,Joshua,14,2019-05-01 12:30:00
+user2,Joshua,14,2019-05-01 12:30:00
+user2,Joshua,15,2019-05-01 12:30:00
+user2,Joshua,15,2019-05-01 12:30:00
+user2,Joshua,16,2019-05-01 12:30:00
+user2,Joshua,16,2019-05-01 12:30:00
+user2,Joshua,16,2019-05-01 12:30:00
+user2,Joshua,17,2019-05-01 12:30:00
+user2,Joshua,17,2019-05-01 12:30:00
+user2,Joshua,17,2019-05-01 12:30:00
+user2,Joshua,17,2019-05-01 12:30:00
+user2,Joshua,18,2019-05-01 12:30:00
+user2,Joshua,18,2019-05-01 12:30:00
+user2,Joshua,19,2019-05-01 12:30:00
+user2,Joshua,20,2019-05-01 12:30:00
+user2,Joshua,20,2019-05-01 12:30:00
+user2,Joshua,20,2019-05-01 12:30:00
+user2,Joshua,21,2019-05-01 12:30:00
+user2,Joshua,21,2019-05-01 12:30:00
+user2,Joshua,21,2019-05-01 12:30:00
+user2,Joshua,22,2019-05-01 12:30:00
+user2,Joshua,22,2019-05-01 12:30:00
+user2,Joshua,23,2019-05-01 12:30:00
+user2,Joshua,23,2019-05-01 12:30:00
+user2,Joshua,24,2019-05-01 12:30:00
+user2,Joshua,24,2019-05-01 12:30:00
+user2,Joshua,24,2019-05-01 12:30:00
+user2,Joshua,24,2019-05-01 12:30:00
+user2,Joshua,24,2019-05-01 12:30:00
+user2,Joshua,24,2019-05-01 12:30:00
+user2,Ruth,1,2019-05-01 12:30:00
+user2,Ruth,1,2019-05-01 12:30:00
+user2,Ruth,1,2019-05-01 12:30:00
+user2,Ruth,1,2019-05-01 12:30:00
+user2,Ruth,2,2019-05-01 12:30:00
+user2,Ruth,2,2019-05-01 12:30:00
+user2,Ruth,2,2019-05-01 12:30:00
+user2,Ruth,2,2019-05-01 12:30:00
+user2,Ruth,3,2019-05-01 12:30:00
+user2,Ruth,3,2019-05-01 12:30:00
+user2,Ruth,4,2019-05-01 12:30:00
+user2,Ruth,4,2019-05-01 12:30:00
+user2,Ruth,4,2019-05-01 12:30:00
+user2,Ruth,4,2019-05-01 12:30:00
+user2,1 Samuel,1,2019-05-01 12:30:00
+user2,1 Samuel,1,2019-05-01 12:30:00
+user2,1 Samuel,1,2019-05-01 12:30:00
+user2,1 Samuel,1,2019-05-01 12:30:00
+user2,1 Samuel,2,2019-05-01 12:30:00
+user2,1 Samuel,2,2019-05-01 12:30:00
+user2,1 Samuel,2,2019-05-01 12:30:00
+user2,1 Samuel,3,2019-05-01 12:30:00
+user2,1 Samuel,3,2019-05-01 12:30:00
+user2,1 Samuel,3,2019-05-01 12:30:00
+user2,1 Samuel,4,2019-05-01 12:30:00
+user2,1 Samuel,4,2019-05-01 12:30:00
+user2,1 Samuel,5,2019-05-01 12:30:00
+user2,1 Samuel,5,2019-05-01 12:30:00
+user2,1 Samuel,6,2019-05-01 12:30:00
+user2,1 Samuel,6,2019-05-01 12:30:00
+user2,1 Samuel,7,2019-05-01 12:30:00
+user2,1 Samuel,7,2019-05-01 12:30:00
+user2,1 Samuel,7,2019-05-01 12:30:00
+user2,1 Samuel,8,2019-05-01 12:30:00
+user2,1 Samuel,9,2019-05-01 12:30:00
+user2,1 Samuel,9,2019-05-01 12:30:00
+user2,1 Samuel,9,2019-05-01 12:30:00
+user2,1 Samuel,9,2019-05-01 12:30:00
+user2,1 Samuel,10,2019-05-01 12:30:00
+user2,1 Samuel,10,2019-05-01 12:30:00
+user2,1 Samuel,10,2019-05-01 12:30:00
+user2,1 Samuel,10,2019-05-01 12:30:00
+user2,1 Samuel,11,2019-05-01 12:30:00
+user2,1 Samuel,11,2019-05-01 12:30:00
+user2,1 Samuel,12,2019-05-01 12:30:00
+user2,1 Samuel,12,2019-05-01 12:30:00
+user2,1 Samuel,13,2019-05-01 12:30:00
+user2,1 Samuel,13,2019-05-01 12:30:00
+user2,1 Samuel,13,2019-05-01 12:30:00
+user2,1 Samuel,14,2019-05-01 12:30:00
+user2,1 Samuel,14,2019-05-01 12:30:00
+user2,1 Samuel,14,2019-05-01 12:30:00
+user2,1 Samuel,14,2019-05-01 12:30:00
+user2,1 Samuel,14,2019-05-01 12:30:00
+user2,1 Samuel,15,2019-05-01 12:30:00
+user2,1 Samuel,15,2019-05-01 12:30:00
+user2,1 Samuel,15,2019-05-01 12:30:00
+user2,1 Samuel,15,2019-05-01 12:30:00
+user2,1 Samuel,15,2019-05-01 12:30:00
+user2,1 Samuel,16,2019-05-01 12:30:00
+user2,1 Samuel,16,2019-05-01 12:30:00
+user2,1 Samuel,16,2019-05-01 12:30:00
+user2,1 Samuel,16,2019-05-01 12:30:00
+user2,1 Samuel,17,2019-05-01 12:30:00
+user2,1 Samuel,17,2019-05-01 12:30:00
+user2,1 Samuel,17,2019-05-01 12:30:00
+user2,1 Samuel,18,2019-05-01 12:30:00
+user2,1 Samuel,19,2019-05-01 12:30:00
+user2,1 Samuel,19,2019-05-01 12:30:00
+user2,1 Samuel,20,2019-05-01 12:30:00
+user2,1 Samuel,20,2019-05-01 12:30:00
+user2,1 Samuel,20,2019-05-01 12:30:00
+user2,1 Samuel,20,2019-05-01 12:30:00
+user2,1 Samuel,21,2019-05-01 12:30:00
+user2,1 Samuel,21,2019-05-01 12:30:00
+user2,1 Samuel,21,2019-05-01 12:30:00
+user2,1 Samuel,22,2019-05-01 12:30:00
+user2,1 Samuel,22,2019-05-01 12:30:00
+user2,1 Samuel,22,2019-05-01 12:30:00
+user2,1 Samuel,22,2019-05-01 12:30:00
+user2,1 Samuel,23,2019-05-01 12:30:00
+user2,1 Samuel,23,2019-05-01 12:30:00
+user2,1 Samuel,23,2019-05-01 12:30:00
+user2,1 Samuel,24,2019-05-01 12:30:00
+user2,1 Samuel,24,2019-05-01 12:30:00
+user2,1 Samuel,24,2019-05-01 12:30:00
+user2,1 Samuel,24,2019-05-01 12:30:00
+user2,1 Samuel,25,2019-05-01 12:30:00
+user2,1 Samuel,25,2019-05-01 12:30:00
+user2,1 Samuel,26,2019-05-01 12:30:00
+user2,1 Samuel,26,2019-05-01 12:30:00
+user2,1 Samuel,27,2019-05-01 12:30:00
+user2,1 Samuel,27,2019-05-01 12:30:00
+user2,1 Samuel,27,2019-05-01 12:30:00
+user2,1 Samuel,28,2019-05-01 12:30:00
+user2,1 Samuel,28,2019-05-01 12:30:00
+user2,1 Samuel,29,2019-05-01 12:30:00
+user2,1 Samuel,29,2019-05-01 12:30:00
+user2,1 Samuel,30,2019-05-01 12:30:00
+user2,1 Samuel,30,2019-05-01 12:30:00
+user2,1 Samuel,31,2019-05-01 12:30:00
+user2,1 Samuel,31,2019-05-01 12:30:00
+user2,2 Samuel,1,2019-05-01 12:30:00
+user2,2 Samuel,1,2019-05-01 12:30:00
+user2,2 Samuel,1,2019-05-01 12:30:00
+user2,2 Samuel,1,2019-05-01 12:30:00
+user2,2 Samuel,2,2019-05-01 12:30:00
+user2,2 Samuel,2,2019-05-01 12:30:00
+user2,2 Samuel,2,2019-05-01 12:30:00
+user2,2 Samuel,2,2019-05-01 12:30:00
+user2,2 Samuel,3,2019-05-01 12:30:00
+user2,2 Samuel,3,2019-05-01 12:30:00
+user2,2 Samuel,3,2019-05-01 12:30:00
+user2,2 Samuel,3,2019-05-01 12:30:00
+user2,2 Samuel,4,2019-05-01 12:30:00
+user2,2 Samuel,4,2019-05-01 12:30:00
+user2,2 Samuel,4,2019-05-01 12:30:00
+user2,2 Samuel,4,2019-05-01 12:30:00
+user2,2 Samuel,5,2019-05-01 12:30:00
+user2,2 Samuel,5,2019-05-01 12:30:00
+user2,2 Samuel,6,2019-05-01 12:30:00
+user2,2 Samuel,6,2019-05-01 12:30:00
+user2,2 Samuel,6,2019-05-01 12:30:00
+user2,2 Samuel,7,2019-05-01 12:30:00
+user2,2 Samuel,7,2019-05-01 12:30:00
+user2,2 Samuel,7,2019-05-01 12:30:00
+user2,2 Samuel,8,2019-05-01 12:30:00
+user2,2 Samuel,8,2019-05-01 12:30:00
+user2,2 Samuel,8,2019-05-01 12:30:00
+user2,2 Samuel,8,2019-05-01 12:30:00
+user2,2 Samuel,9,2019-05-01 12:30:00
+user2,2 Samuel,9,2019-05-01 12:30:00
+user2,2 Samuel,9,2019-05-01 12:30:00
+user2,2 Samuel,9,2019-05-01 12:30:00
+user2,2 Samuel,10,2019-05-01 12:30:00
+user2,2 Samuel,10,2019-05-01 12:30:00
+user2,2 Samuel,11,2019-05-01 12:30:00
+user2,2 Samuel,11,2019-05-01 12:30:00
+user2,2 Samuel,11,2019-05-01 12:30:00
+user2,2 Samuel,12,2019-05-01 12:30:00
+user2,2 Samuel,12,2019-05-01 12:30:00
+user2,2 Samuel,13,2019-05-01 12:30:00
+user2,2 Samuel,13,2019-05-01 12:30:00
+user2,2 Samuel,13,2019-05-01 12:30:00
+user2,2 Samuel,14,2019-05-01 12:30:00
+user2,2 Samuel,14,2019-05-01 12:30:00
+user2,2 Samuel,14,2019-05-01 12:30:00
+user2,2 Samuel,14,2019-05-01 12:30:00
+user2,2 Samuel,15,2019-05-01 12:30:00
+user2,2 Samuel,15,2019-05-01 12:30:00
+user2,2 Samuel,15,2019-05-01 12:30:00
+user2,2 Samuel,16,2019-05-01 12:30:00
+user2,2 Samuel,16,2019-05-01 12:30:00
+user2,2 Samuel,16,2019-05-01 12:30:00
+user2,2 Samuel,16,2019-05-01 12:30:00
+user2,2 Samuel,17,2019-05-01 12:30:00
+user2,2 Samuel,17,2019-05-01 12:30:00
+user2,2 Samuel,18,2019-05-01 12:30:00
+user2,2 Samuel,18,2019-05-01 12:30:00
+user2,2 Samuel,19,2019-05-01 12:30:00
+user2,2 Samuel,19,2019-05-01 12:30:00
+user2,2 Samuel,19,2019-05-01 12:30:00
+user2,2 Samuel,19,2019-05-01 12:30:00
+user2,2 Samuel,20,2019-05-01 12:30:00
+user2,2 Samuel,20,2019-05-01 12:30:00
+user2,2 Samuel,20,2019-05-01 12:30:00
+user2,2 Samuel,20,2019-05-01 12:30:00
+user2,2 Samuel,21,2019-05-01 12:30:00
+user2,2 Samuel,21,2019-05-01 12:30:00
+user2,2 Samuel,21,2019-05-01 12:30:00
+user2,2 Samuel,22,2019-05-01 12:30:00
+user2,2 Samuel,22,2019-05-01 12:30:00
+user2,2 Samuel,22,2019-05-01 12:30:00
+user2,2 Samuel,22,2019-05-01 12:30:00
+user2,2 Samuel,22,2019-05-01 12:30:00
+user2,2 Samuel,23,2019-05-01 12:30:00
+user2,2 Samuel,23,2019-05-01 12:30:00
+user2,2 Samuel,23,2019-05-01 12:30:00
+user2,2 Samuel,24,2019-05-01 12:30:00
+user2,2 Samuel,24,2019-05-01 12:30:00
+user2,2 Samuel,24,2019-05-01 12:30:00
+user2,1 Kings,1,2019-05-01 12:30:00
+user2,1 Kings,2,2019-05-01 12:30:00
+user2,1 Kings,2,2019-05-01 12:30:00
+user2,1 Kings,2,2019-05-01 12:30:00
+user2,1 Kings,2,2019-05-01 12:30:00
+user2,1 Kings,3,2019-05-01 12:30:00
+user2,1 Kings,3,2019-05-01 12:30:00
+user2,1 Kings,3,2019-05-01 12:30:00
+user2,1 Kings,4,2019-05-01 12:30:00
+user2,1 Kings,4,2019-05-01 12:30:00
+user2,1 Kings,4,2019-05-01 12:30:00
+user2,1 Kings,4,2019-05-01 12:30:00
+user2,1 Kings,4,2019-05-01 12:30:00
+user2,1 Kings,5,2019-05-01 12:30:00
+user2,1 Kings,5,2019-05-01 12:30:00
+user2,1 Kings,5,2019-05-01 12:30:00
+user2,1 Kings,6,2019-05-01 12:30:00
+user2,1 Kings,6,2019-05-01 12:30:00
+user2,1 Kings,6,2019-05-01 12:30:00
+user2,1 Kings,7,2019-05-01 12:30:00
+user2,1 Kings,7,2019-05-01 12:30:00
+user2,1 Kings,7,2019-05-01 12:30:00
+user2,1 Kings,7,2019-05-01 12:30:00
+user2,1 Kings,8,2019-05-01 12:30:00
+user2,1 Kings,8,2019-05-01 12:30:00
+user2,1 Kings,8,2019-05-01 12:30:00
+user2,1 Kings,8,2019-05-01 12:30:00
+user2,1 Kings,9,2019-05-01 12:30:00
+user2,1 Kings,9,2019-05-01 12:30:00
+user2,1 Kings,9,2019-05-01 12:30:00
+user2,1 Kings,9,2019-05-01 12:30:00
+user2,1 Kings,10,2019-05-01 12:30:00
+user2,1 Kings,10,2019-05-01 12:30:00
+user2,1 Kings,10,2019-05-01 12:30:00
+user2,1 Kings,10,2019-05-01 12:30:00
+user2,1 Kings,11,2019-05-01 12:30:00
+user2,1 Kings,11,2019-05-01 12:30:00
+user2,1 Kings,11,2019-05-01 12:30:00
+user2,1 Kings,12,2019-05-01 12:30:00
+user2,1 Kings,12,2019-05-01 12:30:00
+user2,1 Kings,12,2019-05-01 12:30:00
+user2,1 Kings,13,2019-05-01 12:30:00
+user2,1 Kings,13,2019-05-01 12:30:00
+user2,1 Kings,13,2019-05-01 12:30:00
+user2,1 Kings,14,2019-05-01 12:30:00
+user2,1 Kings,14,2019-05-01 12:30:00
+user2,1 Kings,14,2019-05-01 12:30:00
+user2,1 Kings,14,2019-05-01 12:30:00
+user2,1 Kings,15,2019-05-01 12:30:00
+user2,1 Kings,15,2019-05-01 12:30:00
+user2,1 Kings,16,2019-05-01 12:30:00
+user2,1 Kings,16,2019-05-01 12:30:00
+user2,1 Kings,16,2019-05-01 12:30:00
+user2,1 Kings,17,2019-05-01 12:30:00
+user2,1 Kings,17,2019-05-01 12:30:00
+user2,1 Kings,17,2019-05-01 12:30:00
+user2,1 Kings,18,2019-05-01 12:30:00
+user2,1 Kings,18,2019-05-01 12:30:00
+user2,1 Kings,18,2019-05-01 12:30:00
+user2,1 Kings,18,2019-05-01 12:30:00
+user2,1 Kings,19,2019-05-01 12:30:00
+user2,1 Kings,19,2019-05-01 12:30:00
+user2,1 Kings,20,2019-05-01 12:30:00
+user2,1 Kings,20,2019-05-01 12:30:00
+user2,1 Kings,21,2019-05-01 12:30:00
+user2,1 Kings,21,2019-05-01 12:30:00
+user2,1 Kings,21,2019-05-01 12:30:00
+user2,1 Chronicles,1,2019-05-01 12:30:00
+user2,1 Chronicles,1,2019-05-01 12:30:00
+user2,1 Chronicles,1,2019-05-01 12:30:00
+user2,1 Chronicles,2,2019-05-01 12:30:00
+user2,1 Chronicles,3,2019-05-01 12:30:00
+user2,1 Chronicles,4,2019-05-01 12:30:00
+user2,1 Chronicles,4,2019-05-01 12:30:00
+user2,1 Chronicles,5,2019-05-01 12:30:00
+user2,1 Chronicles,5,2019-05-01 12:30:00
+user2,1 Chronicles,5,2019-05-01 12:30:00
+user2,1 Chronicles,6,2019-05-01 12:30:00
+user2,1 Chronicles,6,2019-05-01 12:30:00
+user2,1 Chronicles,7,2019-05-01 12:30:00
+user2,1 Chronicles,7,2019-05-01 12:30:00
+user2,1 Chronicles,8,2019-05-01 12:30:00
+user2,1 Chronicles,9,2019-05-01 12:30:00
+user2,1 Chronicles,9,2019-05-01 12:30:00
+user2,1 Chronicles,10,2019-05-01 12:30:00
+user2,1 Chronicles,10,2019-05-01 12:30:00
+user2,1 Chronicles,10,2019-05-01 12:30:00
+user2,1 Chronicles,11,2019-05-01 12:30:00
+user2,1 Chronicles,11,2019-05-01 12:30:00
+user2,1 Chronicles,11,2019-05-01 12:30:00
+user2,1 Chronicles,12,2019-05-01 12:30:00
+user2,1 Chronicles,12,2019-05-01 12:30:00
+user2,1 Chronicles,12,2019-05-01 12:30:00
+user2,1 Chronicles,13,2019-05-01 12:30:00
+user2,1 Chronicles,13,2019-05-01 12:30:00
+user2,1 Chronicles,13,2019-05-01 12:30:00
+user2,1 Chronicles,14,2019-05-01 12:30:00
+user2,1 Chronicles,14,2019-05-01 12:30:00
+user2,1 Chronicles,15,2019-05-01 12:30:00
+user2,1 Chronicles,15,2019-05-01 12:30:00
+user2,1 Chronicles,15,2019-05-01 12:30:00
+user2,1 Chronicles,15,2019-05-01 12:30:00
+user2,1 Chronicles,16,2019-05-01 12:30:00
+user2,1 Chronicles,16,2019-05-01 12:30:00
+user2,1 Chronicles,16,2019-05-01 12:30:00
+user2,1 Chronicles,16,2019-05-01 12:30:00
+user2,1 Chronicles,17,2019-05-01 12:30:00
+user2,1 Chronicles,17,2019-05-01 12:30:00
+user2,1 Chronicles,18,2019-05-01 12:30:00
+user2,1 Chronicles,18,2019-05-01 12:30:00
+user2,1 Chronicles,18,2019-05-01 12:30:00
+user2,1 Chronicles,19,2019-05-01 12:30:00
+user2,1 Chronicles,19,2019-05-01 12:30:00
+user2,1 Chronicles,19,2019-05-01 12:30:00
+user2,1 Chronicles,20,2019-05-01 12:30:00
+user2,1 Chronicles,20,2019-05-01 12:30:00
+user2,1 Chronicles,20,2019-05-01 12:30:00
+user2,1 Chronicles,21,2019-05-01 12:30:00
+user2,1 Chronicles,21,2019-05-01 12:30:00
+user2,1 Chronicles,22,2019-05-01 12:30:00
+user2,1 Chronicles,22,2019-05-01 12:30:00
+user2,1 Chronicles,23,2019-05-01 12:30:00
+user2,1 Chronicles,23,2019-05-01 12:30:00
+user2,1 Chronicles,23,2019-05-01 12:30:00
+user2,1 Chronicles,24,2019-05-01 12:30:00
+user2,1 Chronicles,24,2019-05-01 12:30:00
+user2,1 Chronicles,24,2019-05-01 12:30:00
+user2,1 Chronicles,25,2019-05-01 12:30:00
+user2,1 Chronicles,25,2019-05-01 12:30:00
+user2,1 Chronicles,26,2019-05-01 12:30:00
+user2,1 Chronicles,26,2019-05-01 12:30:00
+user2,1 Chronicles,27,2019-05-01 12:30:00
+user2,1 Chronicles,27,2019-05-01 12:30:00
+user2,1 Chronicles,27,2019-05-01 12:30:00
+user2,1 Chronicles,28,2019-05-01 12:30:00
+user2,1 Chronicles,28,2019-05-01 12:30:00
+user2,1 Chronicles,29,2019-05-01 12:30:00
+user2,1 Chronicles,29,2019-05-01 12:30:00
+user2,2 Chronicles,1,2019-05-01 12:30:00
+user2,2 Chronicles,1,2019-05-01 12:30:00
+user2,2 Chronicles,2,2019-05-01 12:30:00
+user2,2 Chronicles,2,2019-05-01 12:30:00
+user2,2 Chronicles,2,2019-05-01 12:30:00
+user2,2 Chronicles,2,2019-05-01 12:30:00
+user2,2 Chronicles,3,2019-05-01 12:30:00
+user2,2 Chronicles,3,2019-05-01 12:30:00
+user2,2 Chronicles,4,2019-05-01 12:30:00
+user2,2 Chronicles,4,2019-05-01 12:30:00
+user2,2 Chronicles,4,2019-05-01 12:30:00
+user2,2 Chronicles,5,2019-05-01 12:30:00
+user2,2 Chronicles,5,2019-05-01 12:30:00
+user2,2 Chronicles,6,2019-05-01 12:30:00
+user2,2 Chronicles,6,2019-05-01 12:30:00
+user2,2 Chronicles,6,2019-05-01 12:30:00
+user2,2 Chronicles,7,2019-05-01 12:30:00
+user2,2 Chronicles,7,2019-05-01 12:30:00
+user2,2 Chronicles,7,2019-05-01 12:30:00
+user2,2 Chronicles,7,2019-05-01 12:30:00
+user2,2 Chronicles,8,2019-05-01 12:30:00
+user2,2 Chronicles,8,2019-05-01 12:30:00
+user2,2 Chronicles,8,2019-05-01 12:30:00
+user2,2 Chronicles,9,2019-05-01 12:30:00
+user2,2 Chronicles,9,2019-05-01 12:30:00
+user2,2 Chronicles,10,2019-05-01 12:30:00
+user2,2 Chronicles,10,2019-05-01 12:30:00
+user2,2 Chronicles,10,2019-05-01 12:30:00
+user2,2 Chronicles,11,2019-05-01 12:30:00
+user2,2 Chronicles,11,2019-05-01 12:30:00
+user2,2 Chronicles,11,2019-05-01 12:30:00
+user2,2 Chronicles,12,2019-05-01 12:30:00
+user2,2 Chronicles,12,2019-05-01 12:30:00
+user2,2 Chronicles,12,2019-05-01 12:30:00
+user2,2 Chronicles,13,2019-05-01 12:30:00
+user2,2 Chronicles,13,2019-05-01 12:30:00
+user2,2 Chronicles,13,2019-05-01 12:30:00
+user2,2 Chronicles,14,2019-05-01 12:30:00
+user2,2 Chronicles,15,2019-05-01 12:30:00
+user2,2 Chronicles,15,2019-05-01 12:30:00
+user2,2 Chronicles,15,2019-05-01 12:30:00
+user2,2 Chronicles,16,2019-05-01 12:30:00
+user2,2 Chronicles,16,2019-05-01 12:30:00
+user2,2 Chronicles,16,2019-05-01 12:30:00
+user2,2 Chronicles,17,2019-05-01 12:30:00
+user2,2 Chronicles,17,2019-05-01 12:30:00
+user2,2 Chronicles,17,2019-05-01 12:30:00
+user2,2 Chronicles,18,2019-05-01 12:30:00
+user2,2 Chronicles,19,2019-05-01 12:30:00
+user2,2 Chronicles,19,2019-05-01 12:30:00
+user2,2 Chronicles,20,2019-05-01 12:30:00
+user2,2 Chronicles,20,2019-05-01 12:30:00
+user2,2 Chronicles,21,2019-05-01 12:30:00
+user2,2 Chronicles,21,2019-05-01 12:30:00
+user2,2 Chronicles,21,2019-05-01 12:30:00
+user2,2 Chronicles,22,2019-05-01 12:30:00
+user2,2 Chronicles,22,2019-05-01 12:30:00
+user2,2 Chronicles,24,2019-05-01 12:30:00
+user2,2 Chronicles,24,2019-05-01 12:30:00
+user2,2 Chronicles,24,2019-05-01 12:30:00
+user2,2 Chronicles,24,2019-05-01 12:30:00
+user2,2 Chronicles,25,2019-05-01 12:30:00
+user2,2 Chronicles,25,2019-05-01 12:30:00
+user2,2 Chronicles,26,2019-05-01 12:30:00
+user2,2 Chronicles,26,2019-05-01 12:30:00
+user2,2 Chronicles,26,2019-05-01 12:30:00
+user2,2 Chronicles,27,2019-05-01 12:30:00
+user2,2 Chronicles,27,2019-05-01 12:30:00
+user2,2 Chronicles,28,2019-05-01 12:30:00
+user2,2 Chronicles,28,2019-05-01 12:30:00
+user2,2 Chronicles,28,2019-05-01 12:30:00
+user2,2 Chronicles,28,2019-05-01 12:30:00
+user2,2 Chronicles,29,2019-05-01 12:30:00
+user2,2 Chronicles,30,2019-05-01 12:30:00
+user2,2 Chronicles,30,2019-05-01 12:30:00
+user2,2 Chronicles,31,2019-05-01 12:30:00
+user2,2 Chronicles,31,2019-05-01 12:30:00
+user2,2 Chronicles,32,2019-05-01 12:30:00
+user2,2 Chronicles,33,2019-05-01 12:30:00
+user2,2 Chronicles,33,2019-05-01 12:30:00
+user2,2 Chronicles,33,2019-05-01 12:30:00
+user2,2 Chronicles,34,2019-05-01 12:30:00
+user2,2 Chronicles,34,2019-05-01 12:30:00
+user2,2 Chronicles,34,2019-05-01 12:30:00
+user2,2 Chronicles,34,2019-05-01 12:30:00
+user2,2 Chronicles,34,2019-05-01 12:30:00
+user2,2 Chronicles,35,2019-05-01 12:30:00
+user2,2 Chronicles,35,2019-05-01 12:30:00
+user2,2 Chronicles,36,2019-05-01 12:30:00
+user2,Ezra,1,2019-05-01 12:30:00
+user2,Ezra,1,2019-05-01 12:30:00
+user2,Ezra,1,2019-05-01 12:30:00
+user2,Ezra,1,2019-05-01 12:30:00
+user2,Ezra,1,2019-05-01 12:30:00
+user2,Ezra,1,2019-05-01 12:30:00
+user2,Ezra,2,2019-05-01 12:30:00
+user2,Ezra,2,2019-05-01 12:30:00
+user2,Ezra,2,2019-05-01 12:30:00
+user2,Ezra,2,2019-05-01 12:30:00
+user2,Ezra,3,2019-05-01 12:30:00
+user2,Ezra,3,2019-05-01 12:30:00
+user2,Ezra,4,2019-05-01 12:30:00
+user2,Ezra,5,2019-05-01 12:30:00
+user2,Ezra,5,2019-05-01 12:30:00
+user2,Ezra,5,2019-05-01 12:30:00
+user2,Ezra,6,2019-05-01 12:30:00
+user2,Ezra,6,2019-05-01 12:30:00
+user2,Ezra,7,2019-05-01 12:30:00
+user2,Ezra,8,2019-05-01 12:30:00
+user2,Ezra,9,2019-05-01 12:30:00
+user2,Ezra,9,2019-05-01 12:30:00
+user2,Ezra,10,2019-05-01 12:30:00
+user2,Ezra,10,2019-05-01 12:30:00
+user2,Nehemiah,1,2019-05-01 12:30:00
+user2,Nehemiah,1,2019-05-01 12:30:00
+user2,Nehemiah,2,2019-05-01 12:30:00
+user2,Nehemiah,2,2019-05-01 12:30:00
+user2,Nehemiah,2,2019-05-01 12:30:00
+user2,Nehemiah,2,2019-05-01 12:30:00
+user2,Nehemiah,2,2019-05-01 12:30:00
+user2,Nehemiah,3,2019-05-01 12:30:00
+user2,Nehemiah,3,2019-05-01 12:30:00
+user2,Nehemiah,3,2019-05-01 12:30:00
+user2,Nehemiah,4,2019-05-01 12:30:00
+user2,Nehemiah,4,2019-05-01 12:30:00
+user2,Nehemiah,4,2019-05-01 12:30:00
+user2,Nehemiah,5,2019-05-01 12:30:00
+user2,Nehemiah,5,2019-05-01 12:30:00
+user2,Nehemiah,6,2019-05-01 12:30:00
+user2,Nehemiah,6,2019-05-01 12:30:00
+user2,Nehemiah,7,2019-05-01 12:30:00
+user2,Nehemiah,7,2019-05-01 12:30:00
+user2,Nehemiah,7,2019-05-01 12:30:00
+user2,Nehemiah,8,2019-05-01 12:30:00
+user2,Nehemiah,8,2019-05-01 12:30:00
+user2,Nehemiah,8,2019-05-01 12:30:00
+user2,Nehemiah,8,2019-05-01 12:30:00
+user2,Nehemiah,9,2019-05-01 12:30:00
+user2,Nehemiah,9,2019-05-01 12:30:00
+user2,Nehemiah,9,2019-05-01 12:30:00
+user2,Nehemiah,9,2019-05-01 12:30:00
+user2,Nehemiah,10,2019-05-01 12:30:00
+user2,Nehemiah,10,2019-05-01 12:30:00
+user2,Nehemiah,11,2019-05-01 12:30:00
+user2,Nehemiah,11,2019-05-01 12:30:00
+user2,Nehemiah,11,2019-05-01 12:30:00
+user2,Nehemiah,11,2019-05-01 12:30:00
+user2,Nehemiah,11,2019-05-01 12:30:00
+user2,Nehemiah,12,2019-05-01 12:30:00
+user2,Nehemiah,13,2019-05-01 12:30:00
+user2,Nehemiah,13,2019-05-01 12:30:00
+user2,Esther,1,2019-05-01 12:30:00
+user2,Esther,1,2019-05-01 12:30:00
+user2,Esther,1,2019-05-01 12:30:00
+user2,Esther,1,2019-05-01 12:30:00
+user2,Esther,2,2019-05-01 12:30:00
+user2,Esther,2,2019-05-01 12:30:00
+user2,Esther,2,2019-05-01 12:30:00
+user2,Esther,2,2019-05-01 12:30:00
+user2,Esther,3,2019-05-01 12:30:00
+user2,Esther,3,2019-05-01 12:30:00
+user2,Esther,3,2019-05-01 12:30:00
+user2,Esther,4,2019-05-01 12:30:00
+user2,Esther,4,2019-05-01 12:30:00
+user2,Esther,4,2019-05-01 12:30:00
+user2,Esther,4,2019-05-01 12:30:00
+user2,Esther,5,2019-05-01 12:30:00
+user2,Esther,5,2019-05-01 12:30:00
+user2,Esther,5,2019-05-01 12:30:00
+user2,Esther,6,2019-05-01 12:30:00
+user2,Esther,6,2019-05-01 12:30:00
+user2,Esther,6,2019-05-01 12:30:00
+user2,Esther,6,2019-05-01 12:30:00
+user2,Esther,7,2019-05-01 12:30:00
+user2,Esther,7,2019-05-01 12:30:00
+user2,Esther,7,2019-05-01 12:30:00
+user2,Esther,8,2019-05-01 12:30:00
+user2,Esther,8,2019-05-01 12:30:00
+user2,Esther,8,2019-05-01 12:30:00
+user2,Esther,8,2019-05-01 12:30:00
+user2,Esther,9,2019-05-01 12:30:00
+user2,Esther,9,2019-05-01 12:30:00
+user2,Esther,9,2019-05-01 12:30:00
+user2,Esther,10,2019-05-01 12:30:00
+user2,Esther,10,2019-05-01 12:30:00
+user2,Esther,10,2019-05-01 12:30:00
+user2,Job,1,2019-05-01 12:30:00
+user2,Job,1,2019-05-01 12:30:00
+user2,Job,1,2019-05-01 12:30:00
+user2,Job,2,2019-05-01 12:30:00
+user2,Job,3,2019-05-01 12:30:00
+user2,Job,3,2019-05-01 12:30:00
+user2,Job,3,2019-05-01 12:30:00
+user2,Job,4,2019-05-01 12:30:00
+user2,Job,4,2019-05-01 12:30:00
+user2,Job,5,2019-05-01 12:30:00
+user2,Job,5,2019-05-01 12:30:00
+user2,Job,6,2019-05-01 12:30:00
+user2,Job,6,2019-05-01 12:30:00
+user2,Job,7,2019-05-01 12:30:00
+user2,Job,7,2019-05-01 12:30:00
+user2,Job,7,2019-05-01 12:30:00
+user2,Job,8,2019-05-01 12:30:00
+user2,Job,8,2019-05-01 12:30:00
+user2,Job,8,2019-05-01 12:30:00
+user2,Job,9,2019-05-01 12:30:00
+user2,Job,9,2019-05-01 12:30:00
+user2,Job,9,2019-05-01 12:30:00
+user2,Job,9,2019-05-01 12:30:00
+user2,Job,10,2019-05-01 12:30:00
+user2,Job,10,2019-05-01 12:30:00
+user2,Job,10,2019-05-01 12:30:00
+user2,Job,10,2019-05-01 12:30:00
+user2,Job,11,2019-05-01 12:30:00
+user2,Job,11,2019-05-01 12:30:00
+user2,Job,12,2019-05-01 12:30:00
+user2,Job,12,2019-05-01 12:30:00
+user2,Job,12,2019-05-01 12:30:00
+user2,Job,13,2019-05-01 12:30:00
+user2,Job,13,2019-05-01 12:30:00
+user2,Job,13,2019-05-01 12:30:00
+user2,Job,14,2019-05-01 12:30:00
+user2,Job,14,2019-05-01 12:30:00
+user2,Job,14,2019-05-01 12:30:00
+user2,Job,15,2019-05-01 12:30:00
+user2,Job,15,2019-05-01 12:30:00
+user2,Job,15,2019-05-01 12:30:00
+user2,Job,16,2019-05-01 12:30:00
+user2,Job,16,2019-05-01 12:30:00
+user2,Job,16,2019-05-01 12:30:00
+user2,Job,16,2019-05-01 12:30:00
+user2,Job,17,2019-05-01 12:30:00
+user2,Job,17,2019-05-01 12:30:00
+user2,Job,17,2019-05-01 12:30:00
+user2,Job,18,2019-05-01 12:30:00
+user2,Job,18,2019-05-01 12:30:00
+user2,Job,19,2019-05-01 12:30:00
+user2,Job,19,2019-05-01 12:30:00
+user2,Job,19,2019-05-01 12:30:00
+user2,Job,19,2019-05-01 12:30:00
+user2,Job,20,2019-05-01 12:30:00
+user2,Job,20,2019-05-01 12:30:00
+user2,Job,20,2019-05-01 12:30:00
+user2,Job,20,2019-05-01 12:30:00
+user2,Job,21,2019-05-01 12:30:00
+user2,Job,22,2019-05-01 12:30:00
+user2,Job,23,2019-05-01 12:30:00
+user2,Job,23,2019-05-01 12:30:00
+user2,Job,24,2019-05-01 12:30:00
+user2,Job,24,2019-05-01 12:30:00
+user2,Job,24,2019-05-01 12:30:00
+user2,Job,25,2019-05-01 12:30:00
+user2,Job,25,2019-05-01 12:30:00
+user2,Job,25,2019-05-01 12:30:00
+user2,Job,25,2019-05-01 12:30:00
+user2,Job,26,2019-05-01 12:30:00
+user2,Job,26,2019-05-01 12:30:00
+user2,Job,27,2019-05-01 12:30:00
+user2,Job,27,2019-05-01 12:30:00
+user2,Job,27,2019-05-01 12:30:00
+user2,Job,27,2019-05-01 12:30:00
+user2,Job,27,2019-05-01 12:30:00
+user2,Job,28,2019-05-01 12:30:00
+user2,Job,28,2019-05-01 12:30:00
+user2,Job,29,2019-05-01 12:30:00
+user2,Job,29,2019-05-01 12:30:00
+user2,Job,29,2019-05-01 12:30:00
+user2,Job,30,2019-05-01 12:30:00
+user2,Job,30,2019-05-01 12:30:00
+user2,Job,31,2019-05-01 12:30:00
+user2,Job,31,2019-05-01 12:30:00
+user2,Job,31,2019-05-01 12:30:00
+user2,Job,31,2019-05-01 12:30:00
+user2,Job,32,2019-05-01 12:30:00
+user2,Job,33,2019-05-01 12:30:00
+user2,Job,33,2019-05-01 12:30:00
+user2,Job,33,2019-05-01 12:30:00
+user2,Job,34,2019-05-01 12:30:00
+user2,Job,34,2019-05-01 12:30:00
+user2,Job,36,2019-05-01 12:30:00
+user2,Job,36,2019-05-01 12:30:00
+user2,Job,36,2019-05-01 12:30:00
+user2,Job,37,2019-05-01 12:30:00
+user2,Job,37,2019-05-01 12:30:00
+user2,Job,37,2019-05-01 12:30:00
+user2,Job,38,2019-05-01 12:30:00
+user2,Job,38,2019-05-01 12:30:00
+user2,Job,38,2019-05-01 12:30:00
+user2,Job,39,2019-05-01 12:30:00
+user2,Job,39,2019-05-01 12:30:00
+user2,Job,39,2019-05-01 12:30:00
+user2,Job,40,2019-05-01 12:30:00
+user2,Job,40,2019-05-01 12:30:00
+user2,Job,41,2019-05-01 12:30:00
+user2,Job,41,2019-05-01 12:30:00
+user2,Job,42,2019-05-01 12:30:00
+user2,Job,42,2019-05-01 12:30:00
+user2,Job,42,2019-05-01 12:30:00
+user2,Ecclesiastes,1,2019-05-01 12:30:00
+user2,Ecclesiastes,1,2019-05-01 12:30:00
+user2,Ecclesiastes,1,2019-05-01 12:30:00
+user2,Ecclesiastes,2,2019-05-01 12:30:00
+user2,Ecclesiastes,2,2019-05-01 12:30:00
+user2,Ecclesiastes,2,2019-05-01 12:30:00
+user2,Ecclesiastes,3,2019-05-01 12:30:00
+user2,Ecclesiastes,3,2019-05-01 12:30:00
+user2,Ecclesiastes,3,2019-05-01 12:30:00
+user2,Ecclesiastes,3,2019-05-01 12:30:00
+user2,Ecclesiastes,4,2019-05-01 12:30:00
+user2,Ecclesiastes,4,2019-05-01 12:30:00
+user2,Ecclesiastes,4,2019-05-01 12:30:00
+user2,Ecclesiastes,5,2019-05-01 12:30:00
+user2,Ecclesiastes,5,2019-05-01 12:30:00
+user2,Ecclesiastes,5,2019-05-01 12:30:00
+user2,Ecclesiastes,6,2019-05-01 12:30:00
+user2,Ecclesiastes,6,2019-05-01 12:30:00
+user2,Ecclesiastes,6,2019-05-01 12:30:00
+user2,Ecclesiastes,7,2019-05-01 12:30:00
+user2,Ecclesiastes,7,2019-05-01 12:30:00
+user2,Ecclesiastes,8,2019-05-01 12:30:00
+user2,Ecclesiastes,8,2019-05-01 12:30:00
+user2,Ecclesiastes,8,2019-05-01 12:30:00
+user2,Ecclesiastes,8,2019-05-01 12:30:00
+user2,Ecclesiastes,9,2019-05-01 12:30:00
+user2,Ecclesiastes,9,2019-05-01 12:30:00
+user2,Ecclesiastes,9,2019-05-01 12:30:00
+user2,Ecclesiastes,10,2019-05-01 12:30:00
+user2,Ecclesiastes,10,2019-05-01 12:30:00
+user2,Ecclesiastes,10,2019-05-01 12:30:00
+user2,Ecclesiastes,11,2019-05-01 12:30:00
+user2,Ecclesiastes,11,2019-05-01 12:30:00
+user2,Ecclesiastes,12,2019-05-01 12:30:00
+user2,Ecclesiastes,12,2019-05-01 12:30:00
+user2,Ecclesiastes,12,2019-05-01 12:30:00
+user2,Ecclesiastes,12,2019-05-01 12:30:00
+user2,Song of Solomon,1,2019-05-01 12:30:00
+user2,Song of Solomon,1,2019-05-01 12:30:00
+user2,Song of Solomon,1,2019-05-01 12:30:00
+user2,Song of Solomon,2,2019-05-01 12:30:00
+user2,Song of Solomon,2,2019-05-01 12:30:00
+user2,Song of Solomon,3,2019-05-01 12:30:00
+user2,Song of Solomon,3,2019-05-01 12:30:00
+user2,Song of Solomon,3,2019-05-01 12:30:00
+user2,Song of Solomon,3,2019-05-01 12:30:00
+user2,Song of Solomon,4,2019-05-01 12:30:00
+user2,Song of Solomon,4,2019-05-01 12:30:00
+user2,Song of Solomon,5,2019-05-01 12:30:00
+user2,Song of Solomon,5,2019-05-01 12:30:00
+user2,Song of Solomon,5,2019-05-01 12:30:00
+user2,Song of Solomon,6,2019-05-01 12:30:00
+user2,Song of Solomon,6,2019-05-01 12:30:00
+user2,Song of Solomon,7,2019-05-01 12:30:00
+user2,Song of Solomon,7,2019-05-01 12:30:00
+user2,Song of Solomon,7,2019-05-01 12:30:00
+user2,Song of Solomon,8,2019-05-01 12:30:00
+user2,Song of Solomon,8,2019-05-01 12:30:00
+user2,Song of Solomon,8,2019-05-01 12:30:00
+user2,Lamentations,1,2019-05-01 12:30:00
+user2,Lamentations,1,2019-05-01 12:30:00
+user2,Lamentations,1,2019-05-01 12:30:00
+user2,Lamentations,2,2019-05-01 12:30:00
+user2,Lamentations,2,2019-05-01 12:30:00
+user2,Lamentations,3,2019-05-01 12:30:00
+user2,Lamentations,3,2019-05-01 12:30:00
+user2,Lamentations,3,2019-05-01 12:30:00
+user2,Lamentations,4,2019-05-01 12:30:00
+user2,Lamentations,4,2019-05-01 12:30:00
+user2,Lamentations,4,2019-05-01 12:30:00
+user2,Lamentations,5,2019-05-01 12:30:00
+user2,Lamentations,5,2019-05-01 12:30:00
+user2,Lamentations,5,2019-05-01 12:30:00
+user2,Ezekiel,1,2019-05-01 12:30:00
+user2,Ezekiel,1,2019-05-01 12:30:00
+user2,Ezekiel,1,2019-05-01 12:30:00
+user2,Ezekiel,2,2019-05-01 12:30:00
+user2,Ezekiel,2,2019-05-01 12:30:00
+user2,Ezekiel,2,2019-05-01 12:30:00
+user2,Ezekiel,3,2019-05-01 12:30:00
+user2,Ezekiel,3,2019-05-01 12:30:00
+user2,Ezekiel,3,2019-05-01 12:30:00
+user2,Ezekiel,4,2019-05-01 12:30:00
+user2,Ezekiel,4,2019-05-01 12:30:00
+user2,Ezekiel,5,2019-05-01 12:30:00
+user2,Ezekiel,5,2019-05-01 12:30:00
+user2,Ezekiel,5,2019-05-01 12:30:00
+user2,Ezekiel,5,2019-05-01 12:30:00
+user2,Ezekiel,6,2019-05-01 12:30:00
+user2,Ezekiel,6,2019-05-01 12:30:00
+user2,Ezekiel,6,2019-05-01 12:30:00
+user2,Ezekiel,7,2019-05-01 12:30:00
+user2,Ezekiel,7,2019-05-01 12:30:00
+user2,Ezekiel,8,2019-05-01 12:30:00
+user2,Ezekiel,8,2019-05-01 12:30:00
+user2,Ezekiel,8,2019-05-01 12:30:00
+user2,Ezekiel,8,2019-05-01 12:30:00
+user2,Ezekiel,9,2019-05-01 12:30:00
+user2,Ezekiel,9,2019-05-01 12:30:00
+user2,Ezekiel,9,2019-05-01 12:30:00
+user2,Ezekiel,11,2019-05-01 12:30:00
+user2,Ezekiel,11,2019-05-01 12:30:00
+user2,Ezekiel,12,2019-05-01 12:30:00
+user2,Ezekiel,12,2019-05-01 12:30:00
+user2,Ezekiel,13,2019-05-01 12:30:00
+user2,Ezekiel,13,2019-05-01 12:30:00
+user2,Ezekiel,14,2019-05-01 12:30:00
+user2,Ezekiel,14,2019-05-01 12:30:00
+user2,Ezekiel,14,2019-05-01 12:30:00
+user2,Ezekiel,14,2019-05-01 12:30:00
+user2,Ezekiel,15,2019-05-01 12:30:00
+user2,Ezekiel,15,2019-05-01 12:30:00
+user2,Ezekiel,16,2019-05-01 12:30:00
+user2,Ezekiel,16,2019-05-01 12:30:00
+user2,Ezekiel,16,2019-05-01 12:30:00
+user2,Ezekiel,17,2019-05-01 12:30:00
+user2,Ezekiel,17,2019-05-01 12:30:00
+user2,Ezekiel,17,2019-05-01 12:30:00
+user2,Ezekiel,17,2019-05-01 12:30:00
+user2,Ezekiel,18,2019-05-01 12:30:00
+user2,Ezekiel,18,2019-05-01 12:30:00
+user2,Ezekiel,18,2019-05-01 12:30:00
+user2,Ezekiel,19,2019-05-01 12:30:00
+user2,Ezekiel,19,2019-05-01 12:30:00
+user2,Ezekiel,19,2019-05-01 12:30:00
+user2,Ezekiel,20,2019-05-01 12:30:00
+user2,Ezekiel,20,2019-05-01 12:30:00
+user2,Ezekiel,20,2019-05-01 12:30:00
+user2,Ezekiel,20,2019-05-01 12:30:00
+user2,Ezekiel,21,2019-05-01 12:30:00
+user2,Ezekiel,21,2019-05-01 12:30:00
+user2,Ezekiel,22,2019-05-01 12:30:00
+user2,Ezekiel,23,2019-05-01 12:30:00
+user2,Ezekiel,23,2019-05-01 12:30:00
+user2,Ezekiel,24,2019-05-01 12:30:00
+user2,Ezekiel,24,2019-05-01 12:30:00
+user2,Ezekiel,24,2019-05-01 12:30:00
+user2,Ezekiel,24,2019-05-01 12:30:00
+user2,Ezekiel,25,2019-05-01 12:30:00
+user2,Ezekiel,26,2019-05-01 12:30:00
+user2,Ezekiel,27,2019-05-01 12:30:00
+user2,Ezekiel,27,2019-05-01 12:30:00
+user2,Ezekiel,27,2019-05-01 12:30:00
+user2,Ezekiel,27,2019-05-01 12:30:00
+user2,Ezekiel,28,2019-05-01 12:30:00
+user2,Ezekiel,29,2019-05-01 12:30:00
+user2,Ezekiel,29,2019-05-01 12:30:00
+user2,Ezekiel,29,2019-05-01 12:30:00
+user2,Ezekiel,29,2019-05-01 12:30:00
+user2,Ezekiel,30,2019-05-01 12:30:00
+user2,Ezekiel,30,2019-05-01 12:30:00
+user2,Ezekiel,31,2019-05-01 12:30:00
+user2,Ezekiel,31,2019-05-01 12:30:00
+user2,Ezekiel,31,2019-05-01 12:30:00
+user2,Ezekiel,31,2019-05-01 12:30:00
+user2,Ezekiel,32,2019-05-01 12:30:00
+user2,Ezekiel,32,2019-05-01 12:30:00
+user2,Ezekiel,33,2019-05-01 12:30:00
+user2,Ezekiel,33,2019-05-01 12:30:00
+user2,Ezekiel,34,2019-05-01 12:30:00
+user2,Ezekiel,34,2019-05-01 12:30:00
+user2,Ezekiel,35,2019-05-01 12:30:00
+user2,Ezekiel,35,2019-05-01 12:30:00
+user2,Ezekiel,35,2019-05-01 12:30:00
+user2,Ezekiel,36,2019-05-01 12:30:00
+user2,Ezekiel,37,2019-05-01 12:30:00
+user2,Ezekiel,37,2019-05-01 12:30:00
+user2,Ezekiel,38,2019-05-01 12:30:00
+user2,Ezekiel,38,2019-05-01 12:30:00
+user2,Ezekiel,38,2019-05-01 12:30:00
+user2,Ezekiel,38,2019-05-01 12:30:00
+user2,Ezekiel,39,2019-05-01 12:30:00
+user2,Ezekiel,39,2019-05-01 12:30:00
+user2,Ezekiel,39,2019-05-01 12:30:00
+user2,Ezekiel,39,2019-05-01 12:30:00
+user2,Ezekiel,39,2019-05-01 12:30:00
+user2,Ezekiel,40,2019-05-01 12:30:00
+user2,Ezekiel,40,2019-05-01 12:30:00
+user2,Ezekiel,41,2019-05-01 12:30:00
+user2,Ezekiel,41,2019-05-01 12:30:00
+user2,Ezekiel,42,2019-05-01 12:30:00
+user2,Ezekiel,42,2019-05-01 12:30:00
+user2,Ezekiel,42,2019-05-01 12:30:00
+user2,Ezekiel,43,2019-05-01 12:30:00
+user2,Ezekiel,43,2019-05-01 12:30:00
+user2,Ezekiel,43,2019-05-01 12:30:00
+user2,Ezekiel,43,2019-05-01 12:30:00
+user2,Ezekiel,44,2019-05-01 12:30:00
+user2,Ezekiel,44,2019-05-01 12:30:00
+user2,Ezekiel,44,2019-05-01 12:30:00
+user2,Ezekiel,44,2019-05-01 12:30:00
+user2,Ezekiel,45,2019-05-01 12:30:00
+user2,Ezekiel,45,2019-05-01 12:30:00
+user2,Ezekiel,45,2019-05-01 12:30:00
+user2,Ezekiel,45,2019-05-01 12:30:00
+user2,Ezekiel,46,2019-05-01 12:30:00
+user2,Ezekiel,46,2019-05-01 12:30:00
+user2,Ezekiel,47,2019-05-01 12:30:00
+user2,Ezekiel,47,2019-05-01 12:30:00
+user2,Ezekiel,47,2019-05-01 12:30:00
+user2,Ezekiel,48,2019-05-01 12:30:00
+user2,Ezekiel,48,2019-05-01 12:30:00
+user2,Hosea,1,2019-05-01 12:30:00
+user2,Hosea,1,2019-05-01 12:30:00
+user2,Hosea,1,2019-05-01 12:30:00
+user2,Hosea,2,2019-05-01 12:30:00
+user2,Hosea,2,2019-05-01 12:30:00
+user2,Hosea,3,2019-05-01 12:30:00
+user2,Hosea,3,2019-05-01 12:30:00
+user2,Hosea,3,2019-05-01 12:30:00
+user2,Hosea,3,2019-05-01 12:30:00
+user2,Hosea,4,2019-05-01 12:30:00
+user2,Hosea,4,2019-05-01 12:30:00
+user2,Hosea,4,2019-05-01 12:30:00
+user2,Hosea,4,2019-05-01 12:30:00
+user2,Hosea,5,2019-05-01 12:30:00
+user2,Hosea,5,2019-05-01 12:30:00
+user2,Hosea,6,2019-05-01 12:30:00
+user2,Hosea,6,2019-05-01 12:30:00
+user2,Hosea,7,2019-05-01 12:30:00
+user2,Hosea,7,2019-05-01 12:30:00
+user2,Hosea,7,2019-05-01 12:30:00
+user2,Hosea,7,2019-05-01 12:30:00
+user2,Hosea,8,2019-05-01 12:30:00
+user2,Hosea,8,2019-05-01 12:30:00
+user2,Hosea,8,2019-05-01 12:30:00
+user2,Hosea,8,2019-05-01 12:30:00
+user2,Hosea,9,2019-05-01 12:30:00
+user2,Hosea,10,2019-05-01 12:30:00
+user2,Hosea,10,2019-05-01 12:30:00
+user2,Hosea,10,2019-05-01 12:30:00
+user2,Hosea,11,2019-05-01 12:30:00
+user2,Hosea,11,2019-05-01 12:30:00
+user2,Hosea,11,2019-05-01 12:30:00
+user2,Hosea,12,2019-05-01 12:30:00
+user2,Hosea,12,2019-05-01 12:30:00
+user2,Hosea,12,2019-05-01 12:30:00
+user2,Hosea,12,2019-05-01 12:30:00
+user2,Hosea,13,2019-05-01 12:30:00
+user2,Hosea,13,2019-05-01 12:30:00
+user2,Hosea,13,2019-05-01 12:30:00
+user2,Hosea,14,2019-05-01 12:30:00
+user2,Hosea,14,2019-05-01 12:30:00
+user2,Amos,1,2019-05-01 12:30:00
+user2,Amos,1,2019-05-01 12:30:00
+user2,Amos,2,2019-05-01 12:30:00
+user2,Amos,2,2019-05-01 12:30:00
+user2,Amos,3,2019-05-01 12:30:00
+user2,Amos,3,2019-05-01 12:30:00
+user2,Amos,4,2019-05-01 12:30:00
+user2,Amos,4,2019-05-01 12:30:00
+user2,Amos,5,2019-05-01 12:30:00
+user2,Amos,5,2019-05-01 12:30:00
+user2,Amos,5,2019-05-01 12:30:00
+user2,Amos,5,2019-05-01 12:30:00
+user2,Amos,6,2019-05-01 12:30:00
+user2,Amos,6,2019-05-01 12:30:00
+user2,Amos,6,2019-05-01 12:30:00
+user2,Amos,6,2019-05-01 12:30:00
+user2,Amos,7,2019-05-01 12:30:00
+user2,Amos,7,2019-05-01 12:30:00
+user2,Amos,7,2019-05-01 12:30:00
+user2,Amos,8,2019-05-01 12:30:00
+user2,Amos,8,2019-05-01 12:30:00
+user2,Amos,8,2019-05-01 12:30:00
+user2,Amos,9,2019-05-01 12:30:00
+user2,Amos,9,2019-05-01 12:30:00
+user2,Amos,9,2019-05-01 12:30:00
+user2,Obadiah,1,2019-05-01 12:30:00
+user2,Obadiah,1,2019-05-01 12:30:00
+user2,Jonah,1,2019-05-01 12:30:00
+user2,Jonah,1,2019-05-01 12:30:00
+user2,Jonah,1,2019-05-01 12:30:00
+user2,Jonah,1,2019-05-01 12:30:00
+user2,Jonah,2,2019-05-01 12:30:00
+user2,Jonah,2,2019-05-01 12:30:00
+user2,Jonah,2,2019-05-01 12:30:00
+user2,Jonah,3,2019-05-01 12:30:00
+user2,Jonah,3,2019-05-01 12:30:00
+user2,Jonah,3,2019-05-01 12:30:00
+user2,Jonah,4,2019-05-01 12:30:00
+user2,Jonah,4,2019-05-01 12:30:00
+user2,Jonah,4,2019-05-01 12:30:00
+user2,Jonah,4,2019-05-01 12:30:00
+user2,Nahum,1,2019-05-01 12:30:00
+user2,Nahum,1,2019-05-01 12:30:00
+user2,Nahum,1,2019-05-01 12:30:00
+user2,Nahum,1,2019-05-01 12:30:00
+user2,Nahum,2,2019-05-01 12:30:00
+user2,Nahum,2,2019-05-01 12:30:00
+user2,Nahum,2,2019-05-01 12:30:00
+user2,Nahum,2,2019-05-01 12:30:00
+user2,Nahum,3,2019-05-01 12:30:00
+user2,Nahum,3,2019-05-01 12:30:00
+user2,Zephaniah,1,2019-05-01 12:30:00
+user2,Zephaniah,1,2019-05-01 12:30:00
+user2,Zephaniah,1,2019-05-01 12:30:00
+user2,Zephaniah,2,2019-05-01 12:30:00
+user2,Zephaniah,2,2019-05-01 12:30:00
+user2,Zephaniah,2,2019-05-01 12:30:00
+user2,Zephaniah,3,2019-05-01 12:30:00
+user2,Zephaniah,3,2019-05-01 12:30:00
+user2,Haggai,1,2019-05-01 12:30:00
+user2,Haggai,1,2019-05-01 12:30:00
+user2,Haggai,1,2019-05-01 12:30:00
+user2,Haggai,1,2019-05-01 12:30:00
+user2,Haggai,2,2019-05-01 12:30:00
+user2,Haggai,2,2019-05-01 12:30:00
+user2,Zechariah,1,2019-05-01 12:30:00
+user2,Zechariah,1,2019-05-01 12:30:00
+user2,Zechariah,1,2019-05-01 12:30:00
+user2,Zechariah,1,2019-05-01 12:30:00
+user2,Zechariah,2,2019-05-01 12:30:00
+user2,Zechariah,2,2019-05-01 12:30:00
+user2,Zechariah,2,2019-05-01 12:30:00
+user2,Zechariah,2,2019-05-01 12:30:00
+user2,Zechariah,3,2019-05-01 12:30:00
+user2,Zechariah,3,2019-05-01 12:30:00
+user2,Zechariah,3,2019-05-01 12:30:00
+user2,Zechariah,4,2019-05-01 12:30:00
+user2,Zechariah,4,2019-05-01 12:30:00
+user2,Zechariah,5,2019-05-01 12:30:00
+user2,Zechariah,5,2019-05-01 12:30:00
+user2,Zechariah,5,2019-05-01 12:30:00
+user2,Zechariah,5,2019-05-01 12:30:00
+user2,Zechariah,6,2019-05-01 12:30:00
+user2,Zechariah,6,2019-05-01 12:30:00
+user2,Zechariah,7,2019-05-01 12:30:00
+user2,Zechariah,7,2019-05-01 12:30:00
+user2,Zechariah,7,2019-05-01 12:30:00
+user2,Zechariah,8,2019-05-01 12:30:00
+user2,Zechariah,8,2019-05-01 12:30:00
+user2,Zechariah,8,2019-05-01 12:30:00
+user2,Zechariah,9,2019-05-01 12:30:00
+user2,Zechariah,9,2019-05-01 12:30:00
+user2,Zechariah,9,2019-05-01 12:30:00
+user2,Zechariah,9,2019-05-01 12:30:00
+user2,Zechariah,10,2019-05-01 12:30:00
+user2,Zechariah,10,2019-05-01 12:30:00
+user2,Zechariah,11,2019-05-01 12:30:00
+user2,Zechariah,11,2019-05-01 12:30:00
+user2,Zechariah,12,2019-05-01 12:30:00
+user2,Zechariah,12,2019-05-01 12:30:00
+user2,Zechariah,12,2019-05-01 12:30:00
+user2,Zechariah,13,2019-05-01 12:30:00
+user2,Zechariah,13,2019-05-01 12:30:00
+user2,Zechariah,14,2019-05-01 12:30:00
+user2,Zechariah,14,2019-05-01 12:30:00
+user2,Malachi,1,2019-05-01 12:30:00
+user2,Malachi,1,2019-05-01 12:30:00
+user2,Malachi,1,2019-05-01 12:30:00
+user2,Malachi,2,2019-05-01 12:30:00
+user2,Malachi,2,2019-05-01 12:30:00
+user2,Malachi,3,2019-05-01 12:30:00
+user2,Malachi,3,2019-05-01 12:30:00
+user2,Malachi,3,2019-05-01 12:30:00
+user2,Malachi,4,2019-05-01 12:30:00
+user2,Malachi,4,2019-05-01 12:30:00
+user2,Malachi,4,2019-05-01 12:30:00
+user2,Mark,1,2019-05-01 12:30:00
+user2,Mark,2,2019-05-01 12:30:00
+user2,Mark,2,2019-05-01 12:30:00
+user2,Mark,3,2019-05-01 12:30:00
+user2,Mark,3,2019-05-01 12:30:00
+user2,Mark,3,2019-05-01 12:30:00
+user2,Mark,3,2019-05-01 12:30:00
+user2,Mark,4,2019-05-01 12:30:00
+user2,Mark,4,2019-05-01 12:30:00
+user2,Mark,5,2019-05-01 12:30:00
+user2,Mark,5,2019-05-01 12:30:00
+user2,Mark,5,2019-05-01 12:30:00
+user2,Mark,6,2019-05-01 12:30:00
+user2,Mark,6,2019-05-01 12:30:00
+user2,Mark,6,2019-05-01 12:30:00
+user2,Mark,6,2019-05-01 12:30:00
+user2,Mark,7,2019-05-01 12:30:00
+user2,Mark,7,2019-05-01 12:30:00
+user2,Mark,7,2019-05-01 12:30:00
+user2,Mark,7,2019-05-01 12:30:00
+user2,Mark,8,2019-05-01 12:30:00
+user2,Mark,8,2019-05-01 12:30:00
+user2,Mark,8,2019-05-01 12:30:00
+user2,Mark,9,2019-05-01 12:30:00
+user2,Mark,9,2019-05-01 12:30:00
+user2,Mark,9,2019-05-01 12:30:00
+user2,Mark,10,2019-05-01 12:30:00
+user2,Mark,10,2019-05-01 12:30:00
+user2,Mark,10,2019-05-01 12:30:00
+user2,Mark,11,2019-05-01 12:30:00
+user2,Mark,11,2019-05-01 12:30:00
+user2,Mark,12,2019-05-01 12:30:00
+user2,Mark,12,2019-05-01 12:30:00
+user2,Mark,12,2019-05-01 12:30:00
+user2,Mark,13,2019-05-01 12:30:00
+user2,Mark,13,2019-05-01 12:30:00
+user2,Mark,15,2019-05-01 12:30:00
+user2,Mark,15,2019-05-01 12:30:00
+user2,Mark,15,2019-05-01 12:30:00
+user2,Mark,16,2019-05-01 12:30:00
+user2,Mark,16,2019-05-01 12:30:00
+user2,Mark,16,2019-05-01 12:30:00
+user2,Mark,16,2019-05-01 12:30:00
+user2,Acts,1,2019-05-01 12:30:00
+user2,Acts,1,2019-05-01 12:30:00
+user2,Acts,1,2019-05-01 12:30:00
+user2,Acts,2,2019-05-01 12:30:00
+user2,Acts,2,2019-05-01 12:30:00
+user2,Acts,3,2019-05-01 12:30:00
+user2,Acts,3,2019-05-01 12:30:00
+user2,Acts,3,2019-05-01 12:30:00
+user2,Acts,3,2019-05-01 12:30:00
+user2,Acts,4,2019-05-01 12:30:00
+user2,Acts,4,2019-05-01 12:30:00
+user2,Acts,5,2019-05-01 12:30:00
+user2,Acts,5,2019-05-01 12:30:00
+user2,Acts,5,2019-05-01 12:30:00
+user2,Acts,6,2019-05-01 12:30:00
+user2,Acts,6,2019-05-01 12:30:00
+user2,Acts,6,2019-05-01 12:30:00
+user2,Acts,6,2019-05-01 12:30:00
+user2,Acts,7,2019-05-01 12:30:00
+user2,Acts,7,2019-05-01 12:30:00
+user2,Acts,8,2019-05-01 12:30:00
+user2,Acts,8,2019-05-01 12:30:00
+user2,Acts,8,2019-05-01 12:30:00
+user2,Acts,9,2019-05-01 12:30:00
+user2,Acts,9,2019-05-01 12:30:00
+user2,Acts,9,2019-05-01 12:30:00
+user2,Acts,10,2019-05-01 12:30:00
+user2,Acts,10,2019-05-01 12:30:00
+user2,Acts,10,2019-05-01 12:30:00
+user2,Acts,11,2019-05-01 12:30:00
+user2,Acts,11,2019-05-01 12:30:00
+user2,Acts,12,2019-05-01 12:30:00
+user2,Acts,12,2019-05-01 12:30:00
+user2,Acts,13,2019-05-01 12:30:00
+user2,Acts,13,2019-05-01 12:30:00
+user2,Acts,13,2019-05-01 12:30:00
+user2,Acts,13,2019-05-01 12:30:00
+user2,Acts,14,2019-05-01 12:30:00
+user2,Acts,14,2019-05-01 12:30:00
+user2,Acts,14,2019-05-01 12:30:00
+user2,Acts,14,2019-05-01 12:30:00
+user2,Acts,15,2019-05-01 12:30:00
+user2,Acts,15,2019-05-01 12:30:00
+user2,Acts,15,2019-05-01 12:30:00
+user2,Acts,16,2019-05-01 12:30:00
+user2,Acts,16,2019-05-01 12:30:00
+user2,Acts,16,2019-05-01 12:30:00
+user2,Acts,16,2019-05-01 12:30:00
+user2,Acts,17,2019-05-01 12:30:00
+user2,Acts,17,2019-05-01 12:30:00
+user2,Acts,17,2019-05-01 12:30:00
+user2,Acts,17,2019-05-01 12:30:00
+user2,Acts,18,2019-05-01 12:30:00
+user2,Acts,18,2019-05-01 12:30:00
+user2,Acts,18,2019-05-01 12:30:00
+user2,Acts,18,2019-05-01 12:30:00
+user2,Acts,19,2019-05-01 12:30:00
+user2,Acts,19,2019-05-01 12:30:00
+user2,Acts,19,2019-05-01 12:30:00
+user2,Acts,20,2019-05-01 12:30:00
+user2,Acts,20,2019-05-01 12:30:00
+user2,Acts,21,2019-05-01 12:30:00
+user2,Acts,21,2019-05-01 12:30:00
+user2,Acts,22,2019-05-01 12:30:00
+user2,Acts,22,2019-05-01 12:30:00
+user2,Acts,22,2019-05-01 12:30:00
+user2,Acts,23,2019-05-01 12:30:00
+user2,Acts,24,2019-05-01 12:30:00
+user2,Acts,24,2019-05-01 12:30:00
+user2,Acts,24,2019-05-01 12:30:00
+user2,Acts,25,2019-05-01 12:30:00
+user2,Acts,25,2019-05-01 12:30:00
+user2,Acts,26,2019-05-01 12:30:00
+user2,Acts,26,2019-05-01 12:30:00
+user2,Acts,27,2019-05-01 12:30:00
+user2,Acts,27,2019-05-01 12:30:00
+user2,Acts,27,2019-05-01 12:30:00
+user2,Acts,28,2019-05-01 12:30:00
+user2,Acts,28,2019-05-01 12:30:00
+user2,Acts,28,2019-05-01 12:30:00
+user2,Acts,28,2019-05-01 12:30:00
+user2,Romans,1,2019-05-01 12:30:00
+user2,Romans,1,2019-05-01 12:30:00
+user2,Romans,1,2019-05-01 12:30:00
+user2,Romans,2,2019-05-01 12:30:00
+user2,Romans,2,2019-05-01 12:30:00
+user2,Romans,2,2019-05-01 12:30:00
+user2,Romans,3,2019-05-01 12:30:00
+user2,Romans,3,2019-05-01 12:30:00
+user2,Romans,3,2019-05-01 12:30:00
+user2,Romans,4,2019-05-01 12:30:00
+user2,Romans,4,2019-05-01 12:30:00
+user2,Romans,4,2019-05-01 12:30:00
+user2,Romans,4,2019-05-01 12:30:00
+user2,Romans,5,2019-05-01 12:30:00
+user2,Romans,6,2019-05-01 12:30:00
+user2,Romans,6,2019-05-01 12:30:00
+user2,Romans,6,2019-05-01 12:30:00
+user2,Romans,6,2019-05-01 12:30:00
+user2,Romans,7,2019-05-01 12:30:00
+user2,Romans,7,2019-05-01 12:30:00
+user2,Romans,7,2019-05-01 12:30:00
+user2,Romans,7,2019-05-01 12:30:00
+user2,Romans,8,2019-05-01 12:30:00
+user2,Romans,8,2019-05-01 12:30:00
+user2,Romans,9,2019-05-01 12:30:00
+user2,Romans,9,2019-05-01 12:30:00
+user2,Romans,9,2019-05-01 12:30:00
+user2,Romans,10,2019-05-01 12:30:00
+user2,Romans,10,2019-05-01 12:30:00
+user2,Romans,10,2019-05-01 12:30:00
+user2,Romans,11,2019-05-01 12:30:00
+user2,Romans,11,2019-05-01 12:30:00
+user2,Romans,11,2019-05-01 12:30:00
+user2,Romans,11,2019-05-01 12:30:00
+user2,Romans,12,2019-05-01 12:30:00
+user2,Romans,12,2019-05-01 12:30:00
+user2,Romans,12,2019-05-01 12:30:00
+user2,Romans,13,2019-05-01 12:30:00
+user2,Romans,13,2019-05-01 12:30:00
+user2,Romans,14,2019-05-01 12:30:00
+user2,Romans,14,2019-05-01 12:30:00
+user2,Romans,15,2019-05-01 12:30:00
+user2,Romans,15,2019-05-01 12:30:00
+user2,Romans,15,2019-05-01 12:30:00
+user2,Romans,16,2019-05-01 12:30:00
+user2,Romans,16,2019-05-01 12:30:00
+user2,Romans,16,2019-05-01 12:30:00
+user2,1 Corinthians,1,2019-05-01 12:30:00
+user2,1 Corinthians,1,2019-05-01 12:30:00
+user2,1 Corinthians,2,2019-05-01 12:30:00
+user2,1 Corinthians,2,2019-05-01 12:30:00
+user2,1 Corinthians,2,2019-05-01 12:30:00
+user2,1 Corinthians,2,2019-05-01 12:30:00
+user2,1 Corinthians,3,2019-05-01 12:30:00
+user2,1 Corinthians,3,2019-05-01 12:30:00
+user2,1 Corinthians,3,2019-05-01 12:30:00
+user2,1 Corinthians,4,2019-05-01 12:30:00
+user2,1 Corinthians,4,2019-05-01 12:30:00
+user2,1 Corinthians,4,2019-05-01 12:30:00
+user2,1 Corinthians,5,2019-05-01 12:30:00
+user2,1 Corinthians,6,2019-05-01 12:30:00
+user2,1 Corinthians,6,2019-05-01 12:30:00
+user2,1 Corinthians,7,2019-05-01 12:30:00
+user2,1 Corinthians,7,2019-05-01 12:30:00
+user2,1 Corinthians,7,2019-05-01 12:30:00
+user2,1 Corinthians,8,2019-05-01 12:30:00
+user2,1 Corinthians,8,2019-05-01 12:30:00
+user2,1 Corinthians,8,2019-05-01 12:30:00
+user2,1 Corinthians,9,2019-05-01 12:30:00
+user2,1 Corinthians,9,2019-05-01 12:30:00
+user2,1 Corinthians,10,2019-05-01 12:30:00
+user2,1 Corinthians,10,2019-05-01 12:30:00
+user2,1 Corinthians,10,2019-05-01 12:30:00
+user2,1 Corinthians,11,2019-05-01 12:30:00
+user2,1 Corinthians,11,2019-05-01 12:30:00
+user2,1 Corinthians,11,2019-05-01 12:30:00
+user2,1 Corinthians,11,2019-05-01 12:30:00
+user2,1 Corinthians,11,2019-05-01 12:30:00
+user2,1 Corinthians,12,2019-05-01 12:30:00
+user2,1 Corinthians,12,2019-05-01 12:30:00
+user2,1 Corinthians,14,2019-05-01 12:30:00
+user2,1 Corinthians,15,2019-05-01 12:30:00
+user2,1 Corinthians,15,2019-05-01 12:30:00
+user2,1 Corinthians,16,2019-05-01 12:30:00
+user2,1 Corinthians,16,2019-05-01 12:30:00
+user2,2 Corinthians,1,2019-05-01 12:30:00
+user2,2 Corinthians,1,2019-05-01 12:30:00
+user2,2 Corinthians,1,2019-05-01 12:30:00
+user2,2 Corinthians,2,2019-05-01 12:30:00
+user2,2 Corinthians,2,2019-05-01 12:30:00
+user2,2 Corinthians,2,2019-05-01 12:30:00
+user2,2 Corinthians,3,2019-05-01 12:30:00
+user2,2 Corinthians,3,2019-05-01 12:30:00
+user2,2 Corinthians,3,2019-05-01 12:30:00
+user2,2 Corinthians,4,2019-05-01 12:30:00
+user2,2 Corinthians,4,2019-05-01 12:30:00
+user2,2 Corinthians,4,2019-05-01 12:30:00
+user2,2 Corinthians,4,2019-05-01 12:30:00
+user2,2 Corinthians,5,2019-05-01 12:30:00
+user2,2 Corinthians,6,2019-05-01 12:30:00
+user2,2 Corinthians,6,2019-05-01 12:30:00
+user2,2 Corinthians,6,2019-05-01 12:30:00
+user2,2 Corinthians,6,2019-05-01 12:30:00
+user2,2 Corinthians,7,2019-05-01 12:30:00
+user2,2 Corinthians,7,2019-05-01 12:30:00
+user2,2 Corinthians,7,2019-05-01 12:30:00
+user2,2 Corinthians,7,2019-05-01 12:30:00
+user2,2 Corinthians,8,2019-05-01 12:30:00
+user2,2 Corinthians,8,2019-05-01 12:30:00
+user2,2 Corinthians,9,2019-05-01 12:30:00
+user2,2 Corinthians,9,2019-05-01 12:30:00
+user2,2 Corinthians,9,2019-05-01 12:30:00
+user2,2 Corinthians,9,2019-05-01 12:30:00
+user2,2 Corinthians,10,2019-05-01 12:30:00
+user2,2 Corinthians,10,2019-05-01 12:30:00
+user2,2 Corinthians,10,2019-05-01 12:30:00
+user2,2 Corinthians,11,2019-05-01 12:30:00
+user2,2 Corinthians,11,2019-05-01 12:30:00
+user2,2 Corinthians,11,2019-05-01 12:30:00
+user2,2 Corinthians,12,2019-05-01 12:30:00
+user2,2 Corinthians,12,2019-05-01 12:30:00
+user2,2 Corinthians,12,2019-05-01 12:30:00
+user2,2 Corinthians,12,2019-05-01 12:30:00
+user2,2 Corinthians,13,2019-05-01 12:30:00
+user2,2 Corinthians,13,2019-05-01 12:30:00
+user2,Galatians,1,2019-05-01 12:30:00
+user2,Galatians,1,2019-05-01 12:30:00
+user2,Galatians,1,2019-05-01 12:30:00
+user2,Galatians,2,2019-05-01 12:30:00
+user2,Galatians,2,2019-05-01 12:30:00
+user2,Galatians,2,2019-05-01 12:30:00
+user2,Galatians,2,2019-05-01 12:30:00
+user2,Galatians,3,2019-05-01 12:30:00
+user2,Galatians,3,2019-05-01 12:30:00
+user2,Galatians,4,2019-05-01 12:30:00
+user2,Galatians,4,2019-05-01 12:30:00
+user2,Galatians,4,2019-05-01 12:30:00
+user2,Galatians,5,2019-05-01 12:30:00
+user2,Galatians,5,2019-05-01 12:30:00
+user2,Galatians,5,2019-05-01 12:30:00
+user2,Galatians,5,2019-05-01 12:30:00
+user2,Galatians,6,2019-05-01 12:30:00
+user2,Galatians,6,2019-05-01 12:30:00
+user2,Ephesians,1,2019-05-01 12:30:00
+user2,Ephesians,1,2019-05-01 12:30:00
+user2,Ephesians,2,2019-05-01 12:30:00
+user2,Ephesians,2,2019-05-01 12:30:00
+user2,Ephesians,2,2019-05-01 12:30:00
+user2,Ephesians,2,2019-05-01 12:30:00
+user2,Ephesians,3,2019-05-01 12:30:00
+user2,Ephesians,3,2019-05-01 12:30:00
+user2,Ephesians,4,2019-05-01 12:30:00
+user2,Ephesians,4,2019-05-01 12:30:00
+user2,Ephesians,4,2019-05-01 12:30:00
+user2,Ephesians,4,2019-05-01 12:30:00
+user2,Ephesians,5,2019-05-01 12:30:00
+user2,Ephesians,5,2019-05-01 12:30:00
+user2,Ephesians,5,2019-05-01 12:30:00
+user2,Ephesians,6,2019-05-01 12:30:00
+user2,Ephesians,6,2019-05-01 12:30:00
+user2,Ephesians,6,2019-05-01 12:30:00
+user2,Ephesians,6,2019-05-01 12:30:00
+user2,1 Thessalonians,1,2019-05-01 12:30:00
+user2,1 Thessalonians,1,2019-05-01 12:30:00
+user2,1 Thessalonians,1,2019-05-01 12:30:00
+user2,1 Thessalonians,1,2019-05-01 12:30:00
+user2,1 Thessalonians,2,2019-05-01 12:30:00
+user2,1 Thessalonians,2,2019-05-01 12:30:00
+user2,1 Thessalonians,2,2019-05-01 12:30:00
+user2,1 Thessalonians,3,2019-05-01 12:30:00
+user2,1 Thessalonians,3,2019-05-01 12:30:00
+user2,1 Thessalonians,3,2019-05-01 12:30:00
+user2,1 Thessalonians,4,2019-05-01 12:30:00
+user2,1 Thessalonians,4,2019-05-01 12:30:00
+user2,1 Thessalonians,4,2019-05-01 12:30:00
+user2,1 Thessalonians,4,2019-05-01 12:30:00
+user2,1 Thessalonians,4,2019-05-01 12:30:00
+user2,1 Thessalonians,5,2019-05-01 12:30:00
+user2,1 Thessalonians,5,2019-05-01 12:30:00
+user2,1 Timothy,1,2019-05-01 12:30:00
+user2,1 Timothy,1,2019-05-01 12:30:00
+user2,1 Timothy,1,2019-05-01 12:30:00
+user2,1 Timothy,1,2019-05-01 12:30:00
+user2,1 Timothy,2,2019-05-01 12:30:00
+user2,1 Timothy,2,2019-05-01 12:30:00
+user2,1 Timothy,3,2019-05-01 12:30:00
+user2,1 Timothy,3,2019-05-01 12:30:00
+user2,1 Timothy,3,2019-05-01 12:30:00
+user2,1 Timothy,4,2019-05-01 12:30:00
+user2,1 Timothy,5,2019-05-01 12:30:00
+user2,1 Timothy,5,2019-05-01 12:30:00
+user2,1 Timothy,5,2019-05-01 12:30:00
+user2,1 Timothy,6,2019-05-01 12:30:00
+user2,1 Timothy,6,2019-05-01 12:30:00
+user2,1 Timothy,6,2019-05-01 12:30:00
+user2,1 Timothy,6,2019-05-01 12:30:00
+user2,1 Peter,1,2019-05-01 12:30:00
+user2,1 Peter,1,2019-05-01 12:30:00
+user2,1 Peter,1,2019-05-01 12:30:00
+user2,1 Peter,2,2019-05-01 12:30:00
+user2,1 Peter,2,2019-05-01 12:30:00
+user2,1 Peter,3,2019-05-01 12:30:00
+user2,1 Peter,3,2019-05-01 12:30:00
+user2,1 Peter,3,2019-05-01 12:30:00
+user2,1 Peter,4,2019-05-01 12:30:00
+user2,1 Peter,4,2019-05-01 12:30:00
+user2,1 Peter,5,2019-05-01 12:30:00
+user2,1 Peter,5,2019-05-01 12:30:00
+user2,1 Peter,5,2019-05-01 12:30:00
+user2,1 Peter,5,2019-05-01 12:30:00
+user2,1 John,1,2019-05-01 12:30:00
+user2,1 John,1,2019-05-01 12:30:00
+user2,1 John,1,2019-05-01 12:30:00
+user2,1 John,1,2019-05-01 12:30:00
+user2,1 John,2,2019-05-01 12:30:00
+user2,1 John,2,2019-05-01 12:30:00
+user2,1 John,3,2019-05-01 12:30:00
+user2,1 John,3,2019-05-01 12:30:00
+user2,1 John,3,2019-05-01 12:30:00
+user2,1 John,3,2019-05-01 12:30:00
+user2,1 John,3,2019-05-01 12:30:00
+user2,1 John,4,2019-05-01 12:30:00
+user2,1 John,4,2019-05-01 12:30:00
+user2,1 John,4,2019-05-01 12:30:00
+user2,1 John,5,2019-05-01 12:30:00
+user2,1 John,5,2019-05-01 12:30:00
+user2,2 John,1,2019-05-01 12:30:00
+user2,2 John,1,2019-05-01 12:30:00
+user2,2 John,1,2019-05-01 12:30:00
+user2,3 John,1,2019-05-01 12:30:00
+user2,3 John,1,2019-05-01 12:30:00
+user2,Jude,1,2019-05-01 12:30:00
+user2,Jude,1,2019-05-01 12:30:00
+user2,Jude,1,2019-05-01 12:30:00
+user2,Jude,1,2019-05-01 12:30:00
+user3,Leviticus,1,2019-05-01 12:30:00
+user3,Leviticus,1,2019-05-01 12:30:00
+user3,Leviticus,2,2019-05-01 12:30:00
+user3,Leviticus,2,2019-05-01 12:30:00
+user3,Leviticus,2,2019-05-01 12:30:00
+user3,Leviticus,2,2019-05-01 12:30:00
+user3,Leviticus,2,2019-05-01 12:30:00
+user3,Leviticus,3,2019-05-01 12:30:00
+user3,Leviticus,3,2019-05-01 12:30:00
+user3,Leviticus,3,2019-05-01 12:30:00
+user3,Leviticus,3,2019-05-01 12:30:00
+user3,Leviticus,4,2019-05-01 12:30:00
+user3,Leviticus,4,2019-05-01 12:30:00
+user3,Leviticus,4,2019-05-01 12:30:00
+user3,Leviticus,4,2019-05-01 12:30:00
+user3,Leviticus,5,2019-05-01 12:30:00
+user3,Leviticus,5,2019-05-01 12:30:00
+user3,Leviticus,5,2019-05-01 12:30:00
+user3,Leviticus,5,2019-05-01 12:30:00
+user3,Leviticus,5,2019-05-01 12:30:00
+user3,Leviticus,6,2019-05-01 12:30:00
+user3,Leviticus,6,2019-05-01 12:30:00
+user3,Leviticus,6,2019-05-01 12:30:00
+user3,Leviticus,6,2019-05-01 12:30:00
+user3,Leviticus,7,2019-05-01 12:30:00
+user3,Leviticus,7,2019-05-01 12:30:00
+user3,Leviticus,7,2019-05-01 12:30:00
+user3,Leviticus,8,2019-05-01 12:30:00
+user3,Leviticus,8,2019-05-01 12:30:00
+user3,Leviticus,8,2019-05-01 12:30:00
+user3,Leviticus,9,2019-05-01 12:30:00
+user3,Leviticus,9,2019-05-01 12:30:00
+user3,Leviticus,9,2019-05-01 12:30:00
+user3,Leviticus,10,2019-05-01 12:30:00
+user3,Leviticus,10,2019-05-01 12:30:00
+user3,Leviticus,11,2019-05-01 12:30:00
+user3,Leviticus,11,2019-05-01 12:30:00
+user3,Leviticus,12,2019-05-01 12:30:00
+user3,Leviticus,12,2019-05-01 12:30:00
+user3,Leviticus,13,2019-05-01 12:30:00
+user3,Leviticus,13,2019-05-01 12:30:00
+user3,Leviticus,13,2019-05-01 12:30:00
+user3,Leviticus,13,2019-05-01 12:30:00
+user3,Leviticus,14,2019-05-01 12:30:00
+user3,Leviticus,14,2019-05-01 12:30:00
+user3,Leviticus,14,2019-05-01 12:30:00
+user3,Leviticus,15,2019-05-01 12:30:00
+user3,Leviticus,15,2019-05-01 12:30:00
+user3,Leviticus,15,2019-05-01 12:30:00
+user3,Leviticus,16,2019-05-01 12:30:00
+user3,Leviticus,16,2019-05-01 12:30:00
+user3,Leviticus,17,2019-05-01 12:30:00
+user3,Leviticus,17,2019-05-01 12:30:00
+user3,Leviticus,18,2019-05-01 12:30:00
+user3,Leviticus,18,2019-05-01 12:30:00
+user3,Leviticus,18,2019-05-01 12:30:00
+user3,Leviticus,19,2019-05-01 12:30:00
+user3,Leviticus,19,2019-05-01 12:30:00
+user3,Leviticus,19,2019-05-01 12:30:00
+user3,Leviticus,20,2019-05-01 12:30:00
+user3,Leviticus,21,2019-05-01 12:30:00
+user3,Leviticus,21,2019-05-01 12:30:00
+user3,Leviticus,21,2019-05-01 12:30:00
+user3,Leviticus,22,2019-05-01 12:30:00
+user3,Leviticus,22,2019-05-01 12:30:00
+user3,Leviticus,23,2019-05-01 12:30:00
+user3,Leviticus,23,2019-05-01 12:30:00
+user3,Leviticus,24,2019-05-01 12:30:00
+user3,Leviticus,24,2019-05-01 12:30:00
+user3,Leviticus,24,2019-05-01 12:30:00
+user3,Leviticus,25,2019-05-01 12:30:00
+user3,Leviticus,25,2019-05-01 12:30:00
+user3,Leviticus,25,2019-05-01 12:30:00
+user3,Leviticus,26,2019-05-01 12:30:00
+user3,Leviticus,26,2019-05-01 12:30:00
+user3,Leviticus,26,2019-05-01 12:30:00
+user3,Leviticus,27,2019-05-01 12:30:00
+user3,Leviticus,27,2019-05-01 12:30:00
+user3,Leviticus,27,2019-05-01 12:30:00
+user3,Leviticus,27,2019-05-01 12:30:00
+user3,Numbers,1,2019-05-01 12:30:00
+user3,Numbers,1,2019-05-01 12:30:00
+user3,Numbers,1,2019-05-01 12:30:00
+user3,Numbers,2,2019-05-01 12:30:00
+user3,Numbers,2,2019-05-01 12:30:00
+user3,Numbers,2,2019-05-01 12:30:00
+user3,Numbers,2,2019-05-01 12:30:00
+user3,Numbers,3,2019-05-01 12:30:00
+user3,Numbers,3,2019-05-01 12:30:00
+user3,Numbers,4,2019-05-01 12:30:00
+user3,Numbers,4,2019-05-01 12:30:00
+user3,Numbers,4,2019-05-01 12:30:00
+user3,Numbers,4,2019-05-01 12:30:00
+user3,Numbers,5,2019-05-01 12:30:00
+user3,Numbers,5,2019-05-01 12:30:00
+user3,Numbers,5,2019-05-01 12:30:00
+user3,Numbers,5,2019-05-01 12:30:00
+user3,Numbers,6,2019-05-01 12:30:00
+user3,Numbers,6,2019-05-01 12:30:00
+user3,Numbers,7,2019-05-01 12:30:00
+user3,Numbers,7,2019-05-01 12:30:00
+user3,Numbers,7,2019-05-01 12:30:00
+user3,Numbers,7,2019-05-01 12:30:00
+user3,Numbers,7,2019-05-01 12:30:00
+user3,Numbers,8,2019-05-01 12:30:00
+user3,Numbers,8,2019-05-01 12:30:00
+user3,Numbers,8,2019-05-01 12:30:00
+user3,Numbers,8,2019-05-01 12:30:00
+user3,Numbers,8,2019-05-01 12:30:00
+user3,Numbers,9,2019-05-01 12:30:00
+user3,Numbers,9,2019-05-01 12:30:00
+user3,Numbers,9,2019-05-01 12:30:00
+user3,Numbers,9,2019-05-01 12:30:00
+user3,Numbers,10,2019-05-01 12:30:00
+user3,Numbers,10,2019-05-01 12:30:00
+user3,Numbers,11,2019-05-01 12:30:00
+user3,Numbers,11,2019-05-01 12:30:00
+user3,Numbers,12,2019-05-01 12:30:00
+user3,Numbers,12,2019-05-01 12:30:00
+user3,Numbers,12,2019-05-01 12:30:00
+user3,Numbers,12,2019-05-01 12:30:00
+user3,Numbers,12,2019-05-01 12:30:00
+user3,Numbers,13,2019-05-01 12:30:00
+user3,Numbers,13,2019-05-01 12:30:00
+user3,Numbers,13,2019-05-01 12:30:00
+user3,Numbers,13,2019-05-01 12:30:00
+user3,Numbers,14,2019-05-01 12:30:00
+user3,Numbers,14,2019-05-01 12:30:00
+user3,Numbers,15,2019-05-01 12:30:00
+user3,Numbers,15,2019-05-01 12:30:00
+user3,Numbers,16,2019-05-01 12:30:00
+user3,Numbers,16,2019-05-01 12:30:00
+user3,Numbers,17,2019-05-01 12:30:00
+user3,Numbers,17,2019-05-01 12:30:00
+user3,Numbers,17,2019-05-01 12:30:00
+user3,Numbers,18,2019-05-01 12:30:00
+user3,Numbers,18,2019-05-01 12:30:00
+user3,Numbers,18,2019-05-01 12:30:00
+user3,Numbers,19,2019-05-01 12:30:00
+user3,Numbers,19,2019-05-01 12:30:00
+user3,Numbers,19,2019-05-01 12:30:00
+user3,Numbers,20,2019-05-01 12:30:00
+user3,Numbers,20,2019-05-01 12:30:00
+user3,Numbers,21,2019-05-01 12:30:00
+user3,Numbers,21,2019-05-01 12:30:00
+user3,Numbers,21,2019-05-01 12:30:00
+user3,Numbers,21,2019-05-01 12:30:00
+user3,Numbers,21,2019-05-01 12:30:00
+user3,Numbers,21,2019-05-01 12:30:00
+user3,Numbers,22,2019-05-01 12:30:00
+user3,Numbers,22,2019-05-01 12:30:00
+user3,Numbers,22,2019-05-01 12:30:00
+user3,Numbers,22,2019-05-01 12:30:00
+user3,Numbers,22,2019-05-01 12:30:00
+user3,Numbers,23,2019-05-01 12:30:00
+user3,Numbers,23,2019-05-01 12:30:00
+user3,Numbers,23,2019-05-01 12:30:00
+user3,Numbers,24,2019-05-01 12:30:00
+user3,Numbers,24,2019-05-01 12:30:00
+user3,Numbers,25,2019-05-01 12:30:00
+user3,Numbers,25,2019-05-01 12:30:00
+user3,Numbers,25,2019-05-01 12:30:00
+user3,Numbers,26,2019-05-01 12:30:00
+user3,Numbers,26,2019-05-01 12:30:00
+user3,Numbers,27,2019-05-01 12:30:00
+user3,Numbers,28,2019-05-01 12:30:00
+user3,Numbers,28,2019-05-01 12:30:00
+user3,Numbers,29,2019-05-01 12:30:00
+user3,Numbers,30,2019-05-01 12:30:00
+user3,Numbers,30,2019-05-01 12:30:00
+user3,Numbers,31,2019-05-01 12:30:00
+user3,Numbers,31,2019-05-01 12:30:00
+user3,Numbers,31,2019-05-01 12:30:00
+user3,Numbers,32,2019-05-01 12:30:00
+user3,Numbers,32,2019-05-01 12:30:00
+user3,Numbers,32,2019-05-01 12:30:00
+user3,Numbers,32,2019-05-01 12:30:00
+user3,Numbers,32,2019-05-01 12:30:00
+user3,Numbers,33,2019-05-01 12:30:00
+user3,Numbers,33,2019-05-01 12:30:00
+user3,Numbers,33,2019-05-01 12:30:00
+user3,Numbers,33,2019-05-01 12:30:00
+user3,Numbers,34,2019-05-01 12:30:00
+user3,Numbers,34,2019-05-01 12:30:00
+user3,Numbers,35,2019-05-01 12:30:00
+user3,Numbers,35,2019-05-01 12:30:00
+user3,Numbers,36,2019-05-01 12:30:00
+user3,Numbers,36,2019-05-01 12:30:00
+user3,Numbers,36,2019-05-01 12:30:00
+user3,Joshua,1,2019-05-01 12:30:00
+user3,Joshua,1,2019-05-01 12:30:00
+user3,Joshua,1,2019-05-01 12:30:00
+user3,Joshua,2,2019-05-01 12:30:00
+user3,Joshua,2,2019-05-01 12:30:00
+user3,Joshua,2,2019-05-01 12:30:00
+user3,Joshua,3,2019-05-01 12:30:00
+user3,Joshua,3,2019-05-01 12:30:00
+user3,Joshua,3,2019-05-01 12:30:00
+user3,Joshua,4,2019-05-01 12:30:00
+user3,Joshua,4,2019-05-01 12:30:00
+user3,Joshua,5,2019-05-01 12:30:00
+user3,Joshua,5,2019-05-01 12:30:00
+user3,Joshua,5,2019-05-01 12:30:00
+user3,Joshua,6,2019-05-01 12:30:00
+user3,Joshua,6,2019-05-01 12:30:00
+user3,Joshua,7,2019-05-01 12:30:00
+user3,Joshua,7,2019-05-01 12:30:00
+user3,Joshua,7,2019-05-01 12:30:00
+user3,Joshua,7,2019-05-01 12:30:00
+user3,Joshua,8,2019-05-01 12:30:00
+user3,Joshua,8,2019-05-01 12:30:00
+user3,Joshua,8,2019-05-01 12:30:00
+user3,Joshua,8,2019-05-01 12:30:00
+user3,Joshua,9,2019-05-01 12:30:00
+user3,Joshua,9,2019-05-01 12:30:00
+user3,Joshua,9,2019-05-01 12:30:00
+user3,Joshua,10,2019-05-01 12:30:00
+user3,Joshua,10,2019-05-01 12:30:00
+user3,Joshua,11,2019-05-01 12:30:00
+user3,Joshua,11,2019-05-01 12:30:00
+user3,Joshua,11,2019-05-01 12:30:00
+user3,Joshua,12,2019-05-01 12:30:00
+user3,Joshua,12,2019-05-01 12:30:00
+user3,Joshua,12,2019-05-01 12:30:00
+user3,Joshua,12,2019-05-01 12:30:00
+user3,Joshua,13,2019-05-01 12:30:00
+user3,Joshua,13,2019-05-01 12:30:00
+user3,Joshua,13,2019-05-01 12:30:00
+user3,Joshua,14,2019-05-01 12:30:00
+user3,Joshua,14,2019-05-01 12:30:00
+user3,Joshua,14,2019-05-01 12:30:00
+user3,Joshua,15,2019-05-01 12:30:00
+user3,Joshua,15,2019-05-01 12:30:00
+user3,Joshua,16,2019-05-01 12:30:00
+user3,Joshua,17,2019-05-01 12:30:00
+user3,Joshua,17,2019-05-01 12:30:00
+user3,Joshua,17,2019-05-01 12:30:00
+user3,Joshua,18,2019-05-01 12:30:00
+user3,Joshua,18,2019-05-01 12:30:00
+user3,Joshua,18,2019-05-01 12:30:00
+user3,Joshua,18,2019-05-01 12:30:00
+user3,Joshua,19,2019-05-01 12:30:00
+user3,Joshua,19,2019-05-01 12:30:00
+user3,Joshua,19,2019-05-01 12:30:00
+user3,Joshua,19,2019-05-01 12:30:00
+user3,Joshua,20,2019-05-01 12:30:00
+user3,Joshua,22,2019-05-01 12:30:00
+user3,Joshua,22,2019-05-01 12:30:00
+user3,Joshua,22,2019-05-01 12:30:00
+user3,Joshua,22,2019-05-01 12:30:00
+user3,Joshua,23,2019-05-01 12:30:00
+user3,Joshua,23,2019-05-01 12:30:00
+user3,Joshua,24,2019-05-01 12:30:00
+user3,Joshua,24,2019-05-01 12:30:00
+user3,Joshua,24,2019-05-01 12:30:00
+user3,1 Kings,1,2019-05-01 12:30:00
+user3,1 Kings,1,2019-05-01 12:30:00
+user3,1 Kings,1,2019-05-01 12:30:00
+user3,1 Kings,1,2019-05-01 12:30:00
+user3,1 Kings,2,2019-05-01 12:30:00
+user3,1 Kings,2,2019-05-01 12:30:00
+user3,1 Kings,3,2019-05-01 12:30:00
+user3,1 Kings,3,2019-05-01 12:30:00
+user3,1 Kings,3,2019-05-01 12:30:00
+user3,1 Kings,3,2019-05-01 12:30:00
+user3,1 Kings,4,2019-05-01 12:30:00
+user3,1 Kings,4,2019-05-01 12:30:00
+user3,1 Kings,4,2019-05-01 12:30:00
+user3,1 Kings,5,2019-05-01 12:30:00
+user3,1 Kings,5,2019-05-01 12:30:00
+user3,1 Kings,5,2019-05-01 12:30:00
+user3,1 Kings,5,2019-05-01 12:30:00
+user3,1 Kings,5,2019-05-01 12:30:00
+user3,1 Kings,6,2019-05-01 12:30:00
+user3,1 Kings,6,2019-05-01 12:30:00
+user3,1 Kings,6,2019-05-01 12:30:00
+user3,1 Kings,7,2019-05-01 12:30:00
+user3,1 Kings,7,2019-05-01 12:30:00
+user3,1 Kings,7,2019-05-01 12:30:00
+user3,1 Kings,8,2019-05-01 12:30:00
+user3,1 Kings,8,2019-05-01 12:30:00
+user3,1 Kings,9,2019-05-01 12:30:00
+user3,1 Kings,9,2019-05-01 12:30:00
+user3,1 Kings,9,2019-05-01 12:30:00
+user3,1 Kings,10,2019-05-01 12:30:00
+user3,1 Kings,10,2019-05-01 12:30:00
+user3,1 Kings,10,2019-05-01 12:30:00
+user3,1 Kings,11,2019-05-01 12:30:00
+user3,1 Kings,11,2019-05-01 12:30:00
+user3,1 Kings,11,2019-05-01 12:30:00
+user3,1 Kings,12,2019-05-01 12:30:00
+user3,1 Kings,12,2019-05-01 12:30:00
+user3,1 Kings,12,2019-05-01 12:30:00
+user3,1 Kings,12,2019-05-01 12:30:00
+user3,1 Kings,13,2019-05-01 12:30:00
+user3,1 Kings,13,2019-05-01 12:30:00
+user3,1 Kings,13,2019-05-01 12:30:00
+user3,1 Kings,14,2019-05-01 12:30:00
+user3,1 Kings,14,2019-05-01 12:30:00
+user3,1 Kings,14,2019-05-01 12:30:00
+user3,1 Kings,15,2019-05-01 12:30:00
+user3,1 Kings,15,2019-05-01 12:30:00
+user3,1 Kings,15,2019-05-01 12:30:00
+user3,1 Kings,15,2019-05-01 12:30:00
+user3,1 Kings,16,2019-05-01 12:30:00
+user3,1 Kings,16,2019-05-01 12:30:00
+user3,1 Kings,16,2019-05-01 12:30:00
+user3,1 Kings,17,2019-05-01 12:30:00
+user3,1 Kings,17,2019-05-01 12:30:00
+user3,1 Kings,17,2019-05-01 12:30:00
+user3,1 Kings,18,2019-05-01 12:30:00
+user3,1 Kings,18,2019-05-01 12:30:00
+user3,1 Kings,18,2019-05-01 12:30:00
+user3,1 Kings,18,2019-05-01 12:30:00
+user3,1 Kings,19,2019-05-01 12:30:00
+user3,1 Kings,19,2019-05-01 12:30:00
+user3,1 Kings,19,2019-05-01 12:30:00
+user3,1 Kings,20,2019-05-01 12:30:00
+user3,1 Kings,20,2019-05-01 12:30:00
+user3,1 Kings,20,2019-05-01 12:30:00
+user3,1 Kings,20,2019-05-01 12:30:00
+user3,1 Kings,21,2019-05-01 12:30:00
+user3,1 Kings,21,2019-05-01 12:30:00
+user3,1 Kings,21,2019-05-01 12:30:00
+user3,1 Kings,22,2019-05-01 12:30:00
+user3,1 Kings,22,2019-05-01 12:30:00
+user3,1 Kings,22,2019-05-01 12:30:00
+user3,1 Kings,22,2019-05-01 12:30:00
+user3,1 Chronicles,1,2019-05-01 12:30:00
+user3,1 Chronicles,1,2019-05-01 12:30:00
+user3,1 Chronicles,1,2019-05-01 12:30:00
+user3,1 Chronicles,2,2019-05-01 12:30:00
+user3,1 Chronicles,2,2019-05-01 12:30:00
+user3,1 Chronicles,2,2019-05-01 12:30:00
+user3,1 Chronicles,2,2019-05-01 12:30:00
+user3,1 Chronicles,3,2019-05-01 12:30:00
+user3,1 Chronicles,3,2019-05-01 12:30:00
+user3,1 Chronicles,3,2019-05-01 12:30:00
+user3,1 Chronicles,3,2019-05-01 12:30:00
+user3,1 Chronicles,3,2019-05-01 12:30:00
+user3,1 Chronicles,4,2019-05-01 12:30:00
+user3,1 Chronicles,4,2019-05-01 12:30:00
+user3,1 Chronicles,4,2019-05-01 12:30:00
+user3,1 Chronicles,4,2019-05-01 12:30:00
+user3,1 Chronicles,4,2019-05-01 12:30:00
+user3,1 Chronicles,4,2019-05-01 12:30:00
+user3,1 Chronicles,5,2019-05-01 12:30:00
+user3,1 Chronicles,5,2019-05-01 12:30:00
+user3,1 Chronicles,6,2019-05-01 12:30:00
+user3,1 Chronicles,7,2019-05-01 12:30:00
+user3,1 Chronicles,7,2019-05-01 12:30:00
+user3,1 Chronicles,7,2019-05-01 12:30:00
+user3,1 Chronicles,7,2019-05-01 12:30:00
+user3,1 Chronicles,8,2019-05-01 12:30:00
+user3,1 Chronicles,8,2019-05-01 12:30:00
+user3,1 Chronicles,8,2019-05-01 12:30:00
+user3,1 Chronicles,8,2019-05-01 12:30:00
+user3,1 Chronicles,9,2019-05-01 12:30:00
+user3,1 Chronicles,9,2019-05-01 12:30:00
+user3,1 Chronicles,9,2019-05-01 12:30:00
+user3,1 Chronicles,10,2019-05-01 12:30:00
+user3,1 Chronicles,11,2019-05-01 12:30:00
+user3,1 Chronicles,11,2019-05-01 12:30:00
+user3,1 Chronicles,11,2019-05-01 12:30:00
+user3,1 Chronicles,11,2019-05-01 12:30:00
+user3,1 Chronicles,12,2019-05-01 12:30:00
+user3,1 Chronicles,12,2019-05-01 12:30:00
+user3,1 Chronicles,12,2019-05-01 12:30:00
+user3,1 Chronicles,13,2019-05-01 12:30:00
+user3,1 Chronicles,13,2019-05-01 12:30:00
+user3,1 Chronicles,13,2019-05-01 12:30:00
+user3,1 Chronicles,13,2019-05-01 12:30:00
+user3,1 Chronicles,14,2019-05-01 12:30:00
+user3,1 Chronicles,14,2019-05-01 12:30:00
+user3,1 Chronicles,14,2019-05-01 12:30:00
+user3,1 Chronicles,15,2019-05-01 12:30:00
+user3,1 Chronicles,15,2019-05-01 12:30:00
+user3,1 Chronicles,15,2019-05-01 12:30:00
+user3,1 Chronicles,15,2019-05-01 12:30:00
+user3,1 Chronicles,16,2019-05-01 12:30:00
+user3,1 Chronicles,16,2019-05-01 12:30:00
+user3,1 Chronicles,17,2019-05-01 12:30:00
+user3,1 Chronicles,17,2019-05-01 12:30:00
+user3,1 Chronicles,17,2019-05-01 12:30:00
+user3,1 Chronicles,18,2019-05-01 12:30:00
+user3,1 Chronicles,18,2019-05-01 12:30:00
+user3,1 Chronicles,18,2019-05-01 12:30:00
+user3,1 Chronicles,19,2019-05-01 12:30:00
+user3,1 Chronicles,19,2019-05-01 12:30:00
+user3,1 Chronicles,20,2019-05-01 12:30:00
+user3,1 Chronicles,20,2019-05-01 12:30:00
+user3,1 Chronicles,20,2019-05-01 12:30:00
+user3,1 Chronicles,20,2019-05-01 12:30:00
+user3,1 Chronicles,20,2019-05-01 12:30:00
+user3,1 Chronicles,21,2019-05-01 12:30:00
+user3,1 Chronicles,21,2019-05-01 12:30:00
+user3,1 Chronicles,22,2019-05-01 12:30:00
+user3,1 Chronicles,22,2019-05-01 12:30:00
+user3,1 Chronicles,22,2019-05-01 12:30:00
+user3,1 Chronicles,22,2019-05-01 12:30:00
+user3,1 Chronicles,23,2019-05-01 12:30:00
+user3,1 Chronicles,23,2019-05-01 12:30:00
+user3,1 Chronicles,23,2019-05-01 12:30:00
+user3,1 Chronicles,24,2019-05-01 12:30:00
+user3,1 Chronicles,24,2019-05-01 12:30:00
+user3,1 Chronicles,25,2019-05-01 12:30:00
+user3,1 Chronicles,25,2019-05-01 12:30:00
+user3,1 Chronicles,25,2019-05-01 12:30:00
+user3,1 Chronicles,25,2019-05-01 12:30:00
+user3,1 Chronicles,26,2019-05-01 12:30:00
+user3,1 Chronicles,26,2019-05-01 12:30:00
+user3,1 Chronicles,26,2019-05-01 12:30:00
+user3,1 Chronicles,27,2019-05-01 12:30:00
+user3,1 Chronicles,27,2019-05-01 12:30:00
+user3,1 Chronicles,27,2019-05-01 12:30:00
+user3,1 Chronicles,27,2019-05-01 12:30:00
+user3,1 Chronicles,28,2019-05-01 12:30:00
+user3,1 Chronicles,28,2019-05-01 12:30:00
+user3,1 Chronicles,28,2019-05-01 12:30:00
+user3,1 Chronicles,29,2019-05-01 12:30:00
+user3,1 Chronicles,29,2019-05-01 12:30:00
+user3,1 Chronicles,29,2019-05-01 12:30:00
+user3,Ezra,1,2019-05-01 12:30:00
+user3,Ezra,1,2019-05-01 12:30:00
+user3,Ezra,1,2019-05-01 12:30:00
+user3,Ezra,2,2019-05-01 12:30:00
+user3,Ezra,2,2019-05-01 12:30:00
+user3,Ezra,2,2019-05-01 12:30:00
+user3,Ezra,2,2019-05-01 12:30:00
+user3,Ezra,3,2019-05-01 12:30:00
+user3,Ezra,3,2019-05-01 12:30:00
+user3,Ezra,3,2019-05-01 12:30:00
+user3,Ezra,3,2019-05-01 12:30:00
+user3,Ezra,4,2019-05-01 12:30:00
+user3,Ezra,4,2019-05-01 12:30:00
+user3,Ezra,4,2019-05-01 12:30:00
+user3,Ezra,4,2019-05-01 12:30:00
+user3,Ezra,5,2019-05-01 12:30:00
+user3,Ezra,5,2019-05-01 12:30:00
+user3,Ezra,5,2019-05-01 12:30:00
+user3,Ezra,6,2019-05-01 12:30:00
+user3,Ezra,6,2019-05-01 12:30:00
+user3,Ezra,7,2019-05-01 12:30:00
+user3,Ezra,7,2019-05-01 12:30:00
+user3,Ezra,8,2019-05-01 12:30:00
+user3,Ezra,9,2019-05-01 12:30:00
+user3,Ezra,9,2019-05-01 12:30:00
+user3,Ezra,9,2019-05-01 12:30:00
+user3,Ezra,9,2019-05-01 12:30:00
+user3,Ezra,9,2019-05-01 12:30:00
+user3,Ezra,10,2019-05-01 12:30:00
+user3,Ezra,10,2019-05-01 12:30:00
+user3,Ezra,10,2019-05-01 12:30:00
+user3,Ezra,10,2019-05-01 12:30:00
+user3,Esther,1,2019-05-01 12:30:00
+user3,Esther,1,2019-05-01 12:30:00
+user3,Esther,2,2019-05-01 12:30:00
+user3,Esther,2,2019-05-01 12:30:00
+user3,Esther,2,2019-05-01 12:30:00
+user3,Esther,3,2019-05-01 12:30:00
+user3,Esther,3,2019-05-01 12:30:00
+user3,Esther,4,2019-05-01 12:30:00
+user3,Esther,4,2019-05-01 12:30:00
+user3,Esther,4,2019-05-01 12:30:00
+user3,Esther,5,2019-05-01 12:30:00
+user3,Esther,5,2019-05-01 12:30:00
+user3,Esther,5,2019-05-01 12:30:00
+user3,Esther,5,2019-05-01 12:30:00
+user3,Esther,6,2019-05-01 12:30:00
+user3,Esther,6,2019-05-01 12:30:00
+user3,Esther,6,2019-05-01 12:30:00
+user3,Esther,6,2019-05-01 12:30:00
+user3,Esther,6,2019-05-01 12:30:00
+user3,Esther,7,2019-05-01 12:30:00
+user3,Esther,7,2019-05-01 12:30:00
+user3,Esther,7,2019-05-01 12:30:00
+user3,Esther,8,2019-05-01 12:30:00
+user3,Esther,8,2019-05-01 12:30:00
+user3,Esther,9,2019-05-01 12:30:00
+user3,Esther,9,2019-05-01 12:30:00
+user3,Esther,9,2019-05-01 12:30:00
+user3,Esther,10,2019-05-01 12:30:00
+user3,Esther,10,2019-05-01 12:30:00
+user3,Ecclesiastes,1,2019-05-01 12:30:00
+user3,Ecclesiastes,1,2019-05-01 12:30:00
+user3,Ecclesiastes,2,2019-05-01 12:30:00
+user3,Ecclesiastes,2,2019-05-01 12:30:00
+user3,Ecclesiastes,2,2019-05-01 12:30:00
+user3,Ecclesiastes,3,2019-05-01 12:30:00
+user3,Ecclesiastes,3,2019-05-01 12:30:00
+user3,Ecclesiastes,3,2019-05-01 12:30:00
+user3,Ecclesiastes,4,2019-05-01 12:30:00
+user3,Ecclesiastes,4,2019-05-01 12:30:00
+user3,Ecclesiastes,5,2019-05-01 12:30:00
+user3,Ecclesiastes,5,2019-05-01 12:30:00
+user3,Ecclesiastes,5,2019-05-01 12:30:00
+user3,Ecclesiastes,6,2019-05-01 12:30:00
+user3,Ecclesiastes,6,2019-05-01 12:30:00
+user3,Ecclesiastes,6,2019-05-01 12:30:00
+user3,Ecclesiastes,7,2019-05-01 12:30:00
+user3,Ecclesiastes,7,2019-05-01 12:30:00
+user3,Ecclesiastes,7,2019-05-01 12:30:00
+user3,Ecclesiastes,8,2019-05-01 12:30:00
+user3,Ecclesiastes,8,2019-05-01 12:30:00
+user3,Ecclesiastes,9,2019-05-01 12:30:00
+user3,Ecclesiastes,9,2019-05-01 12:30:00
+user3,Ecclesiastes,9,2019-05-01 12:30:00
+user3,Ecclesiastes,9,2019-05-01 12:30:00
+user3,Ecclesiastes,10,2019-05-01 12:30:00
+user3,Ecclesiastes,10,2019-05-01 12:30:00
+user3,Ecclesiastes,10,2019-05-01 12:30:00
+user3,Ecclesiastes,10,2019-05-01 12:30:00
+user3,Ecclesiastes,11,2019-05-01 12:30:00
+user3,Ecclesiastes,11,2019-05-01 12:30:00
+user3,Ecclesiastes,12,2019-05-01 12:30:00
+user3,Song of Solomon,1,2019-05-01 12:30:00
+user3,Song of Solomon,1,2019-05-01 12:30:00
+user3,Song of Solomon,1,2019-05-01 12:30:00
+user3,Song of Solomon,2,2019-05-01 12:30:00
+user3,Song of Solomon,2,2019-05-01 12:30:00
+user3,Song of Solomon,2,2019-05-01 12:30:00
+user3,Song of Solomon,3,2019-05-01 12:30:00
+user3,Song of Solomon,3,2019-05-01 12:30:00
+user3,Song of Solomon,3,2019-05-01 12:30:00
+user3,Song of Solomon,4,2019-05-01 12:30:00
+user3,Song of Solomon,4,2019-05-01 12:30:00
+user3,Song of Solomon,5,2019-05-01 12:30:00
+user3,Song of Solomon,5,2019-05-01 12:30:00
+user3,Song of Solomon,6,2019-05-01 12:30:00
+user3,Song of Solomon,6,2019-05-01 12:30:00
+user3,Song of Solomon,6,2019-05-01 12:30:00
+user3,Song of Solomon,7,2019-05-01 12:30:00
+user3,Song of Solomon,7,2019-05-01 12:30:00
+user3,Song of Solomon,8,2019-05-01 12:30:00
+user3,Song of Solomon,8,2019-05-01 12:30:00
+user3,Song of Solomon,8,2019-05-01 12:30:00
+user3,Isaiah,1,2019-05-01 12:30:00
+user3,Isaiah,1,2019-05-01 12:30:00
+user3,Isaiah,1,2019-05-01 12:30:00
+user3,Isaiah,1,2019-05-01 12:30:00
+user3,Isaiah,2,2019-05-01 12:30:00
+user3,Isaiah,2,2019-05-01 12:30:00
+user3,Isaiah,2,2019-05-01 12:30:00
+user3,Isaiah,3,2019-05-01 12:30:00
+user3,Isaiah,3,2019-05-01 12:30:00
+user3,Isaiah,3,2019-05-01 12:30:00
+user3,Isaiah,3,2019-05-01 12:30:00
+user3,Isaiah,4,2019-05-01 12:30:00
+user3,Isaiah,4,2019-05-01 12:30:00
+user3,Isaiah,5,2019-05-01 12:30:00
+user3,Isaiah,5,2019-05-01 12:30:00
+user3,Isaiah,5,2019-05-01 12:30:00
+user3,Isaiah,6,2019-05-01 12:30:00
+user3,Isaiah,6,2019-05-01 12:30:00
+user3,Isaiah,6,2019-05-01 12:30:00
+user3,Isaiah,7,2019-05-01 12:30:00
+user3,Isaiah,8,2019-05-01 12:30:00
+user3,Isaiah,8,2019-05-01 12:30:00
+user3,Isaiah,8,2019-05-01 12:30:00
+user3,Isaiah,9,2019-05-01 12:30:00
+user3,Isaiah,9,2019-05-01 12:30:00
+user3,Isaiah,9,2019-05-01 12:30:00
+user3,Isaiah,9,2019-05-01 12:30:00
+user3,Isaiah,10,2019-05-01 12:30:00
+user3,Isaiah,10,2019-05-01 12:30:00
+user3,Isaiah,10,2019-05-01 12:30:00
+user3,Isaiah,11,2019-05-01 12:30:00
+user3,Isaiah,11,2019-05-01 12:30:00
+user3,Isaiah,11,2019-05-01 12:30:00
+user3,Isaiah,12,2019-05-01 12:30:00
+user3,Isaiah,12,2019-05-01 12:30:00
+user3,Isaiah,12,2019-05-01 12:30:00
+user3,Isaiah,13,2019-05-01 12:30:00
+user3,Isaiah,13,2019-05-01 12:30:00
+user3,Isaiah,13,2019-05-01 12:30:00
+user3,Isaiah,13,2019-05-01 12:30:00
+user3,Isaiah,14,2019-05-01 12:30:00
+user3,Isaiah,14,2019-05-01 12:30:00
+user3,Isaiah,15,2019-05-01 12:30:00
+user3,Isaiah,15,2019-05-01 12:30:00
+user3,Isaiah,15,2019-05-01 12:30:00
+user3,Isaiah,15,2019-05-01 12:30:00
+user3,Isaiah,16,2019-05-01 12:30:00
+user3,Isaiah,16,2019-05-01 12:30:00
+user3,Isaiah,16,2019-05-01 12:30:00
+user3,Isaiah,17,2019-05-01 12:30:00
+user3,Isaiah,17,2019-05-01 12:30:00
+user3,Isaiah,18,2019-05-01 12:30:00
+user3,Isaiah,18,2019-05-01 12:30:00
+user3,Isaiah,18,2019-05-01 12:30:00
+user3,Isaiah,18,2019-05-01 12:30:00
+user3,Isaiah,19,2019-05-01 12:30:00
+user3,Isaiah,19,2019-05-01 12:30:00
+user3,Isaiah,19,2019-05-01 12:30:00
+user3,Isaiah,20,2019-05-01 12:30:00
+user3,Isaiah,20,2019-05-01 12:30:00
+user3,Isaiah,21,2019-05-01 12:30:00
+user3,Isaiah,21,2019-05-01 12:30:00
+user3,Isaiah,21,2019-05-01 12:30:00
+user3,Isaiah,21,2019-05-01 12:30:00
+user3,Isaiah,23,2019-05-01 12:30:00
+user3,Isaiah,23,2019-05-01 12:30:00
+user3,Isaiah,23,2019-05-01 12:30:00
+user3,Isaiah,24,2019-05-01 12:30:00
+user3,Isaiah,24,2019-05-01 12:30:00
+user3,Isaiah,24,2019-05-01 12:30:00
+user3,Isaiah,25,2019-05-01 12:30:00
+user3,Isaiah,25,2019-05-01 12:30:00
+user3,Isaiah,25,2019-05-01 12:30:00
+user3,Isaiah,26,2019-05-01 12:30:00
+user3,Isaiah,27,2019-05-01 12:30:00
+user3,Isaiah,27,2019-05-01 12:30:00
+user3,Isaiah,28,2019-05-01 12:30:00
+user3,Isaiah,28,2019-05-01 12:30:00
+user3,Isaiah,29,2019-05-01 12:30:00
+user3,Isaiah,29,2019-05-01 12:30:00
+user3,Isaiah,29,2019-05-01 12:30:00
+user3,Isaiah,30,2019-05-01 12:30:00
+user3,Isaiah,30,2019-05-01 12:30:00
+user3,Isaiah,30,2019-05-01 12:30:00
+user3,Isaiah,31,2019-05-01 12:30:00
+user3,Isaiah,31,2019-05-01 12:30:00
+user3,Isaiah,31,2019-05-01 12:30:00
+user3,Isaiah,31,2019-05-01 12:30:00
+user3,Isaiah,32,2019-05-01 12:30:00
+user3,Isaiah,32,2019-05-01 12:30:00
+user3,Isaiah,32,2019-05-01 12:30:00
+user3,Isaiah,33,2019-05-01 12:30:00
+user3,Isaiah,34,2019-05-01 12:30:00
+user3,Isaiah,34,2019-05-01 12:30:00
+user3,Isaiah,34,2019-05-01 12:30:00
+user3,Isaiah,35,2019-05-01 12:30:00
+user3,Isaiah,35,2019-05-01 12:30:00
+user3,Isaiah,35,2019-05-01 12:30:00
+user3,Isaiah,36,2019-05-01 12:30:00
+user3,Isaiah,36,2019-05-01 12:30:00
+user3,Isaiah,37,2019-05-01 12:30:00
+user3,Isaiah,37,2019-05-01 12:30:00
+user3,Isaiah,37,2019-05-01 12:30:00
+user3,Isaiah,38,2019-05-01 12:30:00
+user3,Isaiah,38,2019-05-01 12:30:00
+user3,Isaiah,38,2019-05-01 12:30:00
+user3,Isaiah,39,2019-05-01 12:30:00
+user3,Isaiah,39,2019-05-01 12:30:00
+user3,Isaiah,40,2019-05-01 12:30:00
+user3,Isaiah,40,2019-05-01 12:30:00
+user3,Isaiah,41,2019-05-01 12:30:00
+user3,Isaiah,41,2019-05-01 12:30:00
+user3,Isaiah,41,2019-05-01 12:30:00
+user3,Isaiah,42,2019-05-01 12:30:00
+user3,Isaiah,42,2019-05-01 12:30:00
+user3,Isaiah,42,2019-05-01 12:30:00
+user3,Isaiah,43,2019-05-01 12:30:00
+user3,Isaiah,43,2019-05-01 12:30:00
+user3,Isaiah,43,2019-05-01 12:30:00
+user3,Isaiah,44,2019-05-01 12:30:00
+user3,Isaiah,45,2019-05-01 12:30:00
+user3,Isaiah,45,2019-05-01 12:30:00
+user3,Isaiah,46,2019-05-01 12:30:00
+user3,Isaiah,46,2019-05-01 12:30:00
+user3,Isaiah,47,2019-05-01 12:30:00
+user3,Isaiah,48,2019-05-01 12:30:00
+user3,Isaiah,48,2019-05-01 12:30:00
+user3,Isaiah,49,2019-05-01 12:30:00
+user3,Isaiah,49,2019-05-01 12:30:00
+user3,Isaiah,49,2019-05-01 12:30:00
+user3,Isaiah,50,2019-05-01 12:30:00
+user3,Isaiah,50,2019-05-01 12:30:00
+user3,Isaiah,51,2019-05-01 12:30:00
+user3,Isaiah,52,2019-05-01 12:30:00
+user3,Isaiah,52,2019-05-01 12:30:00
+user3,Isaiah,53,2019-05-01 12:30:00
+user3,Isaiah,53,2019-05-01 12:30:00
+user3,Isaiah,54,2019-05-01 12:30:00
+user3,Isaiah,54,2019-05-01 12:30:00
+user3,Isaiah,55,2019-05-01 12:30:00
+user3,Isaiah,55,2019-05-01 12:30:00
+user3,Isaiah,56,2019-05-01 12:30:00
+user3,Isaiah,56,2019-05-01 12:30:00
+user3,Isaiah,57,2019-05-01 12:30:00
+user3,Isaiah,57,2019-05-01 12:30:00
+user3,Isaiah,58,2019-05-01 12:30:00
+user3,Isaiah,58,2019-05-01 12:30:00
+user3,Isaiah,59,2019-05-01 12:30:00
+user3,Isaiah,59,2019-05-01 12:30:00
+user3,Isaiah,59,2019-05-01 12:30:00
+user3,Isaiah,60,2019-05-01 12:30:00
+user3,Isaiah,60,2019-05-01 12:30:00
+user3,Isaiah,60,2019-05-01 12:30:00
+user3,Isaiah,61,2019-05-01 12:30:00
+user3,Isaiah,61,2019-05-01 12:30:00
+user3,Isaiah,61,2019-05-01 12:30:00
+user3,Isaiah,62,2019-05-01 12:30:00
+user3,Isaiah,62,2019-05-01 12:30:00
+user3,Isaiah,62,2019-05-01 12:30:00
+user3,Isaiah,63,2019-05-01 12:30:00
+user3,Isaiah,64,2019-05-01 12:30:00
+user3,Isaiah,64,2019-05-01 12:30:00
+user3,Isaiah,64,2019-05-01 12:30:00
+user3,Isaiah,64,2019-05-01 12:30:00
+user3,Isaiah,65,2019-05-01 12:30:00
+user3,Isaiah,65,2019-05-01 12:30:00
+user3,Isaiah,65,2019-05-01 12:30:00
+user3,Isaiah,66,2019-05-01 12:30:00
+user3,Jeremiah,1,2019-05-01 12:30:00
+user3,Jeremiah,1,2019-05-01 12:30:00
+user3,Jeremiah,1,2019-05-01 12:30:00
+user3,Jeremiah,2,2019-05-01 12:30:00
+user3,Jeremiah,2,2019-05-01 12:30:00
+user3,Jeremiah,2,2019-05-01 12:30:00
+user3,Jeremiah,2,2019-05-01 12:30:00
+user3,Jeremiah,3,2019-05-01 12:30:00
+user3,Jeremiah,3,2019-05-01 12:30:00
+user3,Jeremiah,3,2019-05-01 12:30:00
+user3,Jeremiah,4,2019-05-01 12:30:00
+user3,Jeremiah,5,2019-05-01 12:30:00
+user3,Jeremiah,5,2019-05-01 12:30:00
+user3,Jeremiah,6,2019-05-01 12:30:00
+user3,Jeremiah,6,2019-05-01 12:30:00
+user3,Jeremiah,6,2019-05-01 12:30:00
+user3,Jeremiah,7,2019-05-01 12:30:00
+user3,Jeremiah,8,2019-05-01 12:30:00
+user3,Jeremiah,8,2019-05-01 12:30:00
+user3,Jeremiah,8,2019-05-01 12:30:00
+user3,Jeremiah,9,2019-05-01 12:30:00
+user3,Jeremiah,9,2019-05-01 12:30:00
+user3,Jeremiah,9,2019-05-01 12:30:00
+user3,Jeremiah,10,2019-05-01 12:30:00
+user3,Jeremiah,10,2019-05-01 12:30:00
+user3,Jeremiah,10,2019-05-01 12:30:00
+user3,Jeremiah,11,2019-05-01 12:30:00
+user3,Jeremiah,12,2019-05-01 12:30:00
+user3,Jeremiah,12,2019-05-01 12:30:00
+user3,Jeremiah,12,2019-05-01 12:30:00
+user3,Jeremiah,13,2019-05-01 12:30:00
+user3,Jeremiah,13,2019-05-01 12:30:00
+user3,Jeremiah,13,2019-05-01 12:30:00
+user3,Jeremiah,14,2019-05-01 12:30:00
+user3,Jeremiah,14,2019-05-01 12:30:00
+user3,Jeremiah,14,2019-05-01 12:30:00
+user3,Jeremiah,15,2019-05-01 12:30:00
+user3,Jeremiah,15,2019-05-01 12:30:00
+user3,Jeremiah,15,2019-05-01 12:30:00
+user3,Jeremiah,15,2019-05-01 12:30:00
+user3,Jeremiah,16,2019-05-01 12:30:00
+user3,Jeremiah,16,2019-05-01 12:30:00
+user3,Jeremiah,17,2019-05-01 12:30:00
+user3,Jeremiah,17,2019-05-01 12:30:00
+user3,Jeremiah,17,2019-05-01 12:30:00
+user3,Jeremiah,18,2019-05-01 12:30:00
+user3,Jeremiah,18,2019-05-01 12:30:00
+user3,Jeremiah,18,2019-05-01 12:30:00
+user3,Jeremiah,18,2019-05-01 12:30:00
+user3,Jeremiah,19,2019-05-01 12:30:00
+user3,Jeremiah,19,2019-05-01 12:30:00
+user3,Jeremiah,20,2019-05-01 12:30:00
+user3,Jeremiah,21,2019-05-01 12:30:00
+user3,Jeremiah,21,2019-05-01 12:30:00
+user3,Jeremiah,22,2019-05-01 12:30:00
+user3,Jeremiah,22,2019-05-01 12:30:00
+user3,Jeremiah,23,2019-05-01 12:30:00
+user3,Jeremiah,23,2019-05-01 12:30:00
+user3,Jeremiah,24,2019-05-01 12:30:00
+user3,Jeremiah,24,2019-05-01 12:30:00
+user3,Jeremiah,24,2019-05-01 12:30:00
+user3,Jeremiah,25,2019-05-01 12:30:00
+user3,Jeremiah,25,2019-05-01 12:30:00
+user3,Jeremiah,25,2019-05-01 12:30:00
+user3,Jeremiah,26,2019-05-01 12:30:00
+user3,Jeremiah,26,2019-05-01 12:30:00
+user3,Jeremiah,26,2019-05-01 12:30:00
+user3,Jeremiah,27,2019-05-01 12:30:00
+user3,Jeremiah,27,2019-05-01 12:30:00
+user3,Jeremiah,28,2019-05-01 12:30:00
+user3,Jeremiah,28,2019-05-01 12:30:00
+user3,Jeremiah,28,2019-05-01 12:30:00
+user3,Jeremiah,29,2019-05-01 12:30:00
+user3,Jeremiah,29,2019-05-01 12:30:00
+user3,Jeremiah,30,2019-05-01 12:30:00
+user3,Jeremiah,31,2019-05-01 12:30:00
+user3,Jeremiah,31,2019-05-01 12:30:00
+user3,Jeremiah,32,2019-05-01 12:30:00
+user3,Jeremiah,32,2019-05-01 12:30:00
+user3,Jeremiah,33,2019-05-01 12:30:00
+user3,Jeremiah,33,2019-05-01 12:30:00
+user3,Jeremiah,33,2019-05-01 12:30:00
+user3,Jeremiah,33,2019-05-01 12:30:00
+user3,Jeremiah,34,2019-05-01 12:30:00
+user3,Jeremiah,34,2019-05-01 12:30:00
+user3,Jeremiah,35,2019-05-01 12:30:00
+user3,Jeremiah,36,2019-05-01 12:30:00
+user3,Jeremiah,36,2019-05-01 12:30:00
+user3,Jeremiah,37,2019-05-01 12:30:00
+user3,Jeremiah,37,2019-05-01 12:30:00
+user3,Jeremiah,38,2019-05-01 12:30:00
+user3,Jeremiah,38,2019-05-01 12:30:00
+user3,Jeremiah,38,2019-05-01 12:30:00
+user3,Jeremiah,39,2019-05-01 12:30:00
+user3,Jeremiah,39,2019-05-01 12:30:00
+user3,Jeremiah,39,2019-05-01 12:30:00
+user3,Jeremiah,41,2019-05-01 12:30:00
+user3,Jeremiah,41,2019-05-01 12:30:00
+user3,Jeremiah,41,2019-05-01 12:30:00
+user3,Jeremiah,42,2019-05-01 12:30:00
+user3,Jeremiah,43,2019-05-01 12:30:00
+user3,Jeremiah,43,2019-05-01 12:30:00
+user3,Jeremiah,43,2019-05-01 12:30:00
+user3,Jeremiah,43,2019-05-01 12:30:00
+user3,Jeremiah,44,2019-05-01 12:30:00
+user3,Jeremiah,44,2019-05-01 12:30:00
+user3,Jeremiah,45,2019-05-01 12:30:00
+user3,Jeremiah,46,2019-05-01 12:30:00
+user3,Jeremiah,46,2019-05-01 12:30:00
+user3,Jeremiah,46,2019-05-01 12:30:00
+user3,Jeremiah,47,2019-05-01 12:30:00
+user3,Jeremiah,47,2019-05-01 12:30:00
+user3,Jeremiah,47,2019-05-01 12:30:00
+user3,Jeremiah,48,2019-05-01 12:30:00
+user3,Jeremiah,48,2019-05-01 12:30:00
+user3,Jeremiah,49,2019-05-01 12:30:00
+user3,Jeremiah,49,2019-05-01 12:30:00
+user3,Jeremiah,49,2019-05-01 12:30:00
+user3,Jeremiah,50,2019-05-01 12:30:00
+user3,Jeremiah,50,2019-05-01 12:30:00
+user3,Jeremiah,50,2019-05-01 12:30:00
+user3,Jeremiah,51,2019-05-01 12:30:00
+user3,Jeremiah,51,2019-05-01 12:30:00
+user3,Jeremiah,51,2019-05-01 12:30:00
+user3,Jeremiah,52,2019-05-01 12:30:00
+user3,Jeremiah,52,2019-05-01 12:30:00
+user3,Jeremiah,52,2019-05-01 12:30:00
+user3,Daniel,1,2019-05-01 12:30:00
+user3,Daniel,1,2019-05-01 12:30:00
+user3,Daniel,1,2019-05-01 12:30:00
+user3,Daniel,1,2019-05-01 12:30:00
+user3,Daniel,1,2019-05-01 12:30:00
+user3,Daniel,2,2019-05-01 12:30:00
+user3,Daniel,2,2019-05-01 12:30:00
+user3,Daniel,2,2019-05-01 12:30:00
+user3,Daniel,3,2019-05-01 12:30:00
+user3,Daniel,3,2019-05-01 12:30:00
+user3,Daniel,3,2019-05-01 12:30:00
+user3,Daniel,4,2019-05-01 12:30:00
+user3,Daniel,4,2019-05-01 12:30:00
+user3,Daniel,4,2019-05-01 12:30:00
+user3,Daniel,5,2019-05-01 12:30:00
+user3,Daniel,5,2019-05-01 12:30:00
+user3,Daniel,5,2019-05-01 12:30:00
+user3,Daniel,6,2019-05-01 12:30:00
+user3,Daniel,7,2019-05-01 12:30:00
+user3,Daniel,7,2019-05-01 12:30:00
+user3,Daniel,7,2019-05-01 12:30:00
+user3,Daniel,7,2019-05-01 12:30:00
+user3,Daniel,8,2019-05-01 12:30:00
+user3,Daniel,8,2019-05-01 12:30:00
+user3,Daniel,8,2019-05-01 12:30:00
+user3,Daniel,9,2019-05-01 12:30:00
+user3,Daniel,9,2019-05-01 12:30:00
+user3,Daniel,9,2019-05-01 12:30:00
+user3,Daniel,10,2019-05-01 12:30:00
+user3,Daniel,10,2019-05-01 12:30:00
+user3,Daniel,10,2019-05-01 12:30:00
+user3,Daniel,10,2019-05-01 12:30:00
+user3,Daniel,11,2019-05-01 12:30:00
+user3,Daniel,12,2019-05-01 12:30:00
+user3,Daniel,12,2019-05-01 12:30:00
+user3,Daniel,12,2019-05-01 12:30:00
+user3,Daniel,12,2019-05-01 12:30:00
+user3,Amos,1,2019-05-01 12:30:00
+user3,Amos,1,2019-05-01 12:30:00
+user3,Amos,1,2019-05-01 12:30:00
+user3,Amos,2,2019-05-01 12:30:00
+user3,Amos,2,2019-05-01 12:30:00
+user3,Amos,2,2019-05-01 12:30:00
+user3,Amos,3,2019-05-01 12:30:00
+user3,Amos,3,2019-05-01 12:30:00
+user3,Amos,3,2019-05-01 12:30:00
+user3,Amos,3,2019-05-01 12:30:00
+user3,Amos,4,2019-05-01 12:30:00
+user3,Amos,4,2019-05-01 12:30:00
+user3,Amos,5,2019-05-01 12:30:00
+user3,Amos,5,2019-05-01 12:30:00
+user3,Amos,6,2019-05-01 12:30:00
+user3,Amos,6,2019-05-01 12:30:00
+user3,Amos,6,2019-05-01 12:30:00
+user3,Amos,6,2019-05-01 12:30:00
+user3,Amos,6,2019-05-01 12:30:00
+user3,Amos,6,2019-05-01 12:30:00
+user3,Amos,7,2019-05-01 12:30:00
+user3,Amos,7,2019-05-01 12:30:00
+user3,Amos,7,2019-05-01 12:30:00
+user3,Amos,7,2019-05-01 12:30:00
+user3,Amos,7,2019-05-01 12:30:00
+user3,Amos,8,2019-05-01 12:30:00
+user3,Amos,8,2019-05-01 12:30:00
+user3,Amos,8,2019-05-01 12:30:00
+user3,Amos,8,2019-05-01 12:30:00
+user3,Amos,9,2019-05-01 12:30:00
+user3,Amos,9,2019-05-01 12:30:00
+user3,Amos,9,2019-05-01 12:30:00
+user3,Micah,1,2019-05-01 12:30:00
+user3,Micah,1,2019-05-01 12:30:00
+user3,Micah,1,2019-05-01 12:30:00
+user3,Micah,1,2019-05-01 12:30:00
+user3,Micah,2,2019-05-01 12:30:00
+user3,Micah,2,2019-05-01 12:30:00
+user3,Micah,2,2019-05-01 12:30:00
+user3,Micah,3,2019-05-01 12:30:00
+user3,Micah,3,2019-05-01 12:30:00
+user3,Micah,4,2019-05-01 12:30:00
+user3,Micah,4,2019-05-01 12:30:00
+user3,Micah,5,2019-05-01 12:30:00
+user3,Micah,5,2019-05-01 12:30:00
+user3,Micah,5,2019-05-01 12:30:00
+user3,Micah,6,2019-05-01 12:30:00
+user3,Micah,6,2019-05-01 12:30:00
+user3,Micah,7,2019-05-01 12:30:00
+user3,Micah,7,2019-05-01 12:30:00
+user3,Micah,7,2019-05-01 12:30:00
+user3,Nahum,1,2019-05-01 12:30:00
+user3,Nahum,1,2019-05-01 12:30:00
+user3,Nahum,1,2019-05-01 12:30:00
+user3,Nahum,2,2019-05-01 12:30:00
+user3,Nahum,2,2019-05-01 12:30:00
+user3,Nahum,2,2019-05-01 12:30:00
+user3,Nahum,3,2019-05-01 12:30:00
+user3,Nahum,3,2019-05-01 12:30:00
+user3,Habakkuk,1,2019-05-01 12:30:00
+user3,Habakkuk,1,2019-05-01 12:30:00
+user3,Habakkuk,1,2019-05-01 12:30:00
+user3,Habakkuk,2,2019-05-01 12:30:00
+user3,Habakkuk,2,2019-05-01 12:30:00
+user3,Habakkuk,2,2019-05-01 12:30:00
+user3,Habakkuk,3,2019-05-01 12:30:00
+user3,Habakkuk,3,2019-05-01 12:30:00
+user3,Habakkuk,3,2019-05-01 12:30:00
+user3,Haggai,1,2019-05-01 12:30:00
+user3,Haggai,1,2019-05-01 12:30:00
+user3,Haggai,1,2019-05-01 12:30:00
+user3,Haggai,2,2019-05-01 12:30:00
+user3,Haggai,2,2019-05-01 12:30:00
+user3,Haggai,2,2019-05-01 12:30:00
+user3,Haggai,2,2019-05-01 12:30:00
+user3,Haggai,2,2019-05-01 12:30:00
+user3,Zechariah,1,2019-05-01 12:30:00
+user3,Zechariah,2,2019-05-01 12:30:00
+user3,Zechariah,2,2019-05-01 12:30:00
+user3,Zechariah,2,2019-05-01 12:30:00
+user3,Zechariah,3,2019-05-01 12:30:00
+user3,Zechariah,4,2019-05-01 12:30:00
+user3,Zechariah,4,2019-05-01 12:30:00
+user3,Zechariah,4,2019-05-01 12:30:00
+user3,Zechariah,4,2019-05-01 12:30:00
+user3,Zechariah,4,2019-05-01 12:30:00
+user3,Zechariah,5,2019-05-01 12:30:00
+user3,Zechariah,5,2019-05-01 12:30:00
+user3,Zechariah,5,2019-05-01 12:30:00
+user3,Zechariah,6,2019-05-01 12:30:00
+user3,Zechariah,6,2019-05-01 12:30:00
+user3,Zechariah,7,2019-05-01 12:30:00
+user3,Zechariah,7,2019-05-01 12:30:00
+user3,Zechariah,7,2019-05-01 12:30:00
+user3,Zechariah,8,2019-05-01 12:30:00
+user3,Zechariah,8,2019-05-01 12:30:00
+user3,Zechariah,8,2019-05-01 12:30:00
+user3,Zechariah,9,2019-05-01 12:30:00
+user3,Zechariah,9,2019-05-01 12:30:00
+user3,Zechariah,10,2019-05-01 12:30:00
+user3,Zechariah,10,2019-05-01 12:30:00
+user3,Zechariah,10,2019-05-01 12:30:00
+user3,Zechariah,11,2019-05-01 12:30:00
+user3,Zechariah,11,2019-05-01 12:30:00
+user3,Zechariah,11,2019-05-01 12:30:00
+user3,Zechariah,11,2019-05-01 12:30:00
+user3,Zechariah,12,2019-05-01 12:30:00
+user3,Zechariah,12,2019-05-01 12:30:00
+user3,Zechariah,12,2019-05-01 12:30:00
+user3,Zechariah,13,2019-05-01 12:30:00
+user3,Zechariah,13,2019-05-01 12:30:00
+user3,Zechariah,13,2019-05-01 12:30:00
+user3,Zechariah,13,2019-05-01 12:30:00
+user3,Zechariah,14,2019-05-01 12:30:00
+user3,Zechariah,14,2019-05-01 12:30:00
+user3,Zechariah,14,2019-05-01 12:30:00
+user3,Luke,1,2019-05-01 12:30:00
+user3,Luke,1,2019-05-01 12:30:00
+user3,Luke,1,2019-05-01 12:30:00
+user3,Luke,2,2019-05-01 12:30:00
+user3,Luke,2,2019-05-01 12:30:00
+user3,Luke,2,2019-05-01 12:30:00
+user3,Luke,3,2019-05-01 12:30:00
+user3,Luke,3,2019-05-01 12:30:00
+user3,Luke,3,2019-05-01 12:30:00
+user3,Luke,4,2019-05-01 12:30:00
+user3,Luke,4,2019-05-01 12:30:00
+user3,Luke,4,2019-05-01 12:30:00
+user3,Luke,5,2019-05-01 12:30:00
+user3,Luke,5,2019-05-01 12:30:00
+user3,Luke,6,2019-05-01 12:30:00
+user3,Luke,6,2019-05-01 12:30:00
+user3,Luke,6,2019-05-01 12:30:00
+user3,Luke,7,2019-05-01 12:30:00
+user3,Luke,7,2019-05-01 12:30:00
+user3,Luke,8,2019-05-01 12:30:00
+user3,Luke,9,2019-05-01 12:30:00
+user3,Luke,9,2019-05-01 12:30:00
+user3,Luke,10,2019-05-01 12:30:00
+user3,Luke,10,2019-05-01 12:30:00
+user3,Luke,10,2019-05-01 12:30:00
+user3,Luke,10,2019-05-01 12:30:00
+user3,Luke,10,2019-05-01 12:30:00
+user3,Luke,11,2019-05-01 12:30:00
+user3,Luke,11,2019-05-01 12:30:00
+user3,Luke,11,2019-05-01 12:30:00
+user3,Luke,12,2019-05-01 12:30:00
+user3,Luke,12,2019-05-01 12:30:00
+user3,Luke,12,2019-05-01 12:30:00
+user3,Luke,13,2019-05-01 12:30:00
+user3,Luke,13,2019-05-01 12:30:00
+user3,Luke,14,2019-05-01 12:30:00
+user3,Luke,14,2019-05-01 12:30:00
+user3,Luke,14,2019-05-01 12:30:00
+user3,Luke,14,2019-05-01 12:30:00
+user3,Luke,15,2019-05-01 12:30:00
+user3,Luke,15,2019-05-01 12:30:00
+user3,Luke,15,2019-05-01 12:30:00
+user3,Luke,15,2019-05-01 12:30:00
+user3,Luke,16,2019-05-01 12:30:00
+user3,Luke,16,2019-05-01 12:30:00
+user3,Luke,17,2019-05-01 12:30:00
+user3,Luke,18,2019-05-01 12:30:00
+user3,Luke,18,2019-05-01 12:30:00
+user3,Luke,18,2019-05-01 12:30:00
+user3,Luke,19,2019-05-01 12:30:00
+user3,Luke,19,2019-05-01 12:30:00
+user3,Luke,19,2019-05-01 12:30:00
+user3,Luke,20,2019-05-01 12:30:00
+user3,Luke,20,2019-05-01 12:30:00
+user3,Luke,20,2019-05-01 12:30:00
+user3,Luke,20,2019-05-01 12:30:00
+user3,Luke,21,2019-05-01 12:30:00
+user3,Luke,21,2019-05-01 12:30:00
+user3,Luke,21,2019-05-01 12:30:00
+user3,Luke,22,2019-05-01 12:30:00
+user3,Luke,24,2019-05-01 12:30:00
+user3,Luke,24,2019-05-01 12:30:00
+user3,Luke,24,2019-05-01 12:30:00
+user3,1 Corinthians,1,2019-05-01 12:30:00
+user3,1 Corinthians,1,2019-05-01 12:30:00
+user3,1 Corinthians,1,2019-05-01 12:30:00
+user3,1 Corinthians,2,2019-05-01 12:30:00
+user3,1 Corinthians,2,2019-05-01 12:30:00
+user3,1 Corinthians,2,2019-05-01 12:30:00
+user3,1 Corinthians,3,2019-05-01 12:30:00
+user3,1 Corinthians,3,2019-05-01 12:30:00
+user3,1 Corinthians,4,2019-05-01 12:30:00
+user3,1 Corinthians,4,2019-05-01 12:30:00
+user3,1 Corinthians,4,2019-05-01 12:30:00
+user3,1 Corinthians,4,2019-05-01 12:30:00
+user3,1 Corinthians,5,2019-05-01 12:30:00
+user3,1 Corinthians,5,2019-05-01 12:30:00
+user3,1 Corinthians,5,2019-05-01 12:30:00
+user3,1 Corinthians,5,2019-05-01 12:30:00
+user3,1 Corinthians,6,2019-05-01 12:30:00
+user3,1 Corinthians,6,2019-05-01 12:30:00
+user3,1 Corinthians,6,2019-05-01 12:30:00
+user3,1 Corinthians,6,2019-05-01 12:30:00
+user3,1 Corinthians,7,2019-05-01 12:30:00
+user3,1 Corinthians,7,2019-05-01 12:30:00
+user3,1 Corinthians,7,2019-05-01 12:30:00
+user3,1 Corinthians,8,2019-05-01 12:30:00
+user3,1 Corinthians,8,2019-05-01 12:30:00
+user3,1 Corinthians,9,2019-05-01 12:30:00
+user3,1 Corinthians,9,2019-05-01 12:30:00
+user3,1 Corinthians,9,2019-05-01 12:30:00
+user3,1 Corinthians,10,2019-05-01 12:30:00
+user3,1 Corinthians,10,2019-05-01 12:30:00
+user3,1 Corinthians,10,2019-05-01 12:30:00
+user3,1 Corinthians,11,2019-05-01 12:30:00
+user3,1 Corinthians,11,2019-05-01 12:30:00
+user3,1 Corinthians,12,2019-05-01 12:30:00
+user3,1 Corinthians,12,2019-05-01 12:30:00
+user3,1 Corinthians,12,2019-05-01 12:30:00
+user3,1 Corinthians,13,2019-05-01 12:30:00
+user3,1 Corinthians,13,2019-05-01 12:30:00
+user3,1 Corinthians,13,2019-05-01 12:30:00
+user3,1 Corinthians,13,2019-05-01 12:30:00
+user3,1 Corinthians,14,2019-05-01 12:30:00
+user3,1 Corinthians,15,2019-05-01 12:30:00
+user3,1 Corinthians,16,2019-05-01 12:30:00
+user3,1 Corinthians,16,2019-05-01 12:30:00
+user3,1 Corinthians,16,2019-05-01 12:30:00
+user3,1 Corinthians,16,2019-05-01 12:30:00
+user3,2 Thessalonians,1,2019-05-01 12:30:00
+user3,2 Thessalonians,1,2019-05-01 12:30:00
+user3,2 Thessalonians,2,2019-05-01 12:30:00
+user3,2 Thessalonians,2,2019-05-01 12:30:00
+user3,2 Thessalonians,3,2019-05-01 12:30:00
+user3,2 Thessalonians,3,2019-05-01 12:30:00
+user3,1 Timothy,1,2019-05-01 12:30:00
+user3,1 Timothy,2,2019-05-01 12:30:00
+user3,1 Timothy,2,2019-05-01 12:30:00
+user3,1 Timothy,2,2019-05-01 12:30:00
+user3,1 Timothy,2,2019-05-01 12:30:00
+user3,1 Timothy,3,2019-05-01 12:30:00
+user3,1 Timothy,3,2019-05-01 12:30:00
+user3,1 Timothy,3,2019-05-01 12:30:00
+user3,1 Timothy,4,2019-05-01 12:30:00
+user3,1 Timothy,4,2019-05-01 12:30:00
+user3,1 Timothy,4,2019-05-01 12:30:00
+user3,1 Timothy,4,2019-05-01 12:30:00
+user3,1 Timothy,5,2019-05-01 12:30:00
+user3,1 Timothy,5,2019-05-01 12:30:00
+user3,1 Timothy,5,2019-05-01 12:30:00
+user3,1 Timothy,6,2019-05-01 12:30:00
+user3,1 Timothy,6,2019-05-01 12:30:00
+user3,1 Timothy,6,2019-05-01 12:30:00
+user3,1 Timothy,6,2019-05-01 12:30:00
+user3,Titus,1,2019-05-01 12:30:00
+user3,Titus,1,2019-05-01 12:30:00
+user3,Titus,2,2019-05-01 12:30:00
+user3,Titus,2,2019-05-01 12:30:00
+user3,Titus,3,2019-05-01 12:30:00
+user3,Titus,3,2019-05-01 12:30:00
+user3,Titus,3,2019-05-01 12:30:00
+user3,Philemon,1,2019-05-01 12:30:00
+user3,Philemon,1,2019-05-01 12:30:00
+user3,Philemon,1,2019-05-01 12:30:00
+user3,Philemon,1,2019-05-01 12:30:00
+user3,James,1,2019-05-01 12:30:00
+user3,James,1,2019-05-01 12:30:00
+user3,James,1,2019-05-01 12:30:00
+user3,James,2,2019-05-01 12:30:00
+user3,James,2,2019-05-01 12:30:00
+user3,James,2,2019-05-01 12:30:00
+user3,James,3,2019-05-01 12:30:00
+user3,James,3,2019-05-01 12:30:00
+user3,James,4,2019-05-01 12:30:00
+user3,James,4,2019-05-01 12:30:00
+user3,James,4,2019-05-01 12:30:00
+user3,James,5,2019-05-01 12:30:00
+user3,James,5,2019-05-01 12:30:00
+user3,1 John,1,2019-05-01 12:30:00
+user3,1 John,1,2019-05-01 12:30:00
+user3,1 John,1,2019-05-01 12:30:00
+user3,1 John,2,2019-05-01 12:30:00
+user3,1 John,2,2019-05-01 12:30:00
+user3,1 John,2,2019-05-01 12:30:00
+user3,1 John,3,2019-05-01 12:30:00
+user3,1 John,3,2019-05-01 12:30:00
+user3,1 John,3,2019-05-01 12:30:00
+user3,1 John,3,2019-05-01 12:30:00
+user3,1 John,4,2019-05-01 12:30:00
+user3,1 John,4,2019-05-01 12:30:00
+user3,1 John,4,2019-05-01 12:30:00
+user3,1 John,4,2019-05-01 12:30:00
+user3,3 John,1,2019-05-01 12:30:00
+user3,3 John,1,2019-05-01 12:30:00
+user3,Jude,1,2019-05-01 12:30:00
+user3,Jude,1,2019-05-01 12:30:00
+user3,Jude,1,2019-05-01 12:30:00
+user3,Revelation,1,2019-05-01 12:30:00
+user3,Revelation,1,2019-05-01 12:30:00
+user3,Revelation,1,2019-05-01 12:30:00
+user3,Revelation,2,2019-05-01 12:30:00
+user3,Revelation,2,2019-05-01 12:30:00
+user3,Revelation,2,2019-05-01 12:30:00
+user3,Revelation,2,2019-05-01 12:30:00
+user3,Revelation,2,2019-05-01 12:30:00
+user3,Revelation,3,2019-05-01 12:30:00
+user3,Revelation,3,2019-05-01 12:30:00
+user3,Revelation,3,2019-05-01 12:30:00
+user3,Revelation,3,2019-05-01 12:30:00
+user3,Revelation,4,2019-05-01 12:30:00
+user3,Revelation,5,2019-05-01 12:30:00
+user3,Revelation,5,2019-05-01 12:30:00
+user3,Revelation,5,2019-05-01 12:30:00
+user3,Revelation,6,2019-05-01 12:30:00
+user3,Revelation,6,2019-05-01 12:30:00
+user3,Revelation,6,2019-05-01 12:30:00
+user3,Revelation,6,2019-05-01 12:30:00
+user3,Revelation,7,2019-05-01 12:30:00
+user3,Revelation,7,2019-05-01 12:30:00
+user3,Revelation,7,2019-05-01 12:30:00
+user3,Revelation,7,2019-05-01 12:30:00
+user3,Revelation,8,2019-05-01 12:30:00
+user3,Revelation,8,2019-05-01 12:30:00
+user3,Revelation,8,2019-05-01 12:30:00
+user3,Revelation,8,2019-05-01 12:30:00
+user3,Revelation,9,2019-05-01 12:30:00
+user3,Revelation,9,2019-05-01 12:30:00
+user3,Revelation,9,2019-05-01 12:30:00
+user3,Revelation,10,2019-05-01 12:30:00
+user3,Revelation,10,2019-05-01 12:30:00
+user3,Revelation,10,2019-05-01 12:30:00
+user3,Revelation,10,2019-05-01 12:30:00
+user3,Revelation,11,2019-05-01 12:30:00
+user3,Revelation,11,2019-05-01 12:30:00
+user3,Revelation,11,2019-05-01 12:30:00
+user3,Revelation,11,2019-05-01 12:30:00
+user3,Revelation,11,2019-05-01 12:30:00
+user3,Revelation,12,2019-05-01 12:30:00
+user3,Revelation,12,2019-05-01 12:30:00
+user3,Revelation,13,2019-05-01 12:30:00
+user3,Revelation,13,2019-05-01 12:30:00
+user3,Revelation,13,2019-05-01 12:30:00
+user3,Revelation,13,2019-05-01 12:30:00
+user3,Revelation,14,2019-05-01 12:30:00
+user3,Revelation,14,2019-05-01 12:30:00
+user3,Revelation,15,2019-05-01 12:30:00
+user3,Revelation,15,2019-05-01 12:30:00
+user3,Revelation,15,2019-05-01 12:30:00
+user3,Revelation,15,2019-05-01 12:30:00
+user3,Revelation,16,2019-05-01 12:30:00
+user3,Revelation,17,2019-05-01 12:30:00
+user3,Revelation,18,2019-05-01 12:30:00
+user3,Revelation,18,2019-05-01 12:30:00
+user3,Revelation,18,2019-05-01 12:30:00
+user3,Revelation,19,2019-05-01 12:30:00
+user3,Revelation,19,2019-05-01 12:30:00
+user3,Revelation,20,2019-05-01 12:30:00
+user3,Revelation,20,2019-05-01 12:30:00
+user3,Revelation,20,2019-05-01 12:30:00
+user3,Revelation,20,2019-05-01 12:30:00
+user3,Revelation,21,2019-05-01 12:30:00
+user3,Revelation,21,2019-05-01 12:30:00
+user3,Revelation,21,2019-05-01 12:30:00
+user3,Revelation,22,2019-05-01 12:30:00
+user3,Revelation,22,2019-05-01 12:30:00
+user3,Revelation,22,2019-05-01 12:30:00

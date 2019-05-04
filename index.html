@@ -7,6 +7,11 @@
 function openChaptersView() {
     document.getElementById("books").style.width = "50%";
     document.getElementById("chapters").style.width = "50%";
+    document.getElementById("chapters").style.left = "50%";
+}
+function closeChaptersView() {
+    document.getElementById("chapters").style.width = "0";
+    openBooksView();
 }
 function openBooksView() {
     document.getElementById("books").style.width = "100%";
@@ -15,9 +20,22 @@ function closeBooksView() {
     document.getElementById("books").style.width = "0";
 
 }
+function openChaptersView() {
+    document.getElementById("books").style.width = "50%";
+    document.getElementById("chapters").style.width = "50%";
+    document.getElementById("chapters").style.left = "50%";
+}
 function closeChaptersView() {
     document.getElementById("chapters").style.width = "0";
     openBooksView();
+}
+function openVersesView() {
+    minimizeBookChapterViews();
+}
+function minimizeBookChapterViews() {
+    document.getElementById("books").style.width = "15%";
+    document.getElementById("chapters").style.width = "15%";
+    document.getElementById("chapters").style.left = "15%";
 }
 </script>
 
@@ -116,10 +134,10 @@ body {
 </div>
 <div id="chapters" class="sidenav2">
     <a href="javascript:void(0)" class="closebtn" onclick="closeChaptersView()">&times;</a>
-    <a href="#">1</a>
-    <a href="#">2</a>
-    <a href="#">3</a>
-    <a href="#">4</a>
+    <a href="#" onclick="openVersesView()">1</a>
+    <a href="#" onclick="openVersesView()">2</a>
+    <a href="#" onclick="openVersesView()">3</a>
+    <a href="#" onclick="openVersesView()">4</a>
 </div>
 </body>
 </html> 

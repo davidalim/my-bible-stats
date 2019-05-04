@@ -33,6 +33,7 @@ body {
   overflow-x: hidden;
   transition: 1s;
   padding-top: 60px;
+  padding-bottom: 60px;
   text-align:center;
 }
 .sidenav2 {
@@ -46,6 +47,7 @@ body {
   overflow-x: hidden;
   transition: 1s;
   padding-top: 60px;
+  padding-bottom: 60px;
   text-align:center;
 }
 

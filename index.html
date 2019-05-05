@@ -19,6 +19,18 @@
 </head>
 
 <body>
+<script>
+  // This function, combined with the custom 404.html, turns this into a single-page app.
+  // See https://www.smashingmagazine.com/2016/08/sghpa-single-page-app-hack-github-pages/
+  (function(){
+    var redirect = sessionStorage.redirect;
+    delete sessionStorage.redirect;
+    if (redirect && redirect != location.href) {
+      history.replaceState(null, null, redirect);
+    }
+  })();
+</script>
+
 <div id="books" class="sidenav container">
 
 </div>
@@ -34,6 +46,25 @@
 <script type="text/javascript">
 
   var selectedBook = "";
+  var selectedChapter = "";
+
+  // Specific path selected
+  var pathArray = window.location.pathname.split('/');
+  if (pathArray.length == 0) {
+    // No path
+  } else if (pathArray.length == 1) {
+    // Book specified
+    selectedBook = pathArray[0];
+    console.log("Book specified in URL: " + selectedBook);
+  } else if (pathArray.length == 2) {
+    // Book and Chapter specified
+    selectedBook = pathArray[0];
+    selectedChapter = pathArray[1];
+    console.log("Book specified in URL: " + selectedBook);
+  } else {
+    // Display 404
+    console.log("Invalid path");
+  }
 
   for (var bookname in bookdata) {
     console.log("Book " + bookname + " has " + bookdata[bookname] + " chapters");
@@ -47,15 +78,20 @@
     }
   }
 
+  function formatBookName(bookname) {
+    return bookname.replace(/ /g,"+")
+  }
+
   $('body').on('click', '.bookname', function(e) {
     var bookname = $(e.target).text();
     selectedBook = bookname;
+    history.pushState({}, '', '/' + formatBookName(bookname))
     displayChapters(bookname);
   });
 
   $('body').on('click', '.chapter', function(e) {
     var chapter = $(e.target).text();
-    window.location.hash = selectedBook + '-' + chapter;
+    history.pushState({}, '', '/' + formatBookName(selectedBook) + '/' + chapter)
     getChapterFromEsv(selectedBook, chapter);
   });
 

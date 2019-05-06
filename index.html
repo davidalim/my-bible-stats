@@ -30,51 +30,61 @@
     }
   })();
 </script>
-
-<div id="books" class="sidenav container">
-
-</div>
-<div id="chapters" class="sidenav2 container">
-    <a href="javascript:void(0)" class="closebtn" onclick="closeChaptersView()">&times;</a>
-</div>
-<div id="verses" class="sidenav3 container">
-    <a href="javascript:void(0)" class="closebtn" onclick="closeVersesView()">&times;</a>
-    <div id="bible-content">
-        Verses!
-    </div>
+<div class="container">
+  <div id="books" class="sidenav selectnav">
+    <div class="content"></div>
+  </div>
+  <div id="chapters" class="sidenav selectnav">
+    <a href="javascript:void(0)" class="closebtn" onclick="showBookSelectionView()">&times;</a>
+    <div class="content"></div>
+  </div>
+  <div id="verses" class="sidenav">
+    <a href="javascript:void(0)" class="closebtn" onclick="showChapterSelectionView()">&times;</a>
+    <div id="bible-content" class="content">Verses!</div>
+  </div>
 </div>
 <script type="text/javascript">
 
   var selectedBook = "";
   var selectedChapter = "";
 
-  // Specific path selected
-  var pathArray = window.location.pathname.split('/');
-  if (pathArray.length == 0) {
-    // No path
-  } else if (pathArray.length == 1) {
-    // Book specified
-    selectedBook = pathArray[0];
-    console.log("Book specified in URL: " + selectedBook);
-  } else if (pathArray.length == 2) {
-    // Book and Chapter specified
-    selectedBook = pathArray[0];
-    selectedChapter = pathArray[1];
-    console.log("Book specified in URL: " + selectedBook);
-  } else {
-    // Display 404
-    console.log("Invalid path");
+
+  showBookSelectionView();
+
+
+  function loadStateBasedOnPath(){
+    var pathArray = window.location.pathname.substr(1).split('/');
+    if (pathArray[0] == "") {
+      // No path
+      console.log("No path");
+    } else if (pathArray.length == 1) {
+      // Book specified
+      selectedBook = pathArray[0];
+      console.log("Book specified in URL: " + selectedBook);
+    } else if (pathArray.length == 2) {
+      // Book and Chapter specified
+      selectedBook = pathArray[0];
+      selectedChapter = pathArray[1];
+      console.log("Book specified in URL: " + selectedBook);
+    } else {
+      // Display 404
+      console.log("Invalid path");
+    }
   }
+
+  window.addEventListener('popstate', (event) => {
+    loadStateBasedOnPath();
+  });
 
   for (var bookname in bookdata) {
     console.log("Book " + bookname + " has " + bookdata[bookname] + " chapters");
-    $( "#books" ).append( "<a class='bookname' id='" + bookname + "' onclick='openChaptersView()'>" + bookname + "</a>");
+    $( "#books .content" ).append( "<a class='bookname' id='" + bookname + "' onclick='showChapterSelectionView()'>" + bookname + "</a>");
   }
 
   function displayChapters(bookname) {
     $("a").remove('.chapter');
     for (var i = 1; i <= bookdata[bookname]; i++) { 
-      $("#chapters").append( "<a class='chapter' onclick='openVersesView()'>" + i + "</a>");
+      $("#chapters .content").append( "<a class='chapter' onclick='showVersesView()'>" + i + "</a>");
     }
   }
 

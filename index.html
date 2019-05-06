@@ -49,9 +49,6 @@
   var selectedChapter = "";
 
 
-  showBookSelectionView();
-
-
   function loadStateBasedOnPath(){
     var pathArray = window.location.pathname.substr(1).split('/');
     if (pathArray[0] == "") {
@@ -95,13 +92,13 @@
   $('body').on('click', '.bookname', function(e) {
     var bookname = $(e.target).text();
     selectedBook = bookname;
-    history.pushState({}, '', '/' + formatBookName(bookname))
+    history.pushState({}, '', formatBookName(bookname))
     displayChapters(bookname);
   });
 
   $('body').on('click', '.chapter', function(e) {
     var chapter = $(e.target).text();
-    history.pushState({}, '', '/' + formatBookName(selectedBook) + '/' + chapter)
+    history.replaceState({}, '', formatBookName(selectedBook) + '/' + chapter)
     getChapterFromEsv(selectedBook, chapter);
   });
 

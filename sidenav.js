@@ -77,8 +77,6 @@ function refreshViewIfNeeded() {
 }
 
 $( document ).ready(function() {
-    /* Call the function */
-    refreshView();
     /* Attach the function to the resize event listener */
     window.addEventListener('resize', refreshViewIfNeeded, false);  
 });

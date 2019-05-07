@@ -3,15 +3,17 @@
 <head>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
-<script type="text/javascript" src="sidenav.js"></script>
-<script type="text/javascript" src="verses.js"></script>
-<script type="text/javascript" src="bookdata.js"></script>
 <script type="application/json" class="js-hypothesis-config">
   {
     "theme": "clean"
   }
 </script>
 <script src="https://hypothes.is/embed.js" async></script>
+<script type="text/javascript" src="sidenav.js"></script>
+<script type="text/javascript" src="verses.js"></script>
+<script type="text/javascript" src="bookdata.js"></script>
+
+
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="esv.css">
@@ -31,16 +33,17 @@
   })();
 </script>
 <div class="container">
-  <div id="books" class="sidenav selectnav">
+  <div id="books" class="sidenav selectnav disable-selection">
     <div class="content"></div>
   </div>
-  <div id="chapters" class="sidenav selectnav">
+  <div id="chapters" class="sidenav selectnav disable-selection">
     <a href="javascript:void(0)" class="closebtn" onclick="showBookSelectionView()">&times;</a>
     <div class="content"></div>
   </div>
   <div id="verses" class="sidenav">
     <a href="javascript:void(0)" class="closebtn" onclick="showChapterSelectionView()">&times;</a>
-    <div id="bible-content" class="content">Verses!</div>
+    <a href="javascript:void(0)" class="sidebtn" data-hypothesis-trigger>&#9665;</a>
+    <div id="bible-content" class="content">loading...</div>
   </div>
 </div>
 <script type="text/javascript">
@@ -54,24 +57,29 @@
     if (pathArray[0] == "") {
       // No path
       console.log("No path");
+      showBookSelectionView();
     } else if (pathArray.length == 1) {
       // Book specified
       selectedBook = pathArray[0];
       console.log("Book specified in URL: " + selectedBook);
+      displayChapters(selectedBook);
+      showChapterSelectionView();
     } else if (pathArray.length == 2) {
       // Book and Chapter specified
       selectedBook = pathArray[0];
       selectedChapter = pathArray[1];
       console.log("Book specified in URL: " + selectedBook);
+      displayChapters(selectedBook);
+      getChapterFromEsv(selectedBook, selectedChapter);
+      showVersesView();
     } else {
       // Display 404
       console.log("Invalid path");
+      showBookSelectionView();
     }
   }
 
-  window.addEventListener('popstate', (event) => {
-    loadStateBasedOnPath();
-  });
+
 
   for (var bookname in bookdata) {
     console.log("Book " + bookname + " has " + bookdata[bookname] + " chapters");
@@ -100,6 +108,11 @@
     var chapter = $(e.target).text();
     history.replaceState({}, '', formatBookName(selectedBook) + '/' + chapter)
     getChapterFromEsv(selectedBook, chapter);
+  });
+
+  $( document ).ready(function() {
+    loadStateBasedOnPath();
+    window.addEventListener('popstate', loadStateBasedOnPath, false);
   });
 
 </script>

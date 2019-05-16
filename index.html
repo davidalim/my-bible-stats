@@ -5,7 +5,9 @@
 <!--
 TODO
 [x] Keep link highlighted when clicked
-[ ] Fix URL transformations
+[x] Fix URL transformations
+[ ] Add check for invalid book/chapter
+[ ] Refactor code for better states. Right now there are problems with inconsistent states (highlighting)
 
 -->
 
@@ -35,7 +37,7 @@ TODO
     var redirect = sessionStorage.redirect;
     delete sessionStorage.redirect;
     if (redirect && redirect != location.href) {
-      history.replaceState(null, null, redirect);
+      history.replaceState({}, '', redirect);
     }
   })();
 </script>
@@ -44,11 +46,11 @@ TODO
     <div class="content"></div>
   </div>
   <div id="chapters" class="sidenav selectnav disable-selection">
-    <a href="javascript:void(0)" class="closebtn" onclick="showBookSelectionView()">&times;</a>
+    <a href="javascript:void(0)" class="closebtn" onclick="showBookSelectionView();history.back();">&times;</a>
     <div class="content"></div>
   </div>
   <div id="verses" class="sidenav">
-    <a href="javascript:void(0)" class="closebtn" onclick="showChapterSelectionView()">&times;</a>
+    <a href="javascript:void(0)" class="closebtn" onclick="showChapterSelectionView();history.back();">&times;</a>
     <a href="javascript:void(0)" class="sidebtn" data-hypothesis-trigger>&#9665;</a>
     <div id="bible-content" class="content">loading...</div>
   </div>
@@ -80,13 +82,12 @@ TODO
       getChapterFromEsv(selectedBook, selectedChapter);
       showVersesView();
     } else {
-      // Display 404
+      // Redirect to home veiw
       console.log("Invalid path");
+      history.replaceState({}, '', "/");
       showBookSelectionView();
     }
   }
-
-
 
   for (var bookname in bookdata) {
     console.log("Book " + bookname + " has " + bookdata[bookname] + " chapters");
@@ -120,7 +121,7 @@ TODO
 
   $('body').on('click', '.chapter', function(e) {
     var chapter = $(e.target).text();
-    history.replaceState({}, '', formatBookName(selectedBook) + '/' + chapter)
+    history.pushState({}, '', formatBookName(selectedBook) + '/' + chapter)
     getChapterFromEsv(selectedBook, chapter);
     highlight_selected(this);
   });

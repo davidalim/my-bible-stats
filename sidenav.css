@@ -37,6 +37,10 @@ body {
   color: #72abbf;
 }
 
+.sidenav a.active {
+  color: #99C5B5;
+}
+
 .sidenav .closebtn {
   position: fixed;
   top: 25px;

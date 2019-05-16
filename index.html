@@ -2,6 +2,13 @@
 <html>
 <head>
 
+<!--
+TODO
+[x] Keep link highlighted when clicked
+[ ] Fix URL transformations
+
+-->
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
 <script type="application/json" class="js-hypothesis-config">
   {
@@ -97,17 +104,25 @@
     return bookname.replace(/ /g,"+")
   }
 
+  function highlight_selected(item){
+    var itemclass = $(item).attr('class');
+    $("." + itemclass).removeClass("active");
+    $(item).toggleClass("active");
+  }
+
   $('body').on('click', '.bookname', function(e) {
     var bookname = $(e.target).text();
     selectedBook = bookname;
     history.pushState({}, '', formatBookName(bookname))
     displayChapters(bookname);
+    highlight_selected(this);
   });
 
   $('body').on('click', '.chapter', function(e) {
     var chapter = $(e.target).text();
     history.replaceState({}, '', formatBookName(selectedBook) + '/' + chapter)
     getChapterFromEsv(selectedBook, chapter);
+    highlight_selected(this);
   });
 
   $( document ).ready(function() {
